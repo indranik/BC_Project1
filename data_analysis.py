@@ -1,1 +1,2 @@
-THis is first
+import os
+print('THis is first')
