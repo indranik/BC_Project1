@@ -1,4 +1,4 @@
-This is the second "and this is the fifth change"
+My name is NINJA!
 and third
 and fourth
 
