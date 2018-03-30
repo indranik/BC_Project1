@@ -1,0 +1,2696 @@
+,Latitude,Longitude,Name,Rating,Site Name,count of
+0,38.96,-77.42,Reston Hospital Center,3.3,Center for Innovation Technology,4
+1,38.96,-77.42,National Association of Urban Hospital,NAN,Center for Innovation Technology,4
+2,38.96,-77.42,Farrell Pediatrics,3.5,Center for Innovation Technology,4
+3,38.96,-77.42,Watson Salsbury Pediatrics,NAN,Center for Innovation Technology,4
+4,38.84,-77.05,George Washington University Hospital,2.9,Crystal City and Potomac Yard,12
+5,38.84,-77.05,Virginia Hospital Center,3.7,Crystal City and Potomac Yard,12
+6,38.84,-77.05,Unity Health Care,4,Crystal City and Potomac Yard,12
+7,38.84,-77.05,Fresenius Medical Care,NAN,Crystal City and Potomac Yard,12
+8,38.84,-77.05,BridgePoint Hospital Capitol Hill,2.7,Crystal City and Potomac Yard,12
+9,38.84,-77.05,Georgetown University Hospital,NAN,Crystal City and Potomac Yard,12
+10,38.84,-77.05,Bridgepoint Hospital National Harbor,3.1,Crystal City and Potomac Yard,12
+11,38.84,-77.05,St. Elizabeths Hospital,4.1,Crystal City and Potomac Yard,12
+12,38.84,-77.05,Inova Alexandria Hospital,3.2,Crystal City and Potomac Yard,12
+13,38.84,-77.05,United Medical Center,1.4,Crystal City and Potomac Yard,12
+14,38.84,-77.05,Magellan Health Services,NAN,Crystal City and Potomac Yard,12
+15,38.84,-77.05,MedStar Washington Hospital Center,NAN,Crystal City and Potomac Yard,12
+16,38.86,-77.01,George Washington University Hospital,2.9,Nationals Park/ D.C United Stadium,16
+17,38.86,-77.01,MedStar Washington Hospital Center,3.2,Nationals Park/ D.C United Stadium,16
+18,38.86,-77.01,Howard University Hospital,2.7,Nationals Park/ D.C United Stadium,16
+19,38.86,-77.01,UM Prince George's Hospital Center,2.2,Nationals Park/ D.C United Stadium,16
+20,38.86,-77.01,Georgetown University Hospital Rad,NAN,Nationals Park/ D.C United Stadium,16
+21,38.86,-77.01,Unity Health Care,4,Nationals Park/ D.C United Stadium,16
+22,38.86,-77.01,Fresenius Medical Care,NAN,Nationals Park/ D.C United Stadium,16
+23,38.86,-77.01,BridgePoint Hospital Capitol Hill,2.7,Nationals Park/ D.C United Stadium,16
+24,38.86,-77.01,Georgetown University Hospital,NAN,Nationals Park/ D.C United Stadium,16
+25,38.86,-77.01,Bridgepoint Hospital National Harbor,3.1,Nationals Park/ D.C United Stadium,16
+26,38.86,-77.01,St. Elizabeths Hospital,4.1,Nationals Park/ D.C United Stadium,16
+27,38.86,-77.01,Children's National Medical Center,3.9,Nationals Park/ D.C United Stadium,16
+28,38.86,-77.01,Washington DC VA Medical Center,3.3,Nationals Park/ D.C United Stadium,16
+29,38.86,-77.01,V-A CRRC,4,Nationals Park/ D.C United Stadium,16
+30,38.86,-77.01,United Medical Center,1.4,Nationals Park/ D.C United Stadium,16
+31,38.86,-77.01,Magellan Health Services,NAN,Nationals Park/ D.C United Stadium,16
+32,38.89,-77,George Washington University Hospital,2.9,Union Station,19
+33,38.89,-77,MedStar Washington Hospital Center,3.2,Union Station,19
+34,38.89,-77,Howard University Hospital,2.7,Union Station,19
+35,38.89,-77,UM Prince George's Hospital Center,2.2,Union Station,19
+36,38.89,-77,Providence Hospital,2.6,Union Station,19
+37,38.89,-77,Georgetown University Hospital Rad,NAN,Union Station,19
+38,38.89,-77,Soldiers Home,5,Union Station,19
+39,38.89,-77,Unity Health Care,4,Union Station,19
+40,38.89,-77,Fresenius Medical Care,NAN,Union Station,19
+41,38.89,-77,BridgePoint Hospital Capitol Hill,2.7,Union Station,19
+42,38.89,-77,Georgetown University Hospital,NAN,Union Station,19
+43,38.89,-77,Bridgepoint Hospital National Harbor,3.1,Union Station,19
+44,38.89,-77,St. Elizabeths Hospital,4.1,Union Station,19
+45,38.89,-77,Children's National Medical Center,3.9,Union Station,19
+46,38.89,-77,Washington DC VA Medical Center,3.3,Union Station,19
+47,38.89,-77,V-A CRRC,4,Union Station,19
+48,38.89,-77,United Medical Center,1.4,Union Station,19
+49,38.89,-77,Magellan Health Services,NAN,Union Station,19
+50,38.89,-77,Physician Hospitals of America,NAN,Union Station,19
+51,38.88,-76.97,George Washington University Hospital,2.9,Hill-East Neighborhood,17
+52,38.88,-76.97,MedStar Washington Hospital Center,3.2,Hill-East Neighborhood,17
+53,38.88,-76.97,Howard University Hospital,2.7,Hill-East Neighborhood,17
+54,38.88,-76.97,UM Prince George's Hospital Center,2.2,Hill-East Neighborhood,17
+55,38.88,-76.97,Providence Hospital,2.6,Hill-East Neighborhood,17
+56,38.88,-76.97,Soldiers Home,5,Hill-East Neighborhood,17
+57,38.88,-76.97,Unity Health Care,4,Hill-East Neighborhood,17
+58,38.88,-76.97,Fresenius Medical Care,NAN,Hill-East Neighborhood,17
+59,38.88,-76.97,BridgePoint Hospital Capitol Hill,2.7,Hill-East Neighborhood,17
+60,38.88,-76.97,Bridgepoint Hospital National Harbor,3.1,Hill-East Neighborhood,17
+61,38.88,-76.97,St. Elizabeths Hospital,4.1,Hill-East Neighborhood,17
+62,38.88,-76.97,Children's National Medical Center,3.9,Hill-East Neighborhood,17
+63,38.88,-76.97,Washington DC VA Medical Center,3.3,Hill-East Neighborhood,17
+64,38.88,-76.97,V-A CRRC,4,Hill-East Neighborhood,17
+65,38.88,-76.97,United Medical Center,1.4,Hill-East Neighborhood,17
+66,38.88,-76.97,Magellan Health Services,NAN,Hill-East Neighborhood,17
+67,38.88,-76.97,Physician Hospitals of America,NAN,Hill-East Neighborhood,17
+68,38.91,-77.02,George Washington University Hospital,2.9,Shaw-Howard University Area,17
+69,38.91,-77.02,MedStar Washington Hospital Center,3.2,Shaw-Howard University Area,17
+70,38.91,-77.02,Howard University Hospital,2.7,Shaw-Howard University Area,17
+71,38.91,-77.02,Providence Hospital,2.6,Shaw-Howard University Area,17
+72,38.91,-77.02,Georgetown University Hospital Rad,NAN,Shaw-Howard University Area,17
+73,38.91,-77.02,Sibley Memorial Hospital,3.6,Shaw-Howard University Area,17
+74,38.91,-77.02,Soldiers Home,5,Shaw-Howard University Area,17
+75,38.91,-77.02,Unity Health Care,4,Shaw-Howard University Area,17
+76,38.91,-77.02,Fresenius Medical Care,NAN,Shaw-Howard University Area,17
+77,38.91,-77.02,BridgePoint Hospital Capitol Hill,2.7,Shaw-Howard University Area,17
+78,38.91,-77.02,Georgetown University Hospital,NAN,Shaw-Howard University Area,17
+79,38.91,-77.02,St. Elizabeths Hospital,4.1,Shaw-Howard University Area,17
+80,38.91,-77.02,Children's National Medical Center,3.9,Shaw-Howard University Area,17
+81,38.91,-77.02,Washington DC VA Medical Center,3.3,Shaw-Howard University Area,17
+82,38.91,-77.02,V-A CRRC,4,Shaw-Howard University Area,17
+83,38.91,-77.02,"Seventh-Day Adventist Hospital,",1,Shaw-Howard University Area,17
+84,38.91,-77.02,Magellan Health Services,NAN,Shaw-Howard University Area,17
+85,34.1802,-118.6028,West Hills Hospital & Medical Center,3.4,Warner Center West San Fernando Valley,2
+86,34.1802,-118.6028,Dignity Health - Northridge Hospital Medical Center,3.5,Warner Center West San Fernando Valley,2
+87,34.4318,-118.5584,Henry Mayo Newhall Hospital,3.2,New Hall Ranch Santa Clarita Valley,5
+88,34.4318,-118.5584,Children's Hospital Los Angeles - Valencia Care Center,5,New Hall Ranch Santa Clarita Valley,5
+89,34.4318,-118.5584,Providence Holy Cross Health Center at Santa Clarita,NAN,New Hall Ranch Santa Clarita Valley,5
+90,34.4318,-118.5584,Henry Mayo Wound Care Center,NAN,New Hall Ranch Santa Clarita Valley,5
+91,34.4318,-118.5584,Pediatric Cardiology Medical Associates,NAN,New Hall Ranch Santa Clarita Valley,5
+92,34.0885,-117.7702,San Dimas Community Hospital,2.7,Pomona Fairplex,8
+93,34.0885,-117.7702,Pomona Valley Hospital Medical Center,2.7,Pomona Fairplex,8
+94,34.0885,-117.7702,Montclair Hospital Medical Center,2.7,Pomona Fairplex,8
+95,34.0885,-117.7702,Hospital,1,Pomona Fairplex,8
+96,34.0885,-117.7702,Chino Valley Medical Center,2.8,Pomona Fairplex,8
+97,34.0885,-117.7702,Pomona Valley Health Centers,NAN,Pomona Fairplex,8
+98,34.0885,-117.7702,My Family Medical Group,NAN,Pomona Fairplex,8
+99,34.0885,-117.7702,Casa Colina Hospital and Centers for Healthcare,4.1,Pomona Fairplex,8
+100,42.39,-71,Massachusetts General Hospital Plastic & Reconstructive Surgery,4.2,Suffolk Downs,16
+101,42.39,-71,"Dr. Alex B. Haynes, MD",NAN,Suffolk Downs,16
+102,42.39,-71,mass general hospital,5,Suffolk Downs,16
+103,42.39,-71,MGH Downtown Primary Care,5,Suffolk Downs,16
+104,42.39,-71,Tufts Medical Center,3.8,Suffolk Downs,16
+105,42.39,-71,CHA Everett Hospital Campus,2.6,Suffolk Downs,16
+106,42.39,-71,Medical Center Hospital,5,Suffolk Downs,16
+107,42.39,-71,Dr Jonathan Sillman,NAN,Suffolk Downs,16
+108,42.39,-71,Harvard Vanguard Post Office Square,4,Suffolk Downs,16
+109,42.39,-71,MGH Chelsea Healthcare Center,4.1,Suffolk Downs,16
+110,42.39,-71,MGH Charlestown HealthCare Center,3.5,Suffolk Downs,16
+111,42.39,-71,East Boston Neighborhood Health Center,3.1,Suffolk Downs,16
+112,42.39,-71,Boston Medical Center,3.5,Suffolk Downs,16
+113,42.39,-71,Pediatric Otolaryngology | MassGeneral Hospital for Children,NAN,Suffolk Downs,16
+114,42.39,-71,Floating Hospital,5,Suffolk Downs,16
+115,42.39,-71,Shriners Hospitals for Children,4.9,Suffolk Downs,16
+116,42.34,-71.03,Massachusetts General Hospital Plastic & Reconstructive Surgery,4.2,South Boston Waterfront,20
+117,42.34,-71.03,"Dr. Alex B. Haynes, MD",NAN,South Boston Waterfront,20
+118,42.34,-71.03,mass general hospital,5,South Boston Waterfront,20
+119,42.34,-71.03,MGH Downtown Primary Care,5,South Boston Waterfront,20
+120,42.34,-71.03,Beth Israel Deaconess Medical Center,NAN,South Boston Waterfront,20
+121,42.34,-71.03,CHA Somerville Hospital,3.3,South Boston Waterfront,20
+122,42.34,-71.03,Tufts Medical Center,3.8,South Boston Waterfront,20
+123,42.34,-71.03,Lemuel Shattuck Hospital,2.8,South Boston Waterfront,20
+124,42.34,-71.03,CHA Everett Hospital Campus,2.6,South Boston Waterfront,20
+125,42.34,-71.03,Medical Center Hospital,5,South Boston Waterfront,20
+126,42.34,-71.03,Boston Children's Hospital Financial and Billing,NAN,South Boston Waterfront,20
+127,42.34,-71.03,Dr Jonathan Sillman,NAN,South Boston Waterfront,20
+128,42.34,-71.03,Harvard Vanguard Post Office Square,4,South Boston Waterfront,20
+129,42.34,-71.03,The Harvard Vanguard Cambridge,NAN,South Boston Waterfront,20
+130,42.34,-71.03,Kenmore - Harvard Vanguard,NAN,South Boston Waterfront,20
+131,42.34,-71.03,Harvard Street Neighborhood,2.9,South Boston Waterfront,20
+132,42.34,-71.03,Beth Israel Deaconess Medical Center,3.7,South Boston Waterfront,20
+133,42.34,-71.03,Brigham and Women's Hospital,3.8,South Boston Waterfront,20
+134,42.34,-71.03,MGH Chelsea Healthcare Center,4.1,South Boston Waterfront,20
+135,42.34,-71.03,MGH Charlestown HealthCare Center,3.5,South Boston Waterfront,20
+136,42.35,-71.05,Massachusetts General Hospital Plastic & Reconstructive Surgery,4.2,Downtown,20
+137,42.35,-71.05,Mount Auburn Hospital,3.2,Downtown,20
+138,42.35,-71.05,"Dr. Alex B. Haynes, MD",NAN,Downtown,20
+139,42.35,-71.05,mass general hospital,5,Downtown,20
+140,42.35,-71.05,MGH Downtown Primary Care,5,Downtown,20
+141,42.35,-71.05,Beth Israel Deaconess Medical Center,NAN,Downtown,20
+142,42.35,-71.05,CHA Somerville Hospital,3.3,Downtown,20
+143,42.35,-71.05,Tufts Medical Center,3.8,Downtown,20
+144,42.35,-71.05,Lemuel Shattuck Hospital,2.8,Downtown,20
+145,42.35,-71.05,CHA Everett Hospital Campus,2.6,Downtown,20
+146,42.35,-71.05,Medical Center Hospital,5,Downtown,20
+147,42.35,-71.05,Boston Children's Hospital Financial and Billing,NAN,Downtown,20
+148,42.35,-71.05,St. Elizabeth's Medical Center,3,Downtown,20
+149,42.35,-71.05,Dr Jonathan Sillman,NAN,Downtown,20
+150,42.35,-71.05,Harvard Vanguard Post Office Square,4,Downtown,20
+151,42.35,-71.05,The Harvard Vanguard Cambridge,NAN,Downtown,20
+152,42.35,-71.05,Kenmore - Harvard Vanguard,NAN,Downtown,20
+153,42.35,-71.05,Harvard Street Neighborhood,2.9,Downtown,20
+154,42.35,-71.05,Beth Israel Deaconess Medical Center,3.7,Downtown,20
+155,42.35,-71.05,Brigham and Women's Hospital,3.8,Downtown,20
+156,42.34,-71.06,Massachusetts General Hospital Plastic & Reconstructive Surgery,4.2,South End,20
+157,42.34,-71.06,Mount Auburn Hospital,3.2,South End,20
+158,42.34,-71.06,"Dr. Alex B. Haynes, MD",NAN,South End,20
+159,42.34,-71.06,mass general hospital,5,South End,20
+160,42.34,-71.06,MGH Downtown Primary Care,5,South End,20
+161,42.34,-71.06,Beth Israel Deaconess Medical Center,NAN,South End,20
+162,42.34,-71.06,CHA Somerville Hospital,3.3,South End,20
+163,42.34,-71.06,Tufts Medical Center,3.8,South End,20
+164,42.34,-71.06,Lemuel Shattuck Hospital,2.8,South End,20
+165,42.34,-71.06,CHA Everett Hospital Campus,2.6,South End,20
+166,42.34,-71.06,Medical Center Hospital,5,South End,20
+167,42.34,-71.06,Boston Children's Hospital Financial and Billing,NAN,South End,20
+168,42.34,-71.06,St. Elizabeth's Medical Center,3,South End,20
+169,42.34,-71.06,Dr Jonathan Sillman,NAN,South End,20
+170,42.34,-71.06,Harvard Vanguard Post Office Square,4,South End,20
+171,42.34,-71.06,The Harvard Vanguard Cambridge,NAN,South End,20
+172,42.34,-71.06,Kenmore - Harvard Vanguard,NAN,South End,20
+173,42.34,-71.06,Harvard Street Neighborhood,2.9,South End,20
+174,42.34,-71.06,Beth Israel Deaconess Medical Center,3.7,South End,20
+175,42.34,-71.06,Brigham and Women's Hospital,3.8,South End,20
+176,40.75,-74,NYC Health + Hospitals/Metropolitan,3.3,Hudson Yards,20
+177,40.75,-74,Bellevue Hospital Center,3.6,Hudson Yards,20
+178,40.75,-74,NewYork-Presbyterian/Lower Manhattan Hospital,3.7,Hudson Yards,20
+179,40.75,-74,NYC Health + Hospitals/Harlem,2.6,Hudson Yards,20
+180,40.75,-74,The Mount Sinai Hospital,4.1,Hudson Yards,20
+181,40.75,-74,NYC Health + Hospitals/Woodhull,2.5,Hudson Yards,20
+182,40.75,-74,NYC Health + Hospitals,NAN,Hudson Yards,20
+183,40.75,-74,Meadowlands Hospital Medical Center,2.5,Hudson Yards,20
+184,40.75,-74,Mount Sinai Beth Israel,3.7,Hudson Yards,20
+185,40.75,-74,The Brooklyn Hospital Center,3,Hudson Yards,20
+186,40.75,-74,Long Island College Hospital,3,Hudson Yards,20
+187,40.75,-74,NewYork-Presbyterian Hospital,1,Hudson Yards,20
+188,40.75,-74,NYU Langone Medical Associates,NAN,Hudson Yards,20
+189,40.75,-74,Christ Hospital,2.4,Hudson Yards,20
+190,40.75,-74,Weill Cornell Medicine,NAN,Hudson Yards,20
+191,40.75,-74,Concorde Medical Group,NAN,Hudson Yards,20
+192,40.75,-74,NewYork Presbyterian Hospital,3.1,Hudson Yards,20
+193,40.75,-74,New York Presbyterian Hospital,5,Hudson Yards,20
+194,40.75,-74,New York City Health & Hospital,4,Hudson Yards,20
+195,40.75,-74,New York Methodist Hospital,3,Hudson Yards,20
+196,40.74,-73.94,NYC Health + Hospitals/Metropolitan,3.3,Long Island City,20
+197,40.74,-73.94,Bellevue Hospital Center,3.6,Long Island City,20
+198,40.74,-73.94,NewYork-Presbyterian/Lower Manhattan Hospital,3.7,Long Island City,20
+199,40.74,-73.94,The Mount Sinai Hospital,4.1,Long Island City,20
+200,40.74,-73.94,NYC Health + Hospitals/Woodhull,2.5,Long Island City,20
+201,40.74,-73.94,NYC Health + Hospitals/Elmhurst,2.2,Long Island City,20
+202,40.74,-73.94,NewYork-Presbyterian Brooklyn Methodist Hospital,NAN,Long Island City,20
+203,40.74,-73.94,Mount Sinai Beth Israel,3.7,Long Island City,20
+204,40.74,-73.94,The Brooklyn Hospital Center,3,Long Island City,20
+205,40.74,-73.94,Long Island College Hospital,3,Long Island City,20
+206,40.74,-73.94,New York City-Health & Hospital,3,Long Island City,20
+207,40.74,-73.94,NewYork-Presbyterian Hospital,1,Long Island City,20
+208,40.74,-73.94,NewYork-Presbyterian Brooklyn Methodist Hospital,3.3,Long Island City,20
+209,40.74,-73.94,NYU Langone Medical Associates,NAN,Long Island City,20
+210,40.74,-73.94,Weill Cornell Medicine,NAN,Long Island City,20
+211,40.74,-73.94,Concorde Medical Group,NAN,Long Island City,20
+212,40.74,-73.94,NewYork Presbyterian Hospital,3.1,Long Island City,20
+213,40.74,-73.94,New York Presbyterian Hospital,5,Long Island City,20
+214,40.74,-73.94,New York City Health & Hospital,4,Long Island City,20
+215,40.74,-73.94,New York Methodist Hospital,3,Long Island City,20
+216,40.7,-73.98,NYC Health + Hospitals/Woodhull,2.5,Brooklyn Tech Triangle,20
+217,40.7,-73.98,NewYork-Presbyterian Brooklyn Methodist Hospital,3.3,Brooklyn Tech Triangle,20
+218,40.7,-73.98,Brookdale Hospital Medical Center,2,Brooklyn Tech Triangle,20
+219,40.7,-73.98,Interfaith Medical Center,2.3,Brooklyn Tech Triangle,20
+220,40.7,-73.98,NYC Health + Hospitals/Elmhurst,2.2,Brooklyn Tech Triangle,20
+221,40.7,-73.98,NewYork-Presbyterian Brooklyn Methodist Hospital,NAN,Brooklyn Tech Triangle,20
+222,40.7,-73.98,The Brooklyn Hospital Center,3,Brooklyn Tech Triangle,20
+223,40.7,-73.98,Long Island College Hospital,3,Brooklyn Tech Triangle,20
+224,40.7,-73.98,NewYork-Presbyterian/Lower Manhattan Hospital,3.7,Brooklyn Tech Triangle,20
+225,40.7,-73.98,New York City-Health & Hospital,3,Brooklyn Tech Triangle,20
+226,40.7,-73.98,Bellevue Hospital Center,3.6,Brooklyn Tech Triangle,20
+227,40.7,-73.98,NewYork-Presbyterian Hospital,1,Brooklyn Tech Triangle,20
+228,40.7,-73.98,NYU Langone Medical Associates,NAN,Brooklyn Tech Triangle,20
+229,40.7,-73.98,Christ Hospital,2.4,Brooklyn Tech Triangle,20
+230,40.7,-73.98,Concorde Medical Group,NAN,Brooklyn Tech Triangle,20
+231,40.7,-73.98,Weill Cornell Medicine,NAN,Brooklyn Tech Triangle,20
+232,40.7,-73.98,NewYork Presbyterian Hospital,3.1,Brooklyn Tech Triangle,20
+233,40.7,-73.98,New York Presbyterian Hospital,5,Brooklyn Tech Triangle,20
+234,40.7,-73.98,Brooklyn Hospital Family Center,1.5,Brooklyn Tech Triangle,20
+235,40.7,-73.98,New York Methodist Hospital,3,Brooklyn Tech Triangle,20
+236,40.7,-74.01,Christ Hospital,2.4,Financial District,20
+237,40.7,-74.01,Jersey City Medical Center,2.7,Financial District,20
+238,40.7,-74.01,NYC Health + Hospitals/Woodhull,2.5,Financial District,20
+239,40.7,-74.01,NewYork-Presbyterian Brooklyn Methodist Hospital,NAN,Financial District,20
+240,40.7,-74.01,The Brooklyn Hospital Center,3,Financial District,20
+241,40.7,-74.01,Long Island College Hospital,3,Financial District,20
+242,40.7,-74.01,NewYork-Presbyterian/Lower Manhattan Hospital,3.7,Financial District,20
+243,40.7,-74.01,NewYork-Presbyterian Brooklyn Methodist Hospital,3.3,Financial District,20
+244,40.7,-74.01,New York City-Health & Hospital,3,Financial District,20
+245,40.7,-74.01,Bellevue Hospital Center,3.6,Financial District,20
+246,40.7,-74.01,NewYork-Presbyterian Hospital,1,Financial District,20
+247,40.7,-74.01,NYU Langone Medical Associates,NAN,Financial District,20
+248,40.7,-74.01,Weill Cornell Medicine,NAN,Financial District,20
+249,40.7,-74.01,Concorde Medical Group,NAN,Financial District,20
+250,40.7,-74.01,NewYork Presbyterian Hospital,3.1,Financial District,20
+251,40.7,-74.01,New York Presbyterian Hospital,5,Financial District,20
+252,40.7,-74.01,Brooklyn Hospital Family Center,1.5,Financial District,20
+253,40.7,-74.01,New York Methodist Hospital,3,Financial District,20
+254,40.7,-74.01,The Children's Hospital of Hudson County,5,Financial District,20
+255,40.7,-74.01,Maimonides Medical Center,2.7,Financial District,20
+256,41.91,-87.64,Weiss Memorial Hospital,2.8,Lincoln Yards,20
+257,41.91,-87.64,Northwestern Memorial Hospital,3.5,Lincoln Yards,20
+258,41.91,-87.64,Mercy Hospital & Medical Center,2.6,Lincoln Yards,20
+259,41.91,-87.64,Norwegian American Hospital,2.9,Lincoln Yards,20
+260,41.91,-87.64,Kindred Hospital Chicago North,3.2,Lincoln Yards,20
+261,41.91,-87.64,Methodist Hospital of Chicago,2.2,Lincoln Yards,20
+262,41.91,-87.64,University of Illinois Hospital & Health Sciences System,3.2,Lincoln Yards,20
+263,41.91,-87.64,Thorek Memorial Hospital,2.2,Lincoln Yards,20
+264,41.91,-87.64,"John H. Stroger, Jr. Hospital of Cook County",3.2,Lincoln Yards,20
+265,41.91,-87.64,Saint Anthony Hospital,3.1,Lincoln Yards,20
+266,41.91,-87.64,Rush University Medical Center,3.8,Lincoln Yards,20
+267,41.91,-87.64,ST. PATRICK MEMORIAL HOSPITAL,NAN,Lincoln Yards,20
+268,41.91,-87.64,Swedish Covenant Hospital,NAN,Lincoln Yards,20
+269,41.91,-87.64,NorthShore University HealthSystem,NAN,Lincoln Yards,20
+270,41.91,-87.64,Saint Elizabeth Hospital,3.9,Lincoln Yards,20
+271,41.91,-87.64,Mount Sinai Hospital,2.5,Lincoln Yards,20
+272,41.91,-87.64,North Health Service Corporation,2.3,Lincoln Yards,20
+273,41.91,-87.64,University of Chicago Medicine Center for Advanced Care at South Loop,5,Lincoln Yards,20
+274,41.91,-87.64,Antillas Family Medical Center,2.4,Lincoln Yards,20
+275,41.91,-87.64,Rush University Medical Center,NAN,Lincoln Yards,20
+276,41.89,-87.64,Northwestern Memorial Hospital,3.5,The River District,20
+277,41.89,-87.64,Mercy Hospital & Medical Center,2.6,The River District,20
+278,41.89,-87.64,Norwegian American Hospital,2.9,The River District,20
+279,41.89,-87.64,Kindred Hospital Chicago North,3.2,The River District,20
+280,41.89,-87.64,University of Illinois Hospital & Health Sciences System,3.2,The River District,20
+281,41.89,-87.64,Thorek Memorial Hospital,2.2,The River District,20
+282,41.89,-87.64,"John H. Stroger, Jr. Hospital of Cook County",3.2,The River District,20
+283,41.89,-87.64,Saint Anthony Hospital,3.1,The River District,20
+284,41.89,-87.64,Rush University Medical Center,3.8,The River District,20
+285,41.89,-87.64,ST. PATRICK MEMORIAL HOSPITAL,NAN,The River District,20
+286,41.89,-87.64,NorthShore University HealthSystem,NAN,The River District,20
+287,41.89,-87.64,Saint Elizabeth Hospital,3.9,The River District,20
+288,41.89,-87.64,Mount Sinai Hospital,2.5,The River District,20
+289,41.89,-87.64,North Health Service Corporation,2.3,The River District,20
+290,41.89,-87.64,University of Chicago Medicine Center for Advanced Care at South Loop,5,The River District,20
+291,41.89,-87.64,Antillas Family Medical Center,2.4,The River District,20
+292,41.89,-87.64,Rush University Medical Center,NAN,The River District,20
+293,41.89,-87.64,Presence Saint Joseph Hospital,3.5,The River District,20
+294,41.89,-87.64,Advocate Health Care,NAN,The River District,20
+295,41.89,-87.64,Ann & Robert H. Lurie Children's Hospital of Chicago,4.3,The River District,20
+296,41.88,-87.65,Northwestern Memorial Hospital,3.5,Futton Market,20
+297,41.88,-87.65,Mercy Hospital & Medical Center,2.6,Futton Market,20
+298,41.88,-87.65,Norwegian American Hospital,2.9,Futton Market,20
+299,41.88,-87.65,University of Illinois Hospital & Health Sciences System,3.2,Futton Market,20
+300,41.88,-87.65,University of Illinois Hospital,3,Futton Market,20
+301,41.88,-87.65,"John H. Stroger, Jr. Hospital of Cook County",3.2,Futton Market,20
+302,41.88,-87.65,Saint Anthony Hospital,3.1,Futton Market,20
+303,41.88,-87.65,Rush University Medical Center,3.8,Futton Market,20
+304,41.88,-87.65,ST. PATRICK MEMORIAL HOSPITAL,NAN,Futton Market,20
+305,41.88,-87.65,NorthShore University HealthSystem,NAN,Futton Market,20
+306,41.88,-87.65,Saint Elizabeth Hospital,3.9,Futton Market,20
+307,41.88,-87.65,Mount Sinai Hospital,2.5,Futton Market,20
+308,41.88,-87.65,North Health Service Corporation,2.3,Futton Market,20
+309,41.88,-87.65,University of Chicago Medicine Center for Advanced Care at South Loop,5,Futton Market,20
+310,41.88,-87.65,Antillas Family Medical Center,2.4,Futton Market,20
+311,41.88,-87.65,Rush University Medical Center,NAN,Futton Market,20
+312,41.88,-87.65,Presence Saint Joseph Hospital,3.5,Futton Market,20
+313,41.88,-87.65,Advocate Health Care,NAN,Futton Market,20
+314,41.88,-87.65,Ann & Robert H. Lurie Children's Hospital of Chicago,4.3,Futton Market,20
+315,41.88,-87.65,Kindred Chicago Central Hospital,4.2,Futton Market,20
+316,41.87,-87.63,Northwestern Memorial Hospital,3.5,City Center Campus,20
+317,41.87,-87.63,Mercy Hospital & Medical Center,2.6,City Center Campus,20
+318,41.87,-87.63,Norwegian American Hospital,2.9,City Center Campus,20
+319,41.87,-87.63,University of Illinois Hospital & Health Sciences System,3.2,City Center Campus,20
+320,41.87,-87.63,University of Illinois Hospital,3,City Center Campus,20
+321,41.87,-87.63,"John H. Stroger, Jr. Hospital of Cook County",3.2,City Center Campus,20
+322,41.87,-87.63,Saint Anthony Hospital,3.1,City Center Campus,20
+323,41.87,-87.63,Rush University Medical Center,3.8,City Center Campus,20
+324,41.87,-87.63,ST. PATRICK MEMORIAL HOSPITAL,NAN,City Center Campus,20
+325,41.87,-87.63,Saint Elizabeth Hospital,3.9,City Center Campus,20
+326,41.87,-87.63,Provident Hospital of Cook County,3.8,City Center Campus,20
+327,41.87,-87.63,Mount Sinai Hospital,2.5,City Center Campus,20
+328,41.87,-87.63,North Health Service Corporation,2.3,City Center Campus,20
+329,41.87,-87.63,University of Chicago Medicine Center for Advanced Care at South Loop,5,City Center Campus,20
+330,41.87,-87.63,Antillas Family Medical Center,2.4,City Center Campus,20
+331,41.87,-87.63,Rush University Medical Center,NAN,City Center Campus,20
+332,41.87,-87.63,Presence Saint Joseph Hospital,3.5,City Center Campus,20
+333,41.87,-87.63,Advocate Health Care,NAN,City Center Campus,20
+334,41.87,-87.63,Advocate Health Center,NAN,City Center Campus,20
+335,41.87,-87.63,Ann & Robert H. Lurie Children's Hospital of Chicago,4.3,City Center Campus,20
+336,41.87,-87.62,Northwestern Memorial Hospital,3.5,The Downtown District,20
+337,41.87,-87.62,Mercy Hospital & Medical Center,2.6,The Downtown District,20
+338,41.87,-87.62,Norwegian American Hospital,2.9,The Downtown District,20
+339,41.87,-87.62,University of Illinois Hospital & Health Sciences System,3.2,The Downtown District,20
+340,41.87,-87.62,University of Illinois Hospital,3,The Downtown District,20
+341,41.87,-87.62,"John H. Stroger, Jr. Hospital of Cook County",3.2,The Downtown District,20
+342,41.87,-87.62,Saint Anthony Hospital,3.1,The Downtown District,20
+343,41.87,-87.62,Rush University Medical Center,3.8,The Downtown District,20
+344,41.87,-87.62,ST. PATRICK MEMORIAL HOSPITAL,NAN,The Downtown District,20
+345,41.87,-87.62,Saint Elizabeth Hospital,3.9,The Downtown District,20
+346,41.87,-87.62,Provident Hospital of Cook County,3.8,The Downtown District,20
+347,41.87,-87.62,Mount Sinai Hospital,2.5,The Downtown District,20
+348,41.87,-87.62,North Health Service Corporation,2.3,The Downtown District,20
+349,41.87,-87.62,University of Chicago Medicine Center for Advanced Care at South Loop,5,The Downtown District,20
+350,41.87,-87.62,Antillas Family Medical Center,2.4,The Downtown District,20
+351,41.87,-87.62,Rush University Medical Center,NAN,The Downtown District,20
+352,41.87,-87.62,Presence Saint Joseph Hospital,3.5,The Downtown District,20
+353,41.87,-87.62,Advocate Health Care,NAN,The Downtown District,20
+354,41.87,-87.62,Advocate Health Center,NAN,The Downtown District,20
+355,41.87,-87.62,Ann & Robert H. Lurie Children's Hospital of Chicago,4.3,The Downtown District,20
+356,41.86,-87.67,Northwestern Memorial Hospital,3.5,The Illinois Medical District,19
+357,41.86,-87.67,Mercy Hospital & Medical Center,2.6,The Illinois Medical District,19
+358,41.86,-87.67,Norwegian American Hospital,2.9,The Illinois Medical District,19
+359,41.86,-87.67,University of Illinois Hospital & Health Sciences System,3.2,The Illinois Medical District,19
+360,41.86,-87.67,University of Illinois Hospital,3,The Illinois Medical District,19
+361,41.86,-87.67,"John H. Stroger, Jr. Hospital of Cook County",3.2,The Illinois Medical District,19
+362,41.86,-87.67,Saint Anthony Hospital,3.1,The Illinois Medical District,19
+363,41.86,-87.67,Rush University Medical Center,3.8,The Illinois Medical District,19
+364,41.86,-87.67,Saint Elizabeth Hospital,3.9,The Illinois Medical District,19
+365,41.86,-87.67,Provident Hospital of Cook County,3.8,The Illinois Medical District,19
+366,41.86,-87.67,Mount Sinai Hospital,2.5,The Illinois Medical District,19
+367,41.86,-87.67,North Health Service Corporation,2.3,The Illinois Medical District,19
+368,41.86,-87.67,University of Chicago Medicine Center for Advanced Care at South Loop,5,The Illinois Medical District,19
+369,41.86,-87.67,Antillas Family Medical Center,2.4,The Illinois Medical District,19
+370,41.86,-87.67,Rush University Medical Center,NAN,The Illinois Medical District,19
+371,41.86,-87.67,Advocate Health Care,NAN,The Illinois Medical District,19
+372,41.86,-87.67,Advocate Health Center,NAN,The Illinois Medical District,19
+373,41.86,-87.67,Ann & Robert H. Lurie Children's Hospital of Chicago,4.3,The Illinois Medical District,19
+374,41.86,-87.67,Mercy Medical on Pulaski,3.6,The Illinois Medical District,19
+375,41.85,-87.66,Northwestern Memorial Hospital,3.5,The 78,20
+376,41.85,-87.66,Mercy Hospital & Medical Center,2.6,The 78,20
+377,41.85,-87.66,Norwegian American Hospital,2.9,The 78,20
+378,41.85,-87.66,University of Illinois Hospital & Health Sciences System,3.2,The 78,20
+379,41.85,-87.66,St. Bernard Hospital,2.1,The 78,20
+380,41.85,-87.66,University of Illinois Hospital,3,The 78,20
+381,41.85,-87.66,"John H. Stroger, Jr. Hospital of Cook County",3.2,The 78,20
+382,41.85,-87.66,Saint Anthony Hospital,3.1,The 78,20
+383,41.85,-87.66,Rush University Medical Center,3.8,The 78,20
+384,41.85,-87.66,Saint Elizabeth Hospital,3.9,The 78,20
+385,41.85,-87.66,Provident Hospital of Cook County,3.8,The 78,20
+386,41.85,-87.66,Mount Sinai Hospital,2.5,The 78,20
+387,41.85,-87.66,North Health Service Corporation,2.3,The 78,20
+388,41.85,-87.66,University of Chicago Medicine Center for Advanced Care at South Loop,5,The 78,20
+389,41.85,-87.66,Antillas Family Medical Center,2.4,The 78,20
+390,41.85,-87.66,Rush University Medical Center,NAN,The 78,20
+391,41.85,-87.66,Advocate Health Care,NAN,The 78,20
+392,41.85,-87.66,Advocate Health Center,NAN,The 78,20
+393,41.85,-87.66,Mercy Medical on Pulaski,3.6,The 78,20
+394,41.85,-87.66,Ann & Robert H. Lurie Children's Hospital of Chicago,4.3,The 78,20
+395,41.83,-87.6,Northwestern Memorial Hospital,3.5,Burnham Lakefront,19
+396,41.83,-87.6,Mercy Hospital & Medical Center,2.6,Burnham Lakefront,19
+397,41.83,-87.6,Holy Cross Hospital,2.1,Burnham Lakefront,19
+398,41.83,-87.6,University of Illinois Hospital & Health Sciences System,3.2,Burnham Lakefront,19
+399,41.83,-87.6,St. Bernard Hospital,2.1,Burnham Lakefront,19
+400,41.83,-87.6,University of Illinois Hospital,3,Burnham Lakefront,19
+401,41.83,-87.6,"John H. Stroger, Jr. Hospital of Cook County",3.2,Burnham Lakefront,19
+402,41.83,-87.6,Rush University Medical Center,3.8,Burnham Lakefront,19
+403,41.83,-87.6,Provident Hospital of Cook County,3.8,Burnham Lakefront,19
+404,41.83,-87.6,Mount Sinai Hospital,2.5,Burnham Lakefront,19
+405,41.83,-87.6,Jackson Park Hospital & Medical Center,2.6,Burnham Lakefront,19
+406,41.83,-87.6,Saint Anthony Hospital,3.1,Burnham Lakefront,19
+407,41.83,-87.6,University of Chicago Medicine Center for Advanced Care at South Loop,5,Burnham Lakefront,19
+408,41.83,-87.6,Rush University Medical Center,NAN,Burnham Lakefront,19
+409,41.83,-87.6,Advocate Health Center,NAN,Burnham Lakefront,19
+410,41.83,-87.6,Ann & Robert H. Lurie Children's Hospital of Chicago,4.3,Burnham Lakefront,19
+411,41.83,-87.6,"Presence Saints Mary and Elizabeth Medical Center, Saint Mary Campus",2.8,Burnham Lakefront,19
+412,41.83,-87.6,Rush University Children's Hospital,3.9,Burnham Lakefront,19
+413,41.83,-87.6,Chicago Lakeshore Hospital - Lakeshore Center for Behavioral Health,2,Burnham Lakefront,19
+414,35.9,-78.87,WakeMed,3.4,Research Triangle Park,6
+415,35.9,-78.87,WakeMed Brier Creek Healthplex,2.8,Research Triangle Park,6
+416,35.9,-78.87,Duke Children's Primary Care Southpoint,3.9,Research Triangle Park,6
+417,35.9,-78.87,Duke Cardiology of Morrisville,5,Research Triangle Park,6
+418,35.9,-78.87,Kinder Love Home,NAN,Research Triangle Park,6
+419,35.9,-78.87,Duke Medical Plaza Page Road,3.2,Research Triangle Park,6
+420,35.85,-79.08,North Carolina Children's Hospital,4.1,Chatham Park,6
+421,35.85,-79.08,INC Childrens Hospital,5,Chatham Park,6
+422,35.85,-79.08,UNC Hospitals Heart and Vascular Center,NAN,Chatham Park,6
+423,35.85,-79.08,UNC Hospitals Speech Path,NAN,Chatham Park,6
+424,35.85,-79.08,UNC Hospitals Imaging & Spine Center,3.4,Chatham Park,6
+425,35.85,-79.08,UNC Hospital Dental Clinic,3,Chatham Park,6
+426,35.77,-78.64,Duke Raleigh Hospital,3.6,Warehouse District,17
+427,35.77,-78.64,UNC REX Healthcare,3.4,Warehouse District,17
+428,35.77,-78.64,WakeMed Raleigh Campus,3,Warehouse District,17
+429,35.77,-78.64,Wilkins Family Medicine,NAN,Warehouse District,17
+430,35.77,-78.64,Holly Hill Hospital,1.4,Warehouse District,17
+431,35.77,-78.64,Duke Children's and WakeMed Children's Specialty Services,4,Warehouse District,17
+432,35.77,-78.64,Raleigh VA Outpatient Center,4.5,Warehouse District,17
+433,35.77,-78.64,North Carolina Heart & Vascular,4.4,Warehouse District,17
+434,35.77,-78.64,WakeMed Children's Hospital,NAN,Warehouse District,17
+435,35.77,-78.64,WakeMed Health & Hospitals,NAN,Warehouse District,17
+436,35.77,-78.64,Wakemed Brier Creek Med Park,5,Warehouse District,17
+437,35.77,-78.64,NC State Park Scholars Children's Specialty Clinic,5,Warehouse District,17
+438,35.77,-78.64,Andrew Center,NAN,Warehouse District,17
+439,35.77,-78.64,WakeMed Raleigh Campus Andrews Center,5,Warehouse District,17
+440,35.77,-78.64,Raleigh III Clinic,NAN,Warehouse District,17
+441,35.77,-78.64,UNC Health Care,NAN,Warehouse District,17
+442,35.77,-78.64,Holly Hill Hospital Children's Campus,2.1,Warehouse District,17
+443,33.7615,-84.3856,Emory University Hospital Midtown,3.4,Downtown Atlanta,16
+444,33.7615,-84.3856,Piedmont Atlanta Hospital,3.3,Downtown Atlanta,16
+445,33.7615,-84.3856,Emory hospital,NAN,Downtown Atlanta,16
+446,33.7615,-84.3856,Grady Hospital,NAN,Downtown Atlanta,16
+447,33.7615,-84.3856,Egleston hospital,NAN,Downtown Atlanta,16
+448,33.7615,-84.3856,American Anesthesiology of Georgia,NAN,Downtown Atlanta,16
+449,33.7615,-84.3856,Emory University Hospital,4.3,Downtown Atlanta,16
+450,33.7615,-84.3856,Emory Healthcare,4.3,Downtown Atlanta,16
+451,33.7615,-84.3856,WellStar Atlanta Medical Center,2.6,Downtown Atlanta,16
+452,33.7615,-84.3856,Children's Healthcare of Atlanta at Hughes Spalding,3.6,Downtown Atlanta,16
+453,33.7615,-84.3856,Piedmont Heart Institute,4,Downtown Atlanta,16
+454,33.7615,-84.3856,Emory Clinic Neurosurgery,4,Downtown Atlanta,16
+455,33.7615,-84.3856,Emory Rehabilitation Hospital,3.7,Downtown Atlanta,16
+456,33.7615,-84.3856,Northside Hospital,3.7,Downtown Atlanta,16
+457,33.7615,-84.3856,Laurel Heights Hospital,5,Downtown Atlanta,16
+458,33.7615,-84.3856,Select Specialty Hospital,NAN,Downtown Atlanta,16
+459,34.5129,-93.0431,Levi Hospital,2.3,Midtown,8
+460,34.5129,-93.0431,CHI St. Vincent - Hot Springs,2.9,Midtown,8
+461,34.5129,-93.0431,St Joseph's Mercy Clinic,NAN,Midtown,8
+462,34.5129,-93.0431,Central Arkansas Veterans Healthcare System,5,Midtown,8
+463,34.5129,-93.0431,Advance Care Hospital,3,Midtown,8
+464,34.5129,-93.0431,National Park Medical Center,3,Midtown,8
+465,34.5129,-93.0431,St Joseph's Regional Health Center,NAN,Midtown,8
+466,34.5129,-93.0431,CHI St. Vincent Oncology Clinic,NAN,Midtown,8
+467,33.904,-84.2843,Northside Hospital Atlanta,3.7,Former GM plant,10
+468,33.904,-84.2843,Children's Healthcare of Atlanta at Scottish Rite Hospital,4.2,Former GM plant,10
+469,33.904,-84.2843,Kaiser Permanente Glenlake Comprehensive Specialty Center,NAN,Former GM plant,10
+470,33.904,-84.2843,Grady North Fulton,NAN,Former GM plant,10
+471,33.904,-84.2843,St Joseph's Hospital,5,Former GM plant,10
+472,33.904,-84.2843,Medico Familiar,3.8,Former GM plant,10
+473,33.904,-84.2843,Emory Saint Joseph's Hospital,3.5,Former GM plant,10
+474,33.904,-84.2843,NSH,NAN,Former GM plant,10
+475,33.904,-84.2843,Emory University Hospital,NAN,Former GM plant,10
+476,33.904,-84.2843,Northside Hospital,2.3,Former GM plant,10
+477,33.9133,-84.3888,Northside Hospital Atlanta,3.7,The High Street Site,14
+478,33.9133,-84.3888,Northside Hospital - Atlanta,2.3,The High Street Site,14
+479,33.9133,-84.3888,Children's Healthcare of Atlanta at Scottish Rite Hospital,4.2,The High Street Site,14
+480,33.9133,-84.3888,Grady North Fulton,NAN,The High Street Site,14
+481,33.9133,-84.3888,Kaiser Permanente Glenlake Comprehensive Specialty Center,NAN,The High Street Site,14
+482,33.9133,-84.3888,Northside Hospital Outpatient,3.7,The High Street Site,14
+483,33.9133,-84.3888,Northside Hospital,2.3,The High Street Site,14
+484,33.9133,-84.3888,St Joseph's Hospital,5,The High Street Site,14
+485,33.9133,-84.3888,Saint Joseph's Medical Group,5,The High Street Site,14
+486,33.9133,-84.3888,Emory Saint Joseph's Hospital,3.5,The High Street Site,14
+487,33.9133,-84.3888,NSH,NAN,The High Street Site,14
+488,33.9133,-84.3888,Northside Baby Delivery,5,The High Street Site,14
+489,33.9133,-84.3888,Northside breast Center,NAN,The High Street Site,14
+490,33.9133,-84.3888,Emory University Hospital,NAN,The High Street Site,14
+491,30.2586,-97.7444,Cornerstone Hospital of Austin,3.4,American-Statesman ,20
+492,30.2586,-97.7444,Brackenridge Hospital,NAN,American-Statesman ,20
+493,30.2586,-97.7444,The Hospital at Westlake Medical Center,3.2,American-Statesman ,20
+494,30.2586,-97.7444,Lone Star Circle of Care,NAN,American-Statesman ,20
+495,30.2586,-97.7444,Rosewood Zaragosa Health Center,NAN,American-Statesman ,20
+496,30.2586,-97.7444,Seton Medical Center Austin,3.4,American-Statesman ,20
+497,30.2586,-97.7444,St. David's Medical Center,3.8,American-Statesman ,20
+498,30.2586,-97.7444,Dell Seton Medical Center at The University of Texas,3.3,American-Statesman ,20
+499,30.2586,-97.7444,Community Health Systems,NAN,American-Statesman ,20
+500,30.2586,-97.7444,St David’s South Austin Hospital,NAN,American-Statesman ,20
+501,30.2586,-97.7444,Austin Lakes Hospital,1.8,American-Statesman ,20
+502,30.2586,-97.7444,Austin State Hospital,3.7,American-Statesman ,20
+503,30.2586,-97.7444,Seton Shoal Creek Hospital,3.2,American-Statesman ,20
+504,30.2586,-97.7444,Heart Hospital of Austin,4,American-Statesman ,20
+505,30.2586,-97.7444,University Medical Center Brackenridge,3.5,American-Statesman ,20
+506,30.2586,-97.7444,HealthSouth Rehabilitation Hospital of Austin,5,American-Statesman ,20
+507,30.2586,-97.7444,Central Texas Rehabilitation Hospital,3.6,American-Statesman ,20
+508,30.2586,-97.7444,Seton Heart Institute,4.7,American-Statesman ,20
+509,30.2586,-97.7444,Seton Heart Institute,NAN,American-Statesman ,20
+510,30.2586,-97.7444,Dell Children's Medical Center of Central Texas,3.7,American-Statesman ,20
+511,30.2714,-97.6647,Cornerstone Hospital of Austin,3.4,Eightfold,18
+512,30.2714,-97.6647,Brackenridge Hospital,NAN,Eightfold,18
+513,30.2714,-97.6647,Rosewood Zaragosa Health Center,NAN,Eightfold,18
+514,30.2714,-97.6647,Seton Medical Center Austin,3.4,Eightfold,18
+515,30.2714,-97.6647,St. David's Medical Center,3.8,Eightfold,18
+516,30.2714,-97.6647,Dell Seton Medical Center at The University of Texas,3.3,Eightfold,18
+517,30.2714,-97.6647,Austin State Hospital,3.7,Eightfold,18
+518,30.2714,-97.6647,Austin Lakes Hospital,1.8,Eightfold,18
+519,30.2714,-97.6647,Seton Shoal Creek Hospital,3.2,Eightfold,18
+520,30.2714,-97.6647,Cross Creek Hospital,2.2,Eightfold,18
+521,30.2714,-97.6647,Heart Hospital of Austin,4,Eightfold,18
+522,30.2714,-97.6647,University Medical Center Brackenridge,3.5,Eightfold,18
+523,30.2714,-97.6647,Central Texas Rehabilitation Hospital,3.6,Eightfold,18
+524,30.2714,-97.6647,Seton Heart Institute,4.7,Eightfold,18
+525,30.2714,-97.6647,Seton Heart Institute,NAN,Eightfold,18
+526,30.2714,-97.6647,Dell Children's Medical Center of Central Texas,3.7,Eightfold,18
+527,30.2714,-97.6647,Pediatric Neurosurgery Center of Central Texas,2.7,Eightfold,18
+528,30.2714,-97.6647,Austin State Hospital Child and Adolescent Psychiatric Services,5,Eightfold,18
+529,30.199,-97.8276,Seton Southwest Hospital,3.3,Former 3M site,6
+530,30.199,-97.8276,Lone Star Circle of Care,NAN,Former 3M site,6
+531,30.199,-97.8276,Community Health Systems,NAN,Former 3M site,6
+532,30.199,-97.8276,St David’s South Austin Hospital,NAN,Former 3M site,6
+533,30.199,-97.8276,HealthSouth Rehabilitation Hospital of Austin,5,Former 3M site,6
+534,30.199,-97.8276,St. David's Rehabilitation - South Austin Medical Center,NAN,Former 3M site,6
+535,30.4015,-97.7268,Seton Northwest Hospital,3.2,The Domain,7
+536,30.4015,-97.7268,Seton Family of Hospitals,5,The Domain,7
+537,30.4015,-97.7268,St. David's North Austin Medical Center,3.4,The Domain,7
+538,30.4015,-97.7268,Northwest Hills Surgical Hospital,3.6,The Domain,7
+539,30.4015,-97.7268,Cross Creek Hospital,2.2,The Domain,7
+540,30.4015,-97.7268,austin state hospital,5,The Domain,7
+541,30.4015,-97.7268,Hospital Internists Of Austin,NAN,The Domain,7
+542,30.4014,-97.7147,Seton Northwest Hospital,3.2,Bardmoor Campus,7
+543,30.4014,-97.7147,Seton Family of Hospitals,5,Bardmoor Campus,7
+544,30.4014,-97.7147,St. David's North Austin Medical Center,3.4,Bardmoor Campus,7
+545,30.4014,-97.7147,Northwest Hills Surgical Hospital,3.6,Bardmoor Campus,7
+546,30.4014,-97.7147,Cross Creek Hospital,2.2,Bardmoor Campus,7
+547,30.4014,-97.7147,austin state hospital,5,Bardmoor Campus,7
+548,30.4014,-97.7147,Hospital Internists Of Austin,NAN,Bardmoor Campus,7
+549,30.4704,-97.7701,Cedar Park Regional Medical Center,2.3,Robinson Ranch,11
+550,30.4704,-97.7701,Seton Northwest Hospital,3.2,Robinson Ranch,11
+551,30.4704,-97.7701,St. David's Round Rock Medical Center,3.3,Robinson Ranch,11
+552,30.4704,-97.7701,Cedar Park Regional Wound Care Center,2,Robinson Ranch,11
+553,30.4704,-97.7701,St. David's Emergency Center - Cedar Park,2.7,Robinson Ranch,11
+554,30.4704,-97.7701,Baylor Scott & White Cedar Park Clinic,2.3,Robinson Ranch,11
+555,30.4704,-97.7701,St. David's Rehabilitation - Cedar Park,NAN,Robinson Ranch,11
+556,30.4704,-97.7701,St. David’s Surgical Hospital,4.6,Robinson Ranch,11
+557,30.4704,-97.7701,St. David's Children's Hospital,4.3,Robinson Ranch,11
+558,30.4704,-97.7701,Cedar Park Regional Medical Center,2.7,Robinson Ranch,11
+559,30.4704,-97.7701,Austin Children's Chest Associates,NAN,Robinson Ranch,11
+560,30.1338,-97.6411,VA Austin Outpatient Clinic,3.4,Project Catalyst,1
+561,38.96,-77.42,Benihana,3.7,Center for Innovation Technology,20
+562,38.96,-77.42,LongHorn Steakhouse,3.8,Center for Innovation Technology,20
+563,38.96,-77.42,Chili's Grill & Bar,3.6,Center for Innovation Technology,20
+564,38.96,-77.42,Red Lobster,3.8,Center for Innovation Technology,20
+565,38.96,-77.42,Cafesano,4.3,Center for Innovation Technology,20
+566,38.96,-77.42,Elements On Level One,3.2,Center for Innovation Technology,20
+567,38.96,-77.42,Bar Symon,3.4,Center for Innovation Technology,20
+568,38.96,-77.42,DC-3 Hot Dog Joint,3.2,Center for Innovation Technology,20
+569,38.96,-77.42,Arby's,4.1,Center for Innovation Technology,20
+570,38.96,-77.42,Chick-fil-A,4.5,Center for Innovation Technology,20
+571,38.96,-77.42,Grill Kabob,4,Center for Innovation Technology,20
+572,38.96,-77.42,Cafesano,4.4,Center for Innovation Technology,20
+573,38.96,-77.42,Houlihan's,3.4,Center for Innovation Technology,20
+574,38.96,-77.42,Stone's Cove Kitbar,4.4,Center for Innovation Technology,20
+575,38.96,-77.42,Paisano's Pizza,3.9,Center for Innovation Technology,20
+576,38.96,-77.42,SUBWAY®Restaurants,3.7,Center for Innovation Technology,20
+577,38.96,-77.42,SUBWAY®Restaurants,3.1,Center for Innovation Technology,20
+578,38.96,-77.42,Busara Restaurant - Reston,3.6,Center for Innovation Technology,20
+579,38.96,-77.42,Chennai Express Restaurant & Catering,3.9,Center for Innovation Technology,20
+580,38.96,-77.42,Indian Restaurant,NAN,Center for Innovation Technology,20
+581,38.84,-77.05,The Capital Grille,4.5,Crystal City and Potomac Yard,20
+582,38.84,-77.05,P.J. Clarke’s DC,4.1,Crystal City and Potomac Yard,20
+583,38.84,-77.05,DBGB DC,4.2,Crystal City and Potomac Yard,20
+584,38.84,-77.05,Jaleo,4.2,Crystal City and Potomac Yard,20
+585,38.84,-77.05,Zaytinya,4.4,Crystal City and Potomac Yard,20
+586,38.84,-77.05,Fiola,4.5,Crystal City and Potomac Yard,20
+587,38.84,-77.05,Blue Duck Tavern,4.4,Crystal City and Potomac Yard,20
+588,38.84,-77.05,Founding Farmers DC,4.4,Crystal City and Potomac Yard,20
+589,38.84,-77.05,Old Ebbitt Grill,4.5,Crystal City and Potomac Yard,20
+590,38.84,-77.05,The Smith,4.3,Crystal City and Potomac Yard,20
+591,38.84,-77.05,Estadio,4.3,Crystal City and Potomac Yard,20
+592,38.84,-77.05,The Oceanaire Seafood Room,4.1,Crystal City and Potomac Yard,20
+593,38.84,-77.05,Carmine's Italian Restaurant - Washington DC,4.2,Crystal City and Potomac Yard,20
+594,38.84,-77.05,Le Diplomate,4.6,Crystal City and Potomac Yard,20
+595,38.84,-77.05,Sequoia,3.8,Crystal City and Potomac Yard,20
+596,38.84,-77.05,the pig,4.4,Crystal City and Potomac Yard,20
+597,38.84,-77.05,The Hamilton,4.4,Crystal City and Potomac Yard,20
+598,38.84,-77.05,NOPA KITCHEN+BAR,4.3,Crystal City and Potomac Yard,20
+599,38.84,-77.05,Rose's Luxury,4.6,Crystal City and Potomac Yard,20
+600,38.84,-77.05,Al Tiramisu,4.4,Crystal City and Potomac Yard,20
+601,38.86,-77.01,The Capital Grille,4.5,Nationals Park/ D.C United Stadium,20
+602,38.86,-77.01,P.J. Clarke’s DC,4.1,Nationals Park/ D.C United Stadium,20
+603,38.86,-77.01,DBGB DC,4.2,Nationals Park/ D.C United Stadium,20
+604,38.86,-77.01,Jaleo,4.2,Nationals Park/ D.C United Stadium,20
+605,38.86,-77.01,Zaytinya,4.4,Nationals Park/ D.C United Stadium,20
+606,38.86,-77.01,Fiola,4.5,Nationals Park/ D.C United Stadium,20
+607,38.86,-77.01,Blue Duck Tavern,4.4,Nationals Park/ D.C United Stadium,20
+608,38.86,-77.01,Founding Farmers DC,4.4,Nationals Park/ D.C United Stadium,20
+609,38.86,-77.01,Old Ebbitt Grill,4.5,Nationals Park/ D.C United Stadium,20
+610,38.86,-77.01,The Smith,4.3,Nationals Park/ D.C United Stadium,20
+611,38.86,-77.01,Estadio,4.3,Nationals Park/ D.C United Stadium,20
+612,38.86,-77.01,The Oceanaire Seafood Room,4.1,Nationals Park/ D.C United Stadium,20
+613,38.86,-77.01,Carmine's Italian Restaurant - Washington DC,4.2,Nationals Park/ D.C United Stadium,20
+614,38.86,-77.01,Le Diplomate,4.6,Nationals Park/ D.C United Stadium,20
+615,38.86,-77.01,Sequoia,3.8,Nationals Park/ D.C United Stadium,20
+616,38.86,-77.01,the pig,4.4,Nationals Park/ D.C United Stadium,20
+617,38.86,-77.01,Lebanese Taverna,4.2,Nationals Park/ D.C United Stadium,20
+618,38.86,-77.01,The Hamilton,4.4,Nationals Park/ D.C United Stadium,20
+619,38.86,-77.01,NOPA KITCHEN+BAR,4.3,Nationals Park/ D.C United Stadium,20
+620,38.86,-77.01,Rose's Luxury,4.6,Nationals Park/ D.C United Stadium,20
+621,38.89,-77,The Capital Grille,4.5,Union Station,20
+622,38.89,-77,P.J. Clarke’s DC,4.1,Union Station,20
+623,38.89,-77,DBGB DC,4.2,Union Station,20
+624,38.89,-77,Jaleo,4.2,Union Station,20
+625,38.89,-77,Fiola,4.5,Union Station,20
+626,38.89,-77,Blue Duck Tavern,4.4,Union Station,20
+627,38.89,-77,Founding Farmers DC,4.4,Union Station,20
+628,38.89,-77,Old Ebbitt Grill,4.5,Union Station,20
+629,38.89,-77,The Smith,4.3,Union Station,20
+630,38.89,-77,Estadio,4.3,Union Station,20
+631,38.89,-77,Zaytinya,4.4,Union Station,20
+632,38.89,-77,The Oceanaire Seafood Room,4.1,Union Station,20
+633,38.89,-77,Carmine's Italian Restaurant - Washington DC,4.2,Union Station,20
+634,38.89,-77,Le Diplomate,4.6,Union Station,20
+635,38.89,-77,Sequoia,3.8,Union Station,20
+636,38.89,-77,the pig,4.4,Union Station,20
+637,38.89,-77,Lebanese Taverna,4.2,Union Station,20
+638,38.89,-77,The Hamilton,4.4,Union Station,20
+639,38.89,-77,NOPA KITCHEN+BAR,4.3,Union Station,20
+640,38.89,-77,Rose's Luxury,4.6,Union Station,20
+641,38.88,-76.97,The Capital Grille,4.5,Hill-East Neighborhood,20
+642,38.88,-76.97,P.J. Clarke’s DC,4.1,Hill-East Neighborhood,20
+643,38.88,-76.97,DBGB DC,4.2,Hill-East Neighborhood,20
+644,38.88,-76.97,Jaleo,4.2,Hill-East Neighborhood,20
+645,38.88,-76.97,Fiola,4.5,Hill-East Neighborhood,20
+646,38.88,-76.97,Blue Duck Tavern,4.4,Hill-East Neighborhood,20
+647,38.88,-76.97,Founding Farmers DC,4.4,Hill-East Neighborhood,20
+648,38.88,-76.97,Old Ebbitt Grill,4.5,Hill-East Neighborhood,20
+649,38.88,-76.97,The Smith,4.3,Hill-East Neighborhood,20
+650,38.88,-76.97,Estadio,4.3,Hill-East Neighborhood,20
+651,38.88,-76.97,Zaytinya,4.4,Hill-East Neighborhood,20
+652,38.88,-76.97,The Oceanaire Seafood Room,4.1,Hill-East Neighborhood,20
+653,38.88,-76.97,Carmine's Italian Restaurant - Washington DC,4.2,Hill-East Neighborhood,20
+654,38.88,-76.97,Le Diplomate,4.6,Hill-East Neighborhood,20
+655,38.88,-76.97,Sequoia,3.8,Hill-East Neighborhood,20
+656,38.88,-76.97,the pig,4.4,Hill-East Neighborhood,20
+657,38.88,-76.97,Lebanese Taverna,4.2,Hill-East Neighborhood,20
+658,38.88,-76.97,The Hamilton,4.4,Hill-East Neighborhood,20
+659,38.88,-76.97,NOPA KITCHEN+BAR,4.3,Hill-East Neighborhood,20
+660,38.88,-76.97,Rose's Luxury,4.6,Hill-East Neighborhood,20
+661,38.91,-77.02,The Capital Grille,4.5,Shaw-Howard University Area,20
+662,38.91,-77.02,P.J. Clarke’s DC,4.1,Shaw-Howard University Area,20
+663,38.91,-77.02,DBGB DC,4.2,Shaw-Howard University Area,20
+664,38.91,-77.02,Jaleo,4.2,Shaw-Howard University Area,20
+665,38.91,-77.02,Zaytinya,4.4,Shaw-Howard University Area,20
+666,38.91,-77.02,Fiola,4.5,Shaw-Howard University Area,20
+667,38.91,-77.02,Blue Duck Tavern,4.4,Shaw-Howard University Area,20
+668,38.91,-77.02,Founding Farmers DC,4.4,Shaw-Howard University Area,20
+669,38.91,-77.02,Old Ebbitt Grill,4.5,Shaw-Howard University Area,20
+670,38.91,-77.02,The Smith,4.3,Shaw-Howard University Area,20
+671,38.91,-77.02,Estadio,4.3,Shaw-Howard University Area,20
+672,38.91,-77.02,The Oceanaire Seafood Room,4.1,Shaw-Howard University Area,20
+673,38.91,-77.02,Carmine's Italian Restaurant - Washington DC,4.2,Shaw-Howard University Area,20
+674,38.91,-77.02,Le Diplomate,4.6,Shaw-Howard University Area,20
+675,38.91,-77.02,Sequoia,3.8,Shaw-Howard University Area,20
+676,38.91,-77.02,the pig,4.4,Shaw-Howard University Area,20
+677,38.91,-77.02,Lebanese Taverna,4.2,Shaw-Howard University Area,20
+678,38.91,-77.02,The Hamilton,4.4,Shaw-Howard University Area,20
+679,38.91,-77.02,NOPA KITCHEN+BAR,4.3,Shaw-Howard University Area,20
+680,38.91,-77.02,Rose's Luxury,4.6,Shaw-Howard University Area,20
+681,34.1802,-118.6028,BJ's Restaurant & Brewhouse,3.9,Warner Center West San Fernando Valley,20
+682,34.1802,-118.6028,Real Mex Restaurants Inc,NAN,Warner Center West San Fernando Valley,20
+683,34.1802,-118.6028,Melad Bakery & Afghan Restaurant,5,Warner Center West San Fernando Valley,20
+684,34.1802,-118.6028,Bonillas Restaurante,5,Warner Center West San Fernando Valley,20
+685,34.1802,-118.6028,SUBWAY®Restaurants,4,Warner Center West San Fernando Valley,20
+686,34.1802,-118.6028,SUBWAY®Restaurants,2.3,Warner Center West San Fernando Valley,20
+687,34.1802,-118.6028,SUBWAY®Restaurants,4.1,Warner Center West San Fernando Valley,20
+688,34.1802,-118.6028,SUBWAY®Restaurants,3.8,Warner Center West San Fernando Valley,20
+689,34.1802,-118.6028,SUBWAY®Restaurants,4.2,Warner Center West San Fernando Valley,20
+690,34.1802,-118.6028,SUBWAY®Restaurants,3.2,Warner Center West San Fernando Valley,20
+691,34.1802,-118.6028,Nipa Hut (Filipino Restaurant),4.2,Warner Center West San Fernando Valley,20
+692,34.1802,-118.6028,Thai BBQ Restaurant,3.8,Warner Center West San Fernando Valley,20
+693,34.1802,-118.6028,DENJ RESTAURANT # 1 BY MR. COOK,5,Warner Center West San Fernando Valley,20
+694,34.1802,-118.6028,Golden State Wook Restaurant,5,Warner Center West San Fernando Valley,20
+695,34.1802,-118.6028,Pickwick Restaurant,NAN,Warner Center West San Fernando Valley,20
+696,34.1802,-118.6028,Grande Polentoni Restaurant Italian & Persian Cuisine,NAN,Warner Center West San Fernando Valley,20
+697,34.1802,-118.6028,Manila Express Restaurant Corporation,NAN,Warner Center West San Fernando Valley,20
+698,34.1802,-118.6028,Las Fuentes Restaurant,5,Warner Center West San Fernando Valley,20
+699,34.1802,-118.6028,El Corozo Restaurante,3.3,Warner Center West San Fernando Valley,20
+700,34.1802,-118.6028,LaForcaccia Restaurant,5,Warner Center West San Fernando Valley,20
+701,34.4318,-118.5584,Buca di Beppo Italian Restaurant,3.8,New Hall Ranch Santa Clarita Valley,20
+702,34.4318,-118.5584,Casa Canela Restaurant,4.4,New Hall Ranch Santa Clarita Valley,20
+703,34.4318,-118.5584,Burgerim,3.8,New Hall Ranch Santa Clarita Valley,20
+704,34.4318,-118.5584,Teriyaki Madness,4.2,New Hall Ranch Santa Clarita Valley,20
+705,34.4318,-118.5584,Islands Restaurant Santa Clarita,4.2,New Hall Ranch Santa Clarita Valley,20
+706,34.4318,-118.5584,Wolf Creek Restaurant and Brewing Company,4,New Hall Ranch Santa Clarita Valley,20
+707,34.4318,-118.5584,BJ's Restaurant & Brewhouse,3.6,New Hall Ranch Santa Clarita Valley,20
+708,34.4318,-118.5584,Presidente Restaurant,4.2,New Hall Ranch Santa Clarita Valley,20
+709,34.4318,-118.5584,La Cocina,4.4,New Hall Ranch Santa Clarita Valley,20
+710,34.4318,-118.5584,STONEFIRE Grill,4.5,New Hall Ranch Santa Clarita Valley,20
+711,34.4318,-118.5584,Vincenzo's Pizza - Saugus,4.1,New Hall Ranch Santa Clarita Valley,20
+712,34.4318,-118.5584,Chili's Grill & Bar,3.7,New Hall Ranch Santa Clarita Valley,20
+713,34.4318,-118.5584,Italia Panetteria & Deli,4.6,New Hall Ranch Santa Clarita Valley,20
+714,34.4318,-118.5584,SUBWAY®Restaurants,3.7,New Hall Ranch Santa Clarita Valley,20
+715,34.4318,-118.5584,SUBWAY®Restaurants,3.3,New Hall Ranch Santa Clarita Valley,20
+716,34.4318,-118.5584,SUBWAY®Restaurants,4.1,New Hall Ranch Santa Clarita Valley,20
+717,34.4318,-118.5584,New Moon Restaurant,4.3,New Hall Ranch Santa Clarita Valley,20
+718,34.4318,-118.5584,Olive Garden Italian Restaurant,4.2,New Hall Ranch Santa Clarita Valley,20
+719,34.4318,-118.5584,Wood Ranch BBQ & Grill,4.3,New Hall Ranch Santa Clarita Valley,20
+720,34.4318,-118.5584,Newhall Refinery,4.5,New Hall Ranch Santa Clarita Valley,20
+721,34.0885,-117.7702,Pinnacle Peak Steakhouse- San Dimas,4.4,Pomona Fairplex,20
+722,34.0885,-117.7702,IHOP,4.2,Pomona Fairplex,20
+723,34.0885,-117.7702,"Cafe X2O, La Verne",4.3,Pomona Fairplex,20
+724,34.0885,-117.7702,Himalayan Cafe,4.1,Pomona Fairplex,20
+725,34.0885,-117.7702,Lucabella at the Walker House,4.5,Pomona Fairplex,20
+726,34.0885,-117.7702,Olive Garden Italian Restaurant,4.2,Pomona Fairplex,20
+727,34.0885,-117.7702,Twisted Sage Cafe & Catering,4.6,Pomona Fairplex,20
+728,34.0885,-117.7702,Butter Cafe & Bakery,4.3,Pomona Fairplex,20
+729,34.0885,-117.7702,Chopsticks House,4.1,Pomona Fairplex,20
+730,34.0885,-117.7702,Michaelangelo's Pizza,4.1,Pomona Fairplex,20
+731,34.0885,-117.7702,Boston Market,4.3,Pomona Fairplex,20
+732,34.0885,-117.7702,Zendejas Mexican Restaurant,3.8,Pomona Fairplex,20
+733,34.0885,-117.7702,Top Thai Table,4.4,Pomona Fairplex,20
+734,34.0885,-117.7702,Taco Bell,3.9,Pomona Fairplex,20
+735,34.0885,-117.7702,Applebee’s Grill + Bar,4.2,Pomona Fairplex,20
+736,34.0885,-117.7702,Cafe Las Pupusas Dining & Brews,4.4,Pomona Fairplex,20
+737,34.0885,-117.7702,Lucky Elephant Thai Cuisine,4.3,Pomona Fairplex,20
+738,34.0885,-117.7702,El Pollo Loco,3.8,Pomona Fairplex,20
+739,34.0885,-117.7702,Denny's,3.8,Pomona Fairplex,20
+740,34.0885,-117.7702,Chili's Grill & Bar,4.1,Pomona Fairplex,20
+741,42.39,-71,Davio's Northern Italian Steakhouse,4.5,Suffolk Downs,20
+742,42.39,-71,Legal Harborside,4.3,Suffolk Downs,20
+743,42.39,-71,Brasserie JO,3.8,Suffolk Downs,20
+744,42.39,-71,The Gold Bar,4,Suffolk Downs,20
+745,42.39,-71,Menton,4.6,Suffolk Downs,20
+746,42.39,-71,Champions,4,Suffolk Downs,20
+747,42.39,-71,Tico Boston,4,Suffolk Downs,20
+748,42.39,-71,Chart House,4,Suffolk Downs,20
+749,42.39,-71,The Palm Boston,4.3,Suffolk Downs,20
+750,42.39,-71,Legal Sea Foods,3.8,Suffolk Downs,20
+751,42.39,-71,Island Creek Oyster Bar,4.5,Suffolk Downs,20
+752,42.39,-71,Toro,4.5,Suffolk Downs,20
+753,42.39,-71,Trade,4.1,Suffolk Downs,20
+754,42.39,-71,The Oceanaire Seafood Room,4.3,Suffolk Downs,20
+755,42.39,-71,The Four's Restaurant & Sports Bar,4.1,Suffolk Downs,20
+756,42.39,-71,El Palmar Restaurante,4.5,Suffolk Downs,20
+757,42.39,-71,Meritage Restaurant,4.8,Suffolk Downs,20
+758,42.39,-71,Empire,4.4,Suffolk Downs,20
+759,42.39,-71,Rabia's Seafood/Oyster Bar & Italian Restaurant,4,Suffolk Downs,20
+760,42.39,-71,The Courtyard Restaurant,4.6,Suffolk Downs,20
+761,42.34,-71.03,Davio's Northern Italian Steakhouse,4.5,South Boston Waterfront,20
+762,42.34,-71.03,Legal Harborside,4.3,South Boston Waterfront,20
+763,42.34,-71.03,Brasserie JO,3.8,South Boston Waterfront,20
+764,42.34,-71.03,The Gold Bar,4,South Boston Waterfront,20
+765,42.34,-71.03,Menton,4.6,South Boston Waterfront,20
+766,42.34,-71.03,Champions,4,South Boston Waterfront,20
+767,42.34,-71.03,Tico Boston,4,South Boston Waterfront,20
+768,42.34,-71.03,Chart House,4,South Boston Waterfront,20
+769,42.34,-71.03,The Palm Boston,4.3,South Boston Waterfront,20
+770,42.34,-71.03,Legal Sea Foods,3.8,South Boston Waterfront,20
+771,42.34,-71.03,Scoozi,3.8,South Boston Waterfront,20
+772,42.34,-71.03,Island Creek Oyster Bar,4.5,South Boston Waterfront,20
+773,42.34,-71.03,Toro,4.5,South Boston Waterfront,20
+774,42.34,-71.03,Trade,4.1,South Boston Waterfront,20
+775,42.34,-71.03,The Oceanaire Seafood Room,4.3,South Boston Waterfront,20
+776,42.34,-71.03,Yard House,4.2,South Boston Waterfront,20
+777,42.34,-71.03,Strega,4.1,South Boston Waterfront,20
+778,42.34,-71.03,The Four's Restaurant & Sports Bar,4.1,South Boston Waterfront,20
+779,42.34,-71.03,Meritage Restaurant,4.8,South Boston Waterfront,20
+780,42.34,-71.03,Empire,4.4,South Boston Waterfront,20
+781,42.35,-71.05,Davio's Northern Italian Steakhouse,4.5,Downtown,20
+782,42.35,-71.05,Legal Harborside,4.3,Downtown,20
+783,42.35,-71.05,Brasserie JO,3.8,Downtown,20
+784,42.35,-71.05,The Gold Bar,4,Downtown,20
+785,42.35,-71.05,Menton,4.6,Downtown,20
+786,42.35,-71.05,Champions,4,Downtown,20
+787,42.35,-71.05,Tico Boston,4,Downtown,20
+788,42.35,-71.05,Chart House,4,Downtown,20
+789,42.35,-71.05,The Palm Boston,4.3,Downtown,20
+790,42.35,-71.05,Legal Sea Foods,3.8,Downtown,20
+791,42.35,-71.05,Scoozi,3.8,Downtown,20
+792,42.35,-71.05,Island Creek Oyster Bar,4.5,Downtown,20
+793,42.35,-71.05,Toro,4.5,Downtown,20
+794,42.35,-71.05,Trade,4.1,Downtown,20
+795,42.35,-71.05,The Oceanaire Seafood Room,4.3,Downtown,20
+796,42.35,-71.05,Yard House,4.2,Downtown,20
+797,42.35,-71.05,Strega,4.1,Downtown,20
+798,42.35,-71.05,Bertucci's,3.9,Downtown,20
+799,42.35,-71.05,Area Four Woodfired Restaurant & Bar,4.5,Downtown,20
+800,42.35,-71.05,The Four's Restaurant & Sports Bar,4.1,Downtown,20
+801,42.34,-71.06,Davio's Northern Italian Steakhouse,4.5,South End,20
+802,42.34,-71.06,Legal Sea Foods,3.8,South End,20
+803,42.34,-71.06,Brasserie JO,3.8,South End,20
+804,42.34,-71.06,The Gold Bar,4,South End,20
+805,42.34,-71.06,Menton,4.6,South End,20
+806,42.34,-71.06,Champions,4,South End,20
+807,42.34,-71.06,Tico Boston,4,South End,20
+808,42.34,-71.06,Chart House,4,South End,20
+809,42.34,-71.06,The Palm Boston,4.3,South End,20
+810,42.34,-71.06,Legal Harborside,4.3,South End,20
+811,42.34,-71.06,Scoozi,3.8,South End,20
+812,42.34,-71.06,Island Creek Oyster Bar,4.5,South End,20
+813,42.34,-71.06,Toro,4.5,South End,20
+814,42.34,-71.06,Margarita's Mexican Restaurant,3.7,South End,20
+815,42.34,-71.06,Trade,4.1,South End,20
+816,42.34,-71.06,The Oceanaire Seafood Room,4.3,South End,20
+817,42.34,-71.06,Yard House,4.2,South End,20
+818,42.34,-71.06,Strega,4.1,South End,20
+819,42.34,-71.06,Bertucci's,3.9,South End,20
+820,42.34,-71.06,Area Four Woodfired Restaurant & Bar,4.5,South End,20
+821,40.75,-74,Blossom on Columbus,4.2,Hudson Yards,20
+822,40.75,-74,Le Bernardin,4.7,Hudson Yards,20
+823,40.75,-74,Butter,4,Hudson Yards,20
+824,40.75,-74,Butter Lane,4.2,Hudson Yards,20
+825,40.75,-74,Gabriel Kreuther,4.6,Hudson Yards,20
+826,40.75,-74,The Modern,4.5,Hudson Yards,20
+827,40.75,-74,Del Posto,4.6,Hudson Yards,20
+828,40.75,-74,Daniel,4.6,Hudson Yards,20
+829,40.75,-74,Blossom,4.5,Hudson Yards,20
+830,40.75,-74,Urban Vegan Kitchen,4.5,Hudson Yards,20
+831,40.75,-74,Zuma,4.3,Hudson Yards,20
+832,40.75,-74,Buca di Beppo Italian Restaurant,3.9,Hudson Yards,20
+833,40.75,-74,Lavo,3.8,Hudson Yards,20
+834,40.75,-74,Manhattan Diner,4.3,Hudson Yards,20
+835,40.75,-74,Marea,4.5,Hudson Yards,20
+836,40.75,-74,Blue Hill,4.6,Hudson Yards,20
+837,40.75,-74,Fonda,4.4,Hudson Yards,20
+838,40.75,-74,TGI Fridays,2.8,Hudson Yards,20
+839,40.75,-74,Catch NYC,4,Hudson Yards,20
+840,40.75,-74,Carrabba's Italian Grill,4.2,Hudson Yards,20
+841,40.74,-73.94,Blossom,4.5,Long Island City,20
+842,40.74,-73.94,Gramercy Tavern,4.6,Long Island City,20
+843,40.74,-73.94,Butter Lane,4.2,Long Island City,20
+844,40.74,-73.94,Gabriel Kreuther,4.6,Long Island City,20
+845,40.74,-73.94,Butter,4,Long Island City,20
+846,40.74,-73.94,The Modern,4.5,Long Island City,20
+847,40.74,-73.94,Junior's Restaurant and Bakery,4.3,Long Island City,20
+848,40.74,-73.94,Del Posto,4.6,Long Island City,20
+849,40.74,-73.94,Blossom on Columbus,4.2,Long Island City,20
+850,40.74,-73.94,Urban Vegan Kitchen,4.5,Long Island City,20
+851,40.74,-73.94,Daniel,4.6,Long Island City,20
+852,40.74,-73.94,Zuma,4.3,Long Island City,20
+853,40.74,-73.94,Buca di Beppo Italian Restaurant,3.9,Long Island City,20
+854,40.74,-73.94,Manhattan Diner,4.3,Long Island City,20
+855,40.74,-73.94,Marea,4.5,Long Island City,20
+856,40.74,-73.94,Blue Hill,4.6,Long Island City,20
+857,40.74,-73.94,TGI Fridays,2.8,Long Island City,20
+858,40.74,-73.94,Sizzler,3.5,Long Island City,20
+859,40.74,-73.94,Catch NYC,4,Long Island City,20
+860,40.74,-73.94,Dos Caminos,4,Long Island City,20
+861,40.7,-73.98,Blue Ribbon Brooklyn,4.3,Brooklyn Tech Triangle,20
+862,40.7,-73.98,Junior's Restaurant & Bakery,4.2,Brooklyn Tech Triangle,20
+863,40.7,-73.98,Soco,4.2,Brooklyn Tech Triangle,20
+864,40.7,-73.98,The Vanderbilt,4,Brooklyn Tech Triangle,20
+865,40.7,-73.98,Roberta's,4.5,Brooklyn Tech Triangle,20
+866,40.7,-73.98,Saraghina,4.4,Brooklyn Tech Triangle,20
+867,40.7,-73.98,Gen,4.5,Brooklyn Tech Triangle,20
+868,40.7,-73.98,Brooklyn Crab,4.1,Brooklyn Tech Triangle,20
+869,40.7,-73.98,Blue Ribbon at Brooklyn Bowl,4,Brooklyn Tech Triangle,20
+870,40.7,-73.98,Junior's Restaurant and Bakery,4.3,Brooklyn Tech Triangle,20
+871,40.7,-73.98,Alchemy,4.1,Brooklyn Tech Triangle,20
+872,40.7,-73.98,Zuma,4.3,Brooklyn Tech Triangle,20
+873,40.7,-73.98,Buca di Beppo Italian Restaurant,3.9,Brooklyn Tech Triangle,20
+874,40.7,-73.98,River Deli,4.4,Brooklyn Tech Triangle,20
+875,40.7,-73.98,SEA,4.2,Brooklyn Tech Triangle,20
+876,40.7,-73.98,China Restaurant,4.3,Brooklyn Tech Triangle,20
+877,40.7,-73.98,San Remo Pizzeria & Restaurant,4.1,Brooklyn Tech Triangle,20
+878,40.7,-73.98,Olmsted,4.6,Brooklyn Tech Triangle,20
+879,40.7,-73.98,Buttermilk Channel,4.4,Brooklyn Tech Triangle,20
+880,40.7,-73.98,BKW by Brooklyn Winery,4.6,Brooklyn Tech Triangle,20
+881,40.7,-74.01,Mantra Authentic Indian Restaurant,3.8,Financial District,20
+882,40.7,-74.01,Max's,4.2,Financial District,20
+883,40.7,-74.01,Chili's Grill & Bar,3.7,Financial District,20
+884,40.7,-74.01,Porta,4.2,Financial District,20
+885,40.7,-74.01,The Cheesecake Factory,3.4,Financial District,20
+886,40.7,-74.01,Liberty House Restaurant,4.3,Financial District,20
+887,40.7,-74.01,Satis Bistro,4.5,Financial District,20
+888,40.7,-74.01,Skinner's Loft,4.3,Financial District,20
+889,40.7,-74.01,Light Horse Tavern,4.3,Financial District,20
+890,40.7,-74.01,B.GOOD,3.7,Financial District,20
+891,40.7,-74.01,Razza,4.5,Financial District,20
+892,40.7,-74.01,Talde,4.2,Financial District,20
+893,40.7,-74.01,Orale Mexican Kitchen,4.4,Financial District,20
+894,40.7,-74.01,Mathews Food and Drink,4.5,Financial District,20
+895,40.7,-74.01,Roman Nose,4.3,Financial District,20
+896,40.7,-74.01,Maritime Parc,4.2,Financial District,20
+897,40.7,-74.01,The Kitchen Step,4.4,Financial District,20
+898,40.7,-74.01,Vu,3.7,Financial District,20
+899,40.7,-74.01,Villa Borghese III,4,Financial District,20
+900,40.7,-74.01,Sawadee,3.5,Financial District,20
+901,41.91,-87.64,avec Restaurant,4.6,Lincoln Yards,20
+902,41.91,-87.64,Wildfire Chicago,4.4,Lincoln Yards,20
+903,41.91,-87.64,Bandera,4.4,Lincoln Yards,20
+904,41.91,-87.64,Frontera Grill,4.4,Lincoln Yards,20
+905,41.91,-87.64,Gibsons Bar & Steakhouse,4.6,Lincoln Yards,20
+906,41.91,-87.64,The Purple Pig,4.5,Lincoln Yards,20
+907,41.91,-87.64,Italian Village,4.2,Lincoln Yards,20
+908,41.91,-87.64,Mexique,4.6,Lincoln Yards,20
+909,41.91,-87.64,Wilde Bar & Restaurant,4.5,Lincoln Yards,20
+910,41.91,-87.64,Next,4.7,Lincoln Yards,20
+911,41.91,-87.64,Ditka's Restaurant Chicago,4.3,Lincoln Yards,20
+912,41.91,-87.64,RL Restaurant,4.2,Lincoln Yards,20
+913,41.91,-87.64,Monteverde Restaurant & Pastificio,4.7,Lincoln Yards,20
+914,41.91,-87.64,71 W Monroe,NAN,Lincoln Yards,20
+915,41.91,-87.64,Smith & Wollensky - Chicago,4.3,Lincoln Yards,20
+916,41.91,-87.64,Cafe Ba-Ba-Reeba!,4.5,Lincoln Yards,20
+917,41.91,-87.64,RPM Steak,4.6,Lincoln Yards,20
+918,41.91,-87.64,Pierrot Gourmet at The Peninsula,4.6,Lincoln Yards,20
+919,41.91,-87.64,Alinea,4.6,Lincoln Yards,20
+920,41.91,-87.64,Rosebud Restaurants Corporate Office,3.9,Lincoln Yards,20
+921,41.89,-87.64,avec Restaurant,4.6,The River District,20
+922,41.89,-87.64,Wildfire Chicago,4.4,The River District,20
+923,41.89,-87.64,Bandera,4.4,The River District,20
+924,41.89,-87.64,Frontera Grill,4.4,The River District,20
+925,41.89,-87.64,Gibsons Bar & Steakhouse,4.6,The River District,20
+926,41.89,-87.64,The Purple Pig,4.5,The River District,20
+927,41.89,-87.64,Italian Village,4.2,The River District,20
+928,41.89,-87.64,Mexique,4.6,The River District,20
+929,41.89,-87.64,Wilde Bar & Restaurant,4.5,The River District,20
+930,41.89,-87.64,Next,4.7,The River District,20
+931,41.89,-87.64,Ditka's Restaurant Chicago,4.3,The River District,20
+932,41.89,-87.64,RL Restaurant,4.2,The River District,20
+933,41.89,-87.64,Monteverde Restaurant & Pastificio,4.7,The River District,20
+934,41.89,-87.64,71 W Monroe,NAN,The River District,20
+935,41.89,-87.64,Smith & Wollensky - Chicago,4.3,The River District,20
+936,41.89,-87.64,Cafe Ba-Ba-Reeba!,4.5,The River District,20
+937,41.89,-87.64,RPM Steak,4.6,The River District,20
+938,41.89,-87.64,Pierrot Gourmet at The Peninsula,4.6,The River District,20
+939,41.89,-87.64,Alinea,4.6,The River District,20
+940,41.89,-87.64,Rosebud Restaurants Corporate Office,3.9,The River District,20
+941,41.88,-87.65,avec Restaurant,4.6,Futton Market,20
+942,41.88,-87.65,Wildfire Chicago,4.4,Futton Market,20
+943,41.88,-87.65,Frontera Grill,4.4,Futton Market,20
+944,41.88,-87.65,Gibsons Bar & Steakhouse,4.6,Futton Market,20
+945,41.88,-87.65,The Purple Pig,4.5,Futton Market,20
+946,41.88,-87.65,Italian Village,4.2,Futton Market,20
+947,41.88,-87.65,Mexique,4.6,Futton Market,20
+948,41.88,-87.65,Wilde Bar & Restaurant,4.5,Futton Market,20
+949,41.88,-87.65,Next,4.7,Futton Market,20
+950,41.88,-87.65,Ditka's Restaurant Chicago,4.3,Futton Market,20
+951,41.88,-87.65,RL Restaurant,4.2,Futton Market,20
+952,41.88,-87.65,Monteverde Restaurant & Pastificio,4.7,Futton Market,20
+953,41.88,-87.65,71 W Monroe,NAN,Futton Market,20
+954,41.88,-87.65,Smith & Wollensky - Chicago,4.3,Futton Market,20
+955,41.88,-87.65,RPM Steak,4.6,Futton Market,20
+956,41.88,-87.65,Bandera,4.4,Futton Market,20
+957,41.88,-87.65,Pierrot Gourmet at The Peninsula,4.6,Futton Market,20
+958,41.88,-87.65,Alinea,4.6,Futton Market,20
+959,41.88,-87.65,Rosebud Restaurants Corporate Office,3.9,Futton Market,20
+960,41.88,-87.65,Cocula Restaurant,3.7,Futton Market,20
+961,41.87,-87.63,avec Restaurant,4.6,City Center Campus,20
+962,41.87,-87.63,Wildfire Chicago,4.4,City Center Campus,20
+963,41.87,-87.63,Rosebud Restaurants Corporate Office,3.9,City Center Campus,20
+964,41.87,-87.63,Gibsons Bar & Steakhouse,4.6,City Center Campus,20
+965,41.87,-87.63,The Purple Pig,4.5,City Center Campus,20
+966,41.87,-87.63,Italian Village,4.2,City Center Campus,20
+967,41.87,-87.63,Mexique,4.6,City Center Campus,20
+968,41.87,-87.63,Wilde Bar & Restaurant,4.5,City Center Campus,20
+969,41.87,-87.63,Next,4.7,City Center Campus,20
+970,41.87,-87.63,Ditka's Restaurant Chicago,4.3,City Center Campus,20
+971,41.87,-87.63,RL Restaurant,4.2,City Center Campus,20
+972,41.87,-87.63,Monteverde Restaurant & Pastificio,4.7,City Center Campus,20
+973,41.87,-87.63,71 W Monroe,NAN,City Center Campus,20
+974,41.87,-87.63,Smith & Wollensky - Chicago,4.3,City Center Campus,20
+975,41.87,-87.63,RPM Steak,4.6,City Center Campus,20
+976,41.87,-87.63,Bandera,4.4,City Center Campus,20
+977,41.87,-87.63,Pierrot Gourmet at The Peninsula,4.6,City Center Campus,20
+978,41.87,-87.63,Alinea,4.6,City Center Campus,20
+979,41.87,-87.63,Frontera Grill,4.4,City Center Campus,20
+980,41.87,-87.63,Roister Restaurant,4.5,City Center Campus,20
+981,41.87,-87.62,avec Restaurant,4.6,The Downtown District,20
+982,41.87,-87.62,Wildfire Chicago,4.4,The Downtown District,20
+983,41.87,-87.62,Rosebud Restaurants Corporate Office,3.9,The Downtown District,20
+984,41.87,-87.62,Gibsons Bar & Steakhouse,4.6,The Downtown District,20
+985,41.87,-87.62,The Purple Pig,4.5,The Downtown District,20
+986,41.87,-87.62,Italian Village,4.2,The Downtown District,20
+987,41.87,-87.62,Mexique,4.6,The Downtown District,20
+988,41.87,-87.62,Wilde Bar & Restaurant,4.5,The Downtown District,20
+989,41.87,-87.62,Next,4.7,The Downtown District,20
+990,41.87,-87.62,Ditka's Restaurant Chicago,4.3,The Downtown District,20
+991,41.87,-87.62,RL Restaurant,4.2,The Downtown District,20
+992,41.87,-87.62,Monteverde Restaurant & Pastificio,4.7,The Downtown District,20
+993,41.87,-87.62,71 W Monroe,NAN,The Downtown District,20
+994,41.87,-87.62,Smith & Wollensky - Chicago,4.3,The Downtown District,20
+995,41.87,-87.62,RPM Steak,4.6,The Downtown District,20
+996,41.87,-87.62,Bandera,4.4,The Downtown District,20
+997,41.87,-87.62,Pierrot Gourmet at The Peninsula,4.6,The Downtown District,20
+998,41.87,-87.62,Alinea,4.6,The Downtown District,20
+999,41.87,-87.62,Frontera Grill,4.4,The Downtown District,20
+1000,41.87,-87.62,Roister Restaurant,4.5,The Downtown District,20
+1001,41.86,-87.67,avec Restaurant,4.6,The Illinois Medical District,20
+1002,41.86,-87.67,Wildfire Chicago,4.4,The Illinois Medical District,20
+1003,41.86,-87.67,Frontera Grill,4.4,The Illinois Medical District,20
+1004,41.86,-87.67,Rosebud Restaurants Corporate Office,3.9,The Illinois Medical District,20
+1005,41.86,-87.67,Gibsons Bar & Steakhouse,4.6,The Illinois Medical District,20
+1006,41.86,-87.67,The Purple Pig,4.5,The Illinois Medical District,20
+1007,41.86,-87.67,Italian Village,4.2,The Illinois Medical District,20
+1008,41.86,-87.67,Mexique,4.6,The Illinois Medical District,20
+1009,41.86,-87.67,Next,4.7,The Illinois Medical District,20
+1010,41.86,-87.67,Ditka's Restaurant Chicago,4.3,The Illinois Medical District,20
+1011,41.86,-87.67,RL Restaurant,4.2,The Illinois Medical District,20
+1012,41.86,-87.67,Monteverde Restaurant & Pastificio,4.7,The Illinois Medical District,20
+1013,41.86,-87.67,71 W Monroe,NAN,The Illinois Medical District,20
+1014,41.86,-87.67,Smith & Wollensky - Chicago,4.3,The Illinois Medical District,20
+1015,41.86,-87.67,RPM Steak,4.6,The Illinois Medical District,20
+1016,41.86,-87.67,Bandera,4.4,The Illinois Medical District,20
+1017,41.86,-87.67,Pierrot Gourmet at The Peninsula,4.6,The Illinois Medical District,20
+1018,41.86,-87.67,Alinea,4.6,The Illinois Medical District,20
+1019,41.86,-87.67,Cocula Restaurant,3.7,The Illinois Medical District,20
+1020,41.86,-87.67,Roister Restaurant,4.5,The Illinois Medical District,20
+1021,41.85,-87.66,avec Restaurant,4.6,The 78,20
+1022,41.85,-87.66,Wildfire Chicago,4.4,The 78,20
+1023,41.85,-87.66,Frontera Grill,4.4,The 78,20
+1024,41.85,-87.66,Gibsons Bar & Steakhouse,4.6,The 78,20
+1025,41.85,-87.66,The Purple Pig,4.5,The 78,20
+1026,41.85,-87.66,Italian Village,4.2,The 78,20
+1027,41.85,-87.66,Mexique,4.6,The 78,20
+1028,41.85,-87.66,Next,4.7,The 78,20
+1029,41.85,-87.66,Ditka's Restaurant Chicago,4.3,The 78,20
+1030,41.85,-87.66,RL Restaurant,4.2,The 78,20
+1031,41.85,-87.66,Monteverde Restaurant & Pastificio,4.7,The 78,20
+1032,41.85,-87.66,71 W Monroe,NAN,The 78,20
+1033,41.85,-87.66,Smith & Wollensky - Chicago,4.3,The 78,20
+1034,41.85,-87.66,Cafe Ba-Ba-Reeba!,4.5,The 78,20
+1035,41.85,-87.66,RPM Steak,4.6,The 78,20
+1036,41.85,-87.66,Bandera,4.4,The 78,20
+1037,41.85,-87.66,Pierrot Gourmet at The Peninsula,4.6,The 78,20
+1038,41.85,-87.66,Alinea,4.6,The 78,20
+1039,41.85,-87.66,Cocula Restaurant,3.7,The 78,20
+1040,41.85,-87.66,Roister Restaurant,4.5,The 78,20
+1041,41.83,-87.6,Wildfire Chicago,4.4,Burnham Lakefront,20
+1042,41.83,-87.6,Gibsons Bar & Steakhouse,4.6,Burnham Lakefront,20
+1043,41.83,-87.6,The Purple Pig,4.5,Burnham Lakefront,20
+1044,41.83,-87.6,Italian Village,4.2,Burnham Lakefront,20
+1045,41.83,-87.6,Mexique,4.6,Burnham Lakefront,20
+1046,41.83,-87.6,avec Restaurant,4.6,Burnham Lakefront,20
+1047,41.83,-87.6,Next,4.7,Burnham Lakefront,20
+1048,41.83,-87.6,Ditka's Restaurant Chicago,4.3,Burnham Lakefront,20
+1049,41.83,-87.6,RL Restaurant,4.2,Burnham Lakefront,20
+1050,41.83,-87.6,Monteverde Restaurant & Pastificio,4.7,Burnham Lakefront,20
+1051,41.83,-87.6,71 W Monroe,NAN,Burnham Lakefront,20
+1052,41.83,-87.6,Smith & Wollensky - Chicago,4.3,Burnham Lakefront,20
+1053,41.83,-87.6,RPM Steak,4.6,Burnham Lakefront,20
+1054,41.83,-87.6,Bandera,4.4,Burnham Lakefront,20
+1055,41.83,-87.6,Pierrot Gourmet at The Peninsula,4.6,Burnham Lakefront,20
+1056,41.83,-87.6,Frontera Grill,4.4,Burnham Lakefront,20
+1057,41.83,-87.6,SUBWAY®Restaurants,3.6,Burnham Lakefront,20
+1058,41.83,-87.6,SUBWAY®Restaurants,2.9,Burnham Lakefront,20
+1059,41.83,-87.6,Roister Restaurant,4.5,Burnham Lakefront,20
+1060,41.83,-87.6,Topolobampo,4.3,Burnham Lakefront,20
+1061,35.9,-78.87,Brigs at the Park Restaurant,4.5,Research Triangle Park,20
+1062,35.9,-78.87,Harvest 18 Restaurant,4.4,Research Triangle Park,20
+1063,35.9,-78.87,Pulcinella's Italian Restaurant,4.3,Research Triangle Park,20
+1064,35.9,-78.87,Maggiano's Little Italy,4.1,Research Triangle Park,20
+1065,35.9,-78.87,Tonali Restaurant,4.5,Research Triangle Park,20
+1066,35.9,-78.87,Seasons Restaurant,3,Research Triangle Park,20
+1067,35.9,-78.87,Yamazushi Japanese Restaurant,4.6,Research Triangle Park,20
+1068,35.9,-78.87,Uriel's Jamaican Restaurant,5,Research Triangle Park,20
+1069,35.9,-78.87,The Melting Pot,4,Research Triangle Park,20
+1070,35.9,-78.87,Arby's,4,Research Triangle Park,20
+1071,35.9,-78.87,Kurama Japanese Seafood,4.2,Research Triangle Park,20
+1072,35.9,-78.87,Page Road Grill,4.3,Research Triangle Park,20
+1073,35.9,-78.87,P.F. Chang's,3.8,Research Triangle Park,20
+1074,35.9,-78.87,Chili's Grill & Bar,3.6,Research Triangle Park,20
+1075,35.9,-78.87,Ruth's Chris Steak House - Durham,4.1,Research Triangle Park,20
+1076,35.9,-78.87,Piper's In the Park,4.7,Research Triangle Park,20
+1077,35.9,-78.87,Firebirds Wood Fired Grill,4.1,Research Triangle Park,20
+1078,35.9,-78.87,O'Charley’s Restaurant & Bar,3.5,Research Triangle Park,20
+1079,35.9,-78.87,The Cheesecake Factory,3.8,Research Triangle Park,20
+1080,35.9,-78.87,Popeyes Louisiana Kitchen,5,Research Triangle Park,20
+1081,35.85,-79.08,Guanajuato Mexican Restaurant,4.3,Chatham Park,20
+1082,35.85,-79.08,Elements Restaurant,4.4,Chatham Park,20
+1083,35.85,-79.08,Lantern,4.4,Chatham Park,20
+1084,35.85,-79.08,Top of the Hill Restaurant & Brewery,4,Chatham Park,20
+1085,35.85,-79.08,Spanky's Restaurant & Bar,4.1,Chatham Park,20
+1086,35.85,-79.08,Lotsa Stone Fired Pizza,4.2,Chatham Park,20
+1087,35.85,-79.08,Monterrey Mexican Restaurant,4.5,Chatham Park,20
+1088,35.85,-79.08,Talullas,4.4,Chatham Park,20
+1089,35.85,-79.08,Flair Restaurant & Wine bar,4.5,Chatham Park,20
+1090,35.85,-79.08,Buns,4.4,Chatham Park,20
+1091,35.85,-79.08,SUBWAY®Restaurants,4,Chatham Park,20
+1092,35.85,-79.08,Wings Over Chapel Hill,3.8,Chatham Park,20
+1093,35.85,-79.08,Cosmic Cantina,4.3,Chatham Park,20
+1094,35.85,-79.08,Carolina Brewery,4,Chatham Park,20
+1095,35.85,-79.08,Jujube,4.2,Chatham Park,20
+1096,35.85,-79.08,Glasshalfull,4.6,Chatham Park,20
+1097,35.85,-79.08,Raaga,4,Chatham Park,20
+1098,35.85,-79.08,411 West Italian Cafe,4.2,Chatham Park,20
+1099,35.85,-79.08,Town Hall Grill,3.9,Chatham Park,20
+1100,35.85,-79.08,Crook's Corner,4.2,Chatham Park,20
+1101,35.77,-78.64,The Cowfish Sushi Burger Bar,4.5,Warehouse District,20
+1102,35.77,-78.64,Shish Kabob,4,Warehouse District,20
+1103,35.77,-78.64,The Capital Grille,4.5,Warehouse District,20
+1104,35.77,-78.64,Glenwood Grill,4.4,Warehouse District,20
+1105,35.77,-78.64,Brewery Bhavana,4.6,Warehouse District,20
+1106,35.77,-78.64,Mellow Mushroom,4.4,Warehouse District,20
+1107,35.77,-78.64,B.GOOD,3.8,Warehouse District,20
+1108,35.77,-78.64,B.GOOD,4,Warehouse District,20
+1109,35.77,-78.64,Snoopy's Hot Dogs & More,4.5,Warehouse District,20
+1110,35.77,-78.64,Snoopy's Hot Dogs & More,4.3,Warehouse District,20
+1111,35.77,-78.64,Sitti,4.5,Warehouse District,20
+1112,35.77,-78.64,Sullivan's Steakhouse,4.4,Warehouse District,20
+1113,35.77,-78.64,Bida Manda Laotian Restaurant and Bar,4.7,Warehouse District,20
+1114,35.77,-78.64,Second Empire Restaurant and Tavern,4.6,Warehouse District,20
+1115,35.77,-78.64,Big Ed’s City Market Restaurant,4.6,Warehouse District,20
+1116,35.77,-78.64,Gravy,4.3,Warehouse District,20
+1117,35.77,-78.64,Midtown Grille,4,Warehouse District,20
+1118,35.77,-78.64,Mia Francesca,4,Warehouse District,20
+1119,35.77,-78.64,Tupelo Honey,4.2,Warehouse District,20
+1120,35.77,-78.64,P.F. Chang's,4,Warehouse District,20
+1121,33.7615,-84.3856,STK Atlanta,3.9,Downtown Atlanta,20
+1122,33.7615,-84.3856,Park 75,4.7,Downtown Atlanta,20
+1123,33.7615,-84.3856,Six Feet Under Pub & Fish House,4.3,Downtown Atlanta,20
+1124,33.7615,-84.3856,Home grown GA Restaurant,4.7,Downtown Atlanta,20
+1125,33.7615,-84.3856,Restaurant Eugene,4.4,Downtown Atlanta,20
+1126,33.7615,-84.3856,Livingston,3.9,Downtown Atlanta,20
+1127,33.7615,-84.3856,Murphy's Restaurant,4.4,Downtown Atlanta,20
+1128,33.7615,-84.3856,Polaris,4.3,Downtown Atlanta,20
+1129,33.7615,-84.3856,Barcelona Wine Bar Inman Park,4.4,Downtown Atlanta,20
+1130,33.7615,-84.3856,Six Feet Under Pub & Fish House,4.3,Downtown Atlanta,20
+1131,33.7615,-84.3856,McCormick & Schmick's Seafood & Steaks,3.7,Downtown Atlanta,20
+1132,33.7615,-84.3856,SUBWAY®Restaurants,5,Downtown Atlanta,20
+1133,33.7615,-84.3856,SUBWAY®Restaurants,3,Downtown Atlanta,20
+1134,33.7615,-84.3856,SUBWAY®Restaurants,3.1,Downtown Atlanta,20
+1135,33.7615,-84.3856,SUBWAY®Restaurants,2.8,Downtown Atlanta,20
+1136,33.7615,-84.3856,SUBWAY®Restaurants,3.2,Downtown Atlanta,20
+1137,33.7615,-84.3856,La Parrilla Mexican Restaurant,4.2,Downtown Atlanta,20
+1138,33.7615,-84.3856,Golden Buddha Restaurant,4.2,Downtown Atlanta,20
+1139,33.7615,-84.3856,Wisteria,4.4,Downtown Atlanta,20
+1140,33.7615,-84.3856,IKEA Atlanta Restaurant,3.1,Downtown Atlanta,20
+1141,34.5129,-93.0431,Olive Garden Italian Restaurant,4.2,Midtown,20
+1142,34.5129,-93.0431,The Avenue Restaurant At The Waters Hotel,4.5,Midtown,20
+1143,34.5129,-93.0431,Trejo's Mexican Restaurant,4.3,Midtown,20
+1144,34.5129,-93.0431,McClard's Bar-B-Q Restaurant,4.3,Midtown,20
+1145,34.5129,-93.0431,J & S Italian Villa Restaurant & Bar,4.3,Midtown,20
+1146,34.5129,-93.0431,Rolando's Restaurante,4.2,Midtown,20
+1147,34.5129,-93.0431,The Pancake Shop,4.4,Midtown,20
+1148,34.5129,-93.0431,Pho Hoang My - Vietnamese Food and Coffee,4.8,Midtown,20
+1149,34.5129,-93.0431,Purple Cow,4.3,Midtown,20
+1150,34.5129,-93.0431,Chick-fil-A,4.6,Midtown,20
+1151,34.5129,-93.0431,The Next Level Kitchen,4.8,Midtown,20
+1152,34.5129,-93.0431,Chili's Grill & Bar,4.2,Midtown,20
+1153,34.5129,-93.0431,Cicis,3.9,Midtown,20
+1154,34.5129,-93.0431,Trejo's Mexican Restaurant,4.3,Midtown,20
+1155,34.5129,-93.0431,Via Roma Italian Restaurant,4.2,Midtown,20
+1156,34.5129,-93.0431,Outback Steakhouse,3.9,Midtown,20
+1157,34.5129,-93.0431,LongHorn Steakhouse,4.3,Midtown,20
+1158,34.5129,-93.0431,On The Border Mexican Grill & Cantina,3.9,Midtown,20
+1159,34.5129,-93.0431,SUBWAY®Restaurants,3.7,Midtown,20
+1160,34.5129,-93.0431,SUBWAY®Restaurants,4,Midtown,20
+1161,33.904,-84.2843,Fogo de Chão Brazilian Steakhouse,4.7,Former GM plant,20
+1162,33.904,-84.2843,The Palm Atlanta,4.1,Former GM plant,20
+1163,33.904,-84.2843,The Lions Restaurant and Hookha Lounge,4.4,Former GM plant,20
+1164,33.904,-84.2843,Ethiopian Restaurant,4,Former GM plant,20
+1165,33.904,-84.2843,SUBWAY®Restaurants,3.1,Former GM plant,20
+1166,33.904,-84.2843,SUBWAY®Restaurants,3.2,Former GM plant,20
+1167,33.904,-84.2843,SUBWAY®Restaurants,2.2,Former GM plant,20
+1168,33.904,-84.2843,Martin's Restaurant - Norcross Location,4,Former GM plant,20
+1169,33.904,-84.2843,SUBWAY®Restaurants,4,Former GM plant,20
+1170,33.904,-84.2843,SUBWAY®Restaurants,4.1,Former GM plant,20
+1171,33.904,-84.2843,kokorico restaurant and lounge,4.7,Former GM plant,20
+1172,33.904,-84.2843,Beijing House Restaurant,5,Former GM plant,20
+1173,33.904,-84.2843,Taaj Market & Restaurant,4.3,Former GM plant,20
+1174,33.904,-84.2843,August Moon Restaurant,1,Former GM plant,20
+1175,33.904,-84.2843,Marc Anthony's Restaurant,4,Former GM plant,20
+1176,33.904,-84.2843,Dresden Restaurant Row,NAN,Former GM plant,20
+1177,33.904,-84.2843,Onion Bay Mexican Restaurant,4,Former GM plant,20
+1178,33.904,-84.2843,Restaurant Eqp Professionals,NAN,Former GM plant,20
+1179,33.904,-84.2843,Chang restaurant,NAN,Former GM plant,20
+1180,33.904,-84.2843,Pollo Norteno,3.1,Former GM plant,20
+1181,33.9133,-84.3888,Tupelo Honey Cafe,4.1,The High Street Site,20
+1182,33.9133,-84.3888,Uncle Julio's Mexican From Scratch,3.8,The High Street Site,20
+1183,33.9133,-84.3888,Loving Hut Sandy Springs,4.2,The High Street Site,20
+1184,33.9133,-84.3888,Kaiser's Chophouse,4.5,The High Street Site,20
+1185,33.9133,-84.3888,Cafe Sunflower Sandy Springs,4.4,The High Street Site,20
+1186,33.9133,-84.3888,Blue Moon Pizza Sandy Springs,4.4,The High Street Site,20
+1187,33.9133,-84.3888,Hammocks Trading Company,4.1,The High Street Site,20
+1188,33.9133,-84.3888,Under The Cork Tree,4.5,The High Street Site,20
+1189,33.9133,-84.3888,Nori Nori,4.4,The High Street Site,20
+1190,33.9133,-84.3888,Hearth Pizza Tavern,4.5,The High Street Site,20
+1191,33.9133,-84.3888,JINYA Ramen Bar,4.6,The High Street Site,20
+1192,33.9133,-84.3888,The Greater Good BBQ,4.4,The High Street Site,20
+1193,33.9133,-84.3888,Zafron Restaurant,4.3,The High Street Site,20
+1194,33.9133,-84.3888,Mellow Mushroom,4.3,The High Street Site,20
+1195,33.9133,-84.3888,Dantanna's,4,The High Street Site,20
+1196,33.9133,-84.3888,"Blue Grotto Sushi, Tapas & Bar",4.6,The High Street Site,20
+1197,33.9133,-84.3888,Boston Market,3.9,The High Street Site,20
+1198,33.9133,-84.3888,Dantanna's,3.9,The High Street Site,20
+1199,33.9133,-84.3888,Vinny's N.Y. Pizza & Grill - Sandy Springs,4.2,The High Street Site,20
+1200,33.9133,-84.3888,5 Seasons Brewing Co,4.1,The High Street Site,20
+1201,30.2586,-97.7444,Eddie V's Prime Seafood,4.6,American-Statesman ,20
+1202,30.2586,-97.7444,Threadgill's,3.7,American-Statesman ,20
+1203,30.2586,-97.7444,Trudy's Texas Star,4.2,American-Statesman ,20
+1204,30.2586,-97.7444,Frank,3.5,American-Statesman ,20
+1205,30.2586,-97.7444,Roaring Fork,4.2,American-Statesman ,20
+1206,30.2586,-97.7444,Uchi,4.6,American-Statesman ,20
+1207,30.2586,-97.7444,Hill's Cafe,4.1,American-Statesman ,20
+1208,30.2586,-97.7444,Franklin Barbecue,4.7,American-Statesman ,20
+1209,30.2586,-97.7444,Trudy's South Star,4.1,American-Statesman ,20
+1210,30.2586,-97.7444,Frank,4.2,American-Statesman ,20
+1211,30.2586,-97.7444,Jacoby's Restaurant & Mercantile,4.3,American-Statesman ,20
+1212,30.2586,-97.7444,Mattie's,3.9,American-Statesman ,20
+1213,30.2586,-97.7444,TRIO Restaurant,4.3,American-Statesman ,20
+1214,30.2586,-97.7444,Odd Duck,4.6,American-Statesman ,20
+1215,30.2586,-97.7444,The Backspace,4.4,American-Statesman ,20
+1216,30.2586,-97.7444,Patrizi's,4.8,American-Statesman ,20
+1217,30.2586,-97.7444,III Forks,4.4,American-Statesman ,20
+1218,30.2586,-97.7444,Uncle Julio's,4,American-Statesman ,20
+1219,30.2586,-97.7444,Barbecue Restaurant,5,American-Statesman ,20
+1220,30.2586,-97.7444,Vietnamese Restaurant,5,American-Statesman ,20
+1221,30.2714,-97.6647,Eddie V's Prime Seafood,4.6,Eightfold,20
+1222,30.2714,-97.6647,Threadgill's,3.7,Eightfold,20
+1223,30.2714,-97.6647,Trudy's Texas Star,4.2,Eightfold,20
+1224,30.2714,-97.6647,Frank,3.5,Eightfold,20
+1225,30.2714,-97.6647,Roaring Fork,4.2,Eightfold,20
+1226,30.2714,-97.6647,Franklin Barbecue,4.7,Eightfold,20
+1227,30.2714,-97.6647,Jacoby's Restaurant & Mercantile,4.3,Eightfold,20
+1228,30.2714,-97.6647,TRIO Restaurant,4.3,Eightfold,20
+1229,30.2714,-97.6647,The Backspace,4.4,Eightfold,20
+1230,30.2714,-97.6647,Frank,4.2,Eightfold,20
+1231,30.2714,-97.6647,Patrizi's,4.8,Eightfold,20
+1232,30.2714,-97.6647,III Forks,4.4,Eightfold,20
+1233,30.2714,-97.6647,Uncle Julio's,4,Eightfold,20
+1234,30.2714,-97.6647,Barbecue Restaurant,5,Eightfold,20
+1235,30.2714,-97.6647,Vietnamese Restaurant,5,Eightfold,20
+1236,30.2714,-97.6647,Kim Phung Restaurant - Riverside,4.4,Eightfold,20
+1237,30.2714,-97.6647,shalemar restaurant,NAN,Eightfold,20
+1238,30.2714,-97.6647,El Michoacano Mexican Restaurant,4,Eightfold,20
+1239,30.2714,-97.6647,Caroline Restaurant,4,Eightfold,20
+1240,30.2714,-97.6647,Wilder Wood Restaurant and Bar,4.2,Eightfold,20
+1241,30.199,-97.8276,Frank,4.2,Former 3M site,20
+1242,30.199,-97.8276,Threadgill's,3.7,Former 3M site,20
+1243,30.199,-97.8276,III Forks,4.4,Former 3M site,20
+1244,30.199,-97.8276,Trudy's South Star,4.1,Former 3M site,20
+1245,30.199,-97.8276,Uchi,4.6,Former 3M site,20
+1246,30.199,-97.8276,Flores Mexican Restaurant,4.2,Former 3M site,20
+1247,30.199,-97.8276,Hill's Cafe,4.1,Former 3M site,20
+1248,30.199,-97.8276,Mattie's,3.9,Former 3M site,20
+1249,30.199,-97.8276,Manuel's Downtown Mexican Restaurant,3.9,Former 3M site,20
+1250,30.199,-97.8276,SUBWAY®Restaurants,3.2,Former 3M site,20
+1251,30.199,-97.8276,Casa Garcia's Corporate Office,3,Former 3M site,20
+1252,30.199,-97.8276,SUBWAY RESTAURANT,4.1,Former 3M site,20
+1253,30.199,-97.8276,dine restaurant & bar,3.4,Former 3M site,20
+1254,30.199,-97.8276,Papalote Taco House,4.6,Former 3M site,20
+1255,30.199,-97.8276,Papalote Taco House,4.5,Former 3M site,20
+1256,30.199,-97.8276,Trace,3.9,Former 3M site,20
+1257,30.199,-97.8276,Odd Duck,4.6,Former 3M site,20
+1258,30.199,-97.8276,Lucy's Fried Chicken,4.3,Former 3M site,20
+1259,30.199,-97.8276,Jason's Deli,4.1,Former 3M site,20
+1260,30.199,-97.8276,Popeyes Louisiana Kitchen,3.1,Former 3M site,20
+1261,30.4015,-97.7268,Trudy's North Star,3.9,The Domain,20
+1262,30.4015,-97.7268,Roaring Fork,4.4,The Domain,20
+1263,30.4015,-97.7268,North Italia,4.2,The Domain,20
+1264,30.4015,-97.7268,Threadgill's Old #1,4.2,The Domain,20
+1265,30.4015,-97.7268,Buca di Beppo Italian Restaurant,3.9,The Domain,20
+1266,30.4015,-97.7268,Jim's Restaurant,4.3,The Domain,20
+1267,30.4015,-97.7268,African Market/Nigerian Restaurant,4.3,The Domain,20
+1268,30.4015,-97.7268,2nd Gen Restaurant,NAN,The Domain,20
+1269,30.4015,-97.7268,Buca di Beppo Italian Restaurant,2.9,The Domain,20
+1270,30.4015,-97.7268,SUBWAY,3.4,The Domain,20
+1271,30.4015,-97.7268,Baghdadi Restaurant,4.2,The Domain,20
+1272,30.4015,-97.7268,Papalote Taco House,4.4,The Domain,20
+1273,30.4015,-97.7268,Arby's,4.6,The Domain,20
+1274,30.4015,-97.7268,Culver's,4.4,The Domain,20
+1275,30.4015,-97.7268,Carrabba's Italian Grill,4,The Domain,20
+1276,30.4015,-97.7268,Jason's Deli,4.1,The Domain,20
+1277,30.4015,-97.7268,IHOP,3.7,The Domain,20
+1278,30.4015,-97.7268,California Pizza Kitchen at The Domain,3.9,The Domain,20
+1279,30.4015,-97.7268,Kona Grill - Austin,3.8,The Domain,20
+1280,30.4015,-97.7268,Applebee’s Grill + Bar,3.6,The Domain,20
+1281,30.4014,-97.7147,Trudy's North Star,3.9,Bardmoor Campus,20
+1282,30.4014,-97.7147,Roaring Fork,4.4,Bardmoor Campus,20
+1283,30.4014,-97.7147,North Italia,4.2,Bardmoor Campus,20
+1284,30.4014,-97.7147,Buca di Beppo Italian Restaurant,3.9,Bardmoor Campus,20
+1285,30.4014,-97.7147,Jim's Restaurant,4.3,Bardmoor Campus,20
+1286,30.4014,-97.7147,African Market/Nigerian Restaurant,4.3,Bardmoor Campus,20
+1287,30.4014,-97.7147,2nd Gen Restaurant,NAN,Bardmoor Campus,20
+1288,30.4014,-97.7147,Baghdadi Restaurant,4.2,Bardmoor Campus,20
+1289,30.4014,-97.7147,Papalote Taco House,4.4,Bardmoor Campus,20
+1290,30.4014,-97.7147,SUBWAY,3.4,Bardmoor Campus,20
+1291,30.4014,-97.7147,Threadgill's Old #1,4.2,Bardmoor Campus,20
+1292,30.4014,-97.7147,Arby's,4.6,Bardmoor Campus,20
+1293,30.4014,-97.7147,Culver's,4.4,Bardmoor Campus,20
+1294,30.4014,-97.7147,Carrabba's Italian Grill,4,Bardmoor Campus,20
+1295,30.4014,-97.7147,IHOP,3.7,Bardmoor Campus,20
+1296,30.4014,-97.7147,California Pizza Kitchen at The Domain,3.9,Bardmoor Campus,20
+1297,30.4014,-97.7147,Kona Grill - Austin,3.8,Bardmoor Campus,20
+1298,30.4014,-97.7147,First Watch - Northcross,3.9,Bardmoor Campus,20
+1299,30.4014,-97.7147,Tinos Greek Cafe,4,Bardmoor Campus,20
+1300,30.4014,-97.7147,Tinos Greek Cafe,3.9,Bardmoor Campus,20
+1301,30.4704,-97.7701,Buca di Beppo Italian Restaurant,2.9,Robinson Ranch,20
+1302,30.4704,-97.7701,The Grove Wine Bar & Kitchen - Cedar Park,4.3,Robinson Ranch,20
+1303,30.4704,-97.7701,Red Robin,3.1,Robinson Ranch,20
+1304,30.4704,-97.7701,Lupe Tortilla,4.2,Robinson Ranch,20
+1305,30.4704,-97.7701,Takara Sushi and Asian Bistro,4.5,Robinson Ranch,20
+1306,30.4704,-97.7701,BJ's Restaurant & Brewhouse,4.1,Robinson Ranch,20
+1307,30.4704,-97.7701,Yaghi's New York Pizzeria,4.1,Robinson Ranch,20
+1308,30.4704,-97.7701,Gino’s Italian Restaurant,4.3,Robinson Ranch,20
+1309,30.4704,-97.7701,Moonie's Burger House,4.5,Robinson Ranch,20
+1310,30.4704,-97.7701,Torchy's Tacos,4.4,Robinson Ranch,20
+1311,30.4704,-97.7701,Los Reyes Mexican Restaurant,4.2,Robinson Ranch,20
+1312,30.4704,-97.7701,Serranos Cocina y Cantina - Cedar Park,4.2,Robinson Ranch,20
+1313,30.4704,-97.7701,Texican Cafe,4,Robinson Ranch,20
+1314,30.4704,-97.7701,C.R. Surf & Turf Restaurant,4.4,Robinson Ranch,20
+1315,30.4704,-97.7701,Chili's Grill & Bar,3.7,Robinson Ranch,20
+1316,30.4704,-97.7701,Kim Phung Restaurant,4.2,Robinson Ranch,20
+1317,30.4704,-97.7701,Damiano's Italian Restaurant,4.3,Robinson Ranch,20
+1318,30.4704,-97.7701,IHOP,3.6,Robinson Ranch,20
+1319,30.4704,-97.7701,Jardin Corona,4.3,Robinson Ranch,20
+1320,30.4704,-97.7701,Jardin Corona,4.4,Robinson Ranch,20
+1321,30.1338,-97.6411,La Bonita Mexican Restaurant,3.9,Project Catalyst,20
+1322,30.1338,-97.6411,Meches Mexican Restaurant,4.5,Project Catalyst,20
+1323,30.1338,-97.6411,Fruit Mex & Restaurant,4.2,Project Catalyst,20
+1324,30.1338,-97.6411,Rubio Restaurant & Bar,4,Project Catalyst,20
+1325,30.1338,-97.6411,BamBam,NAN,Project Catalyst,20
+1326,30.1338,-97.6411,pats parking and tacos,NAN,Project Catalyst,20
+1327,30.1338,-97.6411,Mi Lupita taqueria,4.4,Project Catalyst,20
+1328,30.1338,-97.6411,Taqueria Cornejo,4.5,Project Catalyst,20
+1329,30.1338,-97.6411,Subway,3.9,Project Catalyst,20
+1330,30.1338,-97.6411,SUBWAY®Restaurants,3.5,Project Catalyst,20
+1331,30.1338,-97.6411,F&F Fruit Cups,4.6,Project Catalyst,20
+1332,30.1338,-97.6411,Veronica's Pupusas y Tacos,4.8,Project Catalyst,20
+1333,30.1338,-97.6411,El Bucanero,NAN,Project Catalyst,20
+1334,30.1338,-97.6411,Barbacoa Santa Rosa,NAN,Project Catalyst,20
+1335,30.1338,-97.6411,Salt Lick Taco Bar,NAN,Project Catalyst,20
+1336,30.1338,-97.6411,Taco Stand,NAN,Project Catalyst,20
+1337,30.1338,-97.6411,Blue Prairie at NLand Surf Park,5,Project Catalyst,20
+1338,30.1338,-97.6411,Taqueria Mis tesoros,NAN,Project Catalyst,20
+1339,30.1338,-97.6411,Sonic Drive-In,2.4,Project Catalyst,20
+1340,30.1338,-97.6411,Schlotzsky's,2.3,Project Catalyst,20
+1341,38.96,-77.42,Hub Theatre,NAN,Center for Innovation Technology,9
+1342,38.96,-77.42,AMC Worldgate 9,4.5,Center for Innovation Technology,9
+1343,38.96,-77.42,AMC Loudoun Station 11,4.4,Center for Innovation Technology,9
+1344,38.96,-77.42,Bow Tie Cinemas Reston Town Center 11 & BTX,3.8,Center for Innovation Technology,9
+1345,38.96,-77.42,Regal Cinemas Dulles Town Center 10,4.3,Center for Innovation Technology,9
+1346,38.96,-77.42,Airbus IMAX Theater,4.6,Center for Innovation Technology,9
+1347,38.96,-77.42,Classical Ballet Theatre,4.3,Center for Innovation Technology,9
+1348,38.96,-77.42,NextStop Theatre Company,4.7,Center for Innovation Technology,9
+1349,38.96,-77.42,Herndon High School Drama,5,Center for Innovation Technology,9
+1350,38.84,-77.05,The Miracle Theatre,4.6,Crystal City and Potomac Yard,20
+1351,38.84,-77.05,Landmark Theatres E Street Cinema,4.6,Crystal City and Potomac Yard,20
+1352,38.84,-77.05,Landmark Theaters West End Cinema,4.2,Crystal City and Potomac Yard,20
+1353,38.84,-77.05,AMC Hoffman Center 22,4,Crystal City and Potomac Yard,20
+1354,38.84,-77.05,AMC Loews Georgetown 14,4.3,Crystal City and Potomac Yard,20
+1355,38.84,-77.05,AMC Courthouse Plaza 8,4.4,Crystal City and Potomac Yard,20
+1356,38.84,-77.05,AMC Shirlington 7,4.4,Crystal City and Potomac Yard,20
+1357,38.84,-77.05,AMC Rivertowne 12,4.3,Crystal City and Potomac Yard,20
+1358,38.84,-77.05,Regal Cinemas Gallery Place 14,3.9,Crystal City and Potomac Yard,20
+1359,38.84,-77.05,Regal Cinemas Ballston Common 12,3.4,Crystal City and Potomac Yard,20
+1360,38.84,-77.05,Regal Cinemas Kingstowne 16 & RPX,4.2,Crystal City and Potomac Yard,20
+1361,38.84,-77.05,Studio Theatre,4.6,Crystal City and Potomac Yard,20
+1362,38.84,-77.05,Ford's Theatre,4.6,Crystal City and Potomac Yard,20
+1363,38.84,-77.05,The Keegan Theatre,4.8,Crystal City and Potomac Yard,20
+1364,38.84,-77.05,Warner Theatre,4.4,Crystal City and Potomac Yard,20
+1365,38.84,-77.05,The National Theatre,4.5,Crystal City and Potomac Yard,20
+1366,38.84,-77.05,Woolly Mammoth Theatre Company,4.8,Crystal City and Potomac Yard,20
+1367,38.84,-77.05,Little Theatre of Alexandria,4.6,Crystal City and Potomac Yard,20
+1368,38.84,-77.05,Angelika Pop-Up at Union Market,4.4,Crystal City and Potomac Yard,20
+1369,38.84,-77.05,Regal Cinemas Potomac Yard 16,3.6,Crystal City and Potomac Yard,20
+1370,38.86,-77.01,The Miracle Theatre,4.6,Nationals Park/ D.C United Stadium,20
+1371,38.86,-77.01,Landmark Theatres E Street Cinema,4.6,Nationals Park/ D.C United Stadium,20
+1372,38.86,-77.01,Landmark Theaters West End Cinema,4.2,Nationals Park/ D.C United Stadium,20
+1373,38.86,-77.01,AMC Hoffman Center 22,4,Nationals Park/ D.C United Stadium,20
+1374,38.86,-77.01,Phoenix Theatres Marlow 6,3.9,Nationals Park/ D.C United Stadium,20
+1375,38.86,-77.01,AMC Loews Georgetown 14,4.3,Nationals Park/ D.C United Stadium,20
+1376,38.86,-77.01,AMC Courthouse Plaza 8,4.4,Nationals Park/ D.C United Stadium,20
+1377,38.86,-77.01,AMC Shirlington 7,4.4,Nationals Park/ D.C United Stadium,20
+1378,38.86,-77.01,AMC Rivertowne 12,4.3,Nationals Park/ D.C United Stadium,20
+1379,38.86,-77.01,Regal Cinemas Gallery Place 14,3.9,Nationals Park/ D.C United Stadium,20
+1380,38.86,-77.01,Landmark's Atlantic Plumbing Cinema,4.6,Nationals Park/ D.C United Stadium,20
+1381,38.86,-77.01,Studio Theatre,4.6,Nationals Park/ D.C United Stadium,20
+1382,38.86,-77.01,Ford's Theatre,4.6,Nationals Park/ D.C United Stadium,20
+1383,38.86,-77.01,The Keegan Theatre,4.8,Nationals Park/ D.C United Stadium,20
+1384,38.86,-77.01,Warner Theatre,4.4,Nationals Park/ D.C United Stadium,20
+1385,38.86,-77.01,The National Theatre,4.5,Nationals Park/ D.C United Stadium,20
+1386,38.86,-77.01,Woolly Mammoth Theatre Company,4.8,Nationals Park/ D.C United Stadium,20
+1387,38.86,-77.01,Little Theatre of Alexandria,4.6,Nationals Park/ D.C United Stadium,20
+1388,38.86,-77.01,Angelika Pop-Up at Union Market,4.4,Nationals Park/ D.C United Stadium,20
+1389,38.86,-77.01,Regal Cinemas Potomac Yard 16,3.6,Nationals Park/ D.C United Stadium,20
+1390,38.89,-77,AMC Loews Uptown 1,4.6,Union Station,20
+1391,38.89,-77,The Miracle Theatre,4.6,Union Station,20
+1392,38.89,-77,Landmark Theatres E Street Cinema,4.6,Union Station,20
+1393,38.89,-77,Landmark Theaters West End Cinema,4.2,Union Station,20
+1394,38.89,-77,AMC Loews Georgetown 14,4.3,Union Station,20
+1395,38.89,-77,AMC Courthouse Plaza 8,4.4,Union Station,20
+1396,38.89,-77,AMC Shirlington 7,4.4,Union Station,20
+1397,38.89,-77,Phoenix Theatres Marlow 6,3.9,Union Station,20
+1398,38.89,-77,Landmark's Atlantic Plumbing Cinema,4.6,Union Station,20
+1399,38.89,-77,Regal Cinemas Gallery Place 14,3.9,Union Station,20
+1400,38.89,-77,AMC Mazza Gallerie,3.9,Union Station,20
+1401,38.89,-77,Studio Theatre,4.6,Union Station,20
+1402,38.89,-77,Ford's Theatre,4.6,Union Station,20
+1403,38.89,-77,The Keegan Theatre,4.8,Union Station,20
+1404,38.89,-77,Warner Theatre,4.4,Union Station,20
+1405,38.89,-77,The National Theatre,4.5,Union Station,20
+1406,38.89,-77,Woolly Mammoth Theatre Company,4.8,Union Station,20
+1407,38.89,-77,Angelika Pop-Up at Union Market,4.4,Union Station,20
+1408,38.89,-77,Regal Cinemas Potomac Yard 16,3.6,Union Station,20
+1409,38.89,-77,Shakespeare Theatre Company: Lansburgh Theatre,4.6,Union Station,20
+1410,38.88,-76.97,The Miracle Theatre,4.6,Hill-East Neighborhood,20
+1411,38.88,-76.97,Landmark Theatres E Street Cinema,4.6,Hill-East Neighborhood,20
+1412,38.88,-76.97,Landmark Theaters West End Cinema,4.2,Hill-East Neighborhood,20
+1413,38.88,-76.97,AMC Loews Uptown 1,4.6,Hill-East Neighborhood,20
+1414,38.88,-76.97,Phoenix Theatres Marlow 6,3.9,Hill-East Neighborhood,20
+1415,38.88,-76.97,AMC Loews Georgetown 14,4.3,Hill-East Neighborhood,20
+1416,38.88,-76.97,Regal Cinemas Gallery Place 14,3.9,Hill-East Neighborhood,20
+1417,38.88,-76.97,Landmark's Atlantic Plumbing Cinema,4.6,Hill-East Neighborhood,20
+1418,38.88,-76.97,AMC Rivertowne 12,4.3,Hill-East Neighborhood,20
+1419,38.88,-76.97,Studio Theatre,4.6,Hill-East Neighborhood,20
+1420,38.88,-76.97,Ford's Theatre,4.6,Hill-East Neighborhood,20
+1421,38.88,-76.97,Warner Theatre,4.4,Hill-East Neighborhood,20
+1422,38.88,-76.97,The Keegan Theatre,4.8,Hill-East Neighborhood,20
+1423,38.88,-76.97,The National Theatre,4.5,Hill-East Neighborhood,20
+1424,38.88,-76.97,Woolly Mammoth Theatre Company,4.8,Hill-East Neighborhood,20
+1425,38.88,-76.97,Angelika Pop-Up at Union Market,4.4,Hill-East Neighborhood,20
+1426,38.88,-76.97,Regal Cinemas Potomac Yard 16,3.6,Hill-East Neighborhood,20
+1427,38.88,-76.97,Shakespeare Theatre Company: Lansburgh Theatre,4.6,Hill-East Neighborhood,20
+1428,38.88,-76.97,Lockheed Martin IMAX Theater,4.5,Hill-East Neighborhood,20
+1429,38.88,-76.97,Lincoln Theatre,4.4,Hill-East Neighborhood,20
+1430,38.91,-77.02,AMC Loews Uptown 1,4.6,Shaw-Howard University Area,20
+1431,38.91,-77.02,The Miracle Theatre,4.6,Shaw-Howard University Area,20
+1432,38.91,-77.02,Landmark Theatres E Street Cinema,4.6,Shaw-Howard University Area,20
+1433,38.91,-77.02,Landmark Theaters West End Cinema,4.2,Shaw-Howard University Area,20
+1434,38.91,-77.02,Landmark Theatres Bethesda Row Cinema,4.4,Shaw-Howard University Area,20
+1435,38.91,-77.02,The Avalon Theatre,4.5,Shaw-Howard University Area,20
+1436,38.91,-77.02,AMC Loews Georgetown 14,4.3,Shaw-Howard University Area,20
+1437,38.91,-77.02,AMC Courthouse Plaza 8,4.4,Shaw-Howard University Area,20
+1438,38.91,-77.02,AMC Shirlington 7,4.4,Shaw-Howard University Area,20
+1439,38.91,-77.02,AMC Mazza Gallerie,3.9,Shaw-Howard University Area,20
+1440,38.91,-77.02,Regal Cinemas Hyattsville Royale 14,4.1,Shaw-Howard University Area,20
+1441,38.91,-77.02,Landmark's Atlantic Plumbing Cinema,4.6,Shaw-Howard University Area,20
+1442,38.91,-77.02,Regal Cinemas Ballston Common 12,3.4,Shaw-Howard University Area,20
+1443,38.91,-77.02,Regal Cinemas Gallery Place 14,3.9,Shaw-Howard University Area,20
+1444,38.91,-77.02,Phoenix Theatres Marlow 6,3.9,Shaw-Howard University Area,20
+1445,38.91,-77.02,Studio Theatre,4.6,Shaw-Howard University Area,20
+1446,38.91,-77.02,Ford's Theatre,4.6,Shaw-Howard University Area,20
+1447,38.91,-77.02,The Keegan Theatre,4.8,Shaw-Howard University Area,20
+1448,38.91,-77.02,Warner Theatre,4.4,Shaw-Howard University Area,20
+1449,38.91,-77.02,The National Theatre,4.5,Shaw-Howard University Area,20
+1450,34.1802,-118.6028,Pacific Winnetka 12 & XD,4.4,Warner Center West San Fernando Valley,11
+1451,34.1802,-118.6028,AMC Promenade 16,4.2,Warner Center West San Fernando Valley,11
+1452,34.1802,-118.6028,AMC Fallbrook 7,4.6,Warner Center West San Fernando Valley,11
+1453,34.1802,-118.6028,Northridge Pacific Theaters,4,Warner Center West San Fernando Valley,11
+1454,34.1802,-118.6028,Chameleons Mime Theatre,5,Warner Center West San Fernando Valley,11
+1455,34.1802,-118.6028,Armer Theater,3,Warner Center West San Fernando Valley,11
+1456,34.1802,-118.6028,Edwards Calabasas 6,4.3,Warner Center West San Fernando Valley,11
+1457,34.1802,-118.6028,California State University Campus Theatre,3.5,Warner Center West San Fernando Valley,11
+1458,34.1802,-118.6028,Madrid Theatre,4,Warner Center West San Fernando Valley,11
+1459,34.1802,-118.6028,Class Act Musical Theatre,4.3,Warner Center West San Fernando Valley,11
+1460,34.1802,-118.6028,Woodland Hills Community Theatre,NAN,Warner Center West San Fernando Valley,11
+1461,34.4318,-118.5584,Laemmle Theatres 6 (Coming Soon),NAN,New Hall Ranch Santa Clarita Valley,5
+1462,34.4318,-118.5584,Edwards Valencia 12 & IMAX,4,New Hall Ranch Santa Clarita Valley,5
+1463,34.4318,-118.5584,Westfield Valencia Town Center,4.4,New Hall Ranch Santa Clarita Valley,5
+1464,34.4318,-118.5584,Canyon Theatre Guild,4.7,New Hall Ranch Santa Clarita Valley,5
+1465,34.4318,-118.5584,Golden Bear Theater,3.9,New Hall Ranch Santa Clarita Valley,5
+1466,34.0885,-117.7702,Mission Tiki Drive in Theatre and Swap Meet,4.3,Pomona Fairplex,11
+1467,34.0885,-117.7702,AMC Glendora 12,4.4,Pomona Fairplex,11
+1468,34.0885,-117.7702,Laemmle's Claremont 5,4.4,Pomona Fairplex,11
+1469,34.0885,-117.7702,Cinemark MOVIES 8,4.2,Pomona Fairplex,11
+1470,34.0885,-117.7702,Edwards La Verne 12,4.4,Pomona Fairplex,11
+1471,34.0885,-117.7702,Inland Valley Repertory Theatre,5,Pomona Fairplex,11
+1472,34.0885,-117.7702,Aol Movie Phone,3.7,Pomona Fairplex,11
+1473,34.0885,-117.7702,Cal Poly Pomona Department of Theatre and New Dance,4.7,Pomona Fairplex,11
+1474,34.0885,-117.7702,Claremont High School Theatre,4.2,Pomona Fairplex,11
+1475,34.0885,-117.7702,Byron Dick Seaver Theatre Complex,4,Pomona Fairplex,11
+1476,34.0885,-117.7702,Seventh Street Community Theatre,4.7,Pomona Fairplex,11
+1477,42.39,-71,AMC Loews Boston Common 19,4.1,Suffolk Downs,20
+1478,42.39,-71,Center Theatre,4.5,Suffolk Downs,20
+1479,42.39,-71,Mugar Omni Theater,4.6,Suffolk Downs,20
+1480,42.39,-71,AMC South Bay Center 12,4.2,Suffolk Downs,20
+1481,42.39,-71,AMC Assembly Row 12,4.5,Suffolk Downs,20
+1482,42.39,-71,Landmark's Kendall Square Cinema,4.4,Suffolk Downs,20
+1483,42.39,-71,Simons IMAX Theater,4.4,Suffolk Downs,20
+1484,42.39,-71,ShowPlace ICON Theatres at Seaport with ICON•X - Boston,4.6,Suffolk Downs,20
+1485,42.39,-71,Showcase Cinema de Lux Revere,4.4,Suffolk Downs,20
+1486,42.39,-71,Orpheum Theatre,3.8,Suffolk Downs,20
+1487,42.39,-71,Boston Children's Theatre,5,Suffolk Downs,20
+1488,42.39,-71,Huntington Avenue Theatre,5,Suffolk Downs,20
+1489,42.39,-71,Fort Point Theatre Channel,NAN,Suffolk Downs,20
+1490,42.39,-71,Boch Center - Shubert Theatre,4.3,Suffolk Downs,20
+1491,42.39,-71,Cutler Majestic Theatre,4.6,Suffolk Downs,20
+1492,42.39,-71,Emerson Colonial Theatre,4,Suffolk Downs,20
+1493,42.39,-71,Apollinaire Theatre Company,NAN,Suffolk Downs,20
+1494,42.39,-71,Chamber Theatre Production,NAN,Suffolk Downs,20
+1495,42.39,-71,Modern Theatre - Suffolk University,1,Suffolk Downs,20
+1496,42.39,-71,Wang Theatre Stage Door,5,Suffolk Downs,20
+1497,42.34,-71.03,AMC Loews Boston Common 19,4.1,South Boston Waterfront,20
+1498,42.34,-71.03,The Brattle Theatre,4.8,South Boston Waterfront,20
+1499,42.34,-71.03,Somerville Theatre,4.6,South Boston Waterfront,20
+1500,42.34,-71.03,Coolidge Corner Theatre,4.7,South Boston Waterfront,20
+1501,42.34,-71.03,Center Theatre,4.5,South Boston Waterfront,20
+1502,42.34,-71.03,Mugar Omni Theater,4.6,South Boston Waterfront,20
+1503,42.34,-71.03,AMC South Bay Center 12,4.2,South Boston Waterfront,20
+1504,42.34,-71.03,AMC Assembly Row 12,4.5,South Boston Waterfront,20
+1505,42.34,-71.03,Landmark's Kendall Square Cinema,4.4,South Boston Waterfront,20
+1506,42.34,-71.03,Simons IMAX Theater,4.4,South Boston Waterfront,20
+1507,42.34,-71.03,Underground Railway Theater,NAN,South Boston Waterfront,20
+1508,42.34,-71.03,Regal Cinemas Fenway 13 & RPX,4.3,South Boston Waterfront,20
+1509,42.34,-71.03,ShowPlace ICON Theatres at Seaport with ICON•X - Boston,4.6,South Boston Waterfront,20
+1510,42.34,-71.03,Orpheum Theatre,3.8,South Boston Waterfront,20
+1511,42.34,-71.03,Boston Children's Theatre,5,South Boston Waterfront,20
+1512,42.34,-71.03,Huntington Avenue Theatre,5,South Boston Waterfront,20
+1513,42.34,-71.03,School of Theatre,NAN,South Boston Waterfront,20
+1514,42.34,-71.03,Fort Point Theatre Channel,NAN,South Boston Waterfront,20
+1515,42.34,-71.03,Sanders Theatre,4.7,South Boston Waterfront,20
+1516,42.34,-71.03,Cutler Majestic Theatre,4.6,South Boston Waterfront,20
+1517,42.35,-71.05,AMC Loews Boston Common 19,4.1,Downtown,20
+1518,42.35,-71.05,The Brattle Theatre,4.8,Downtown,20
+1519,42.35,-71.05,Somerville Theatre,4.6,Downtown,20
+1520,42.35,-71.05,Coolidge Corner Theatre,4.7,Downtown,20
+1521,42.35,-71.05,Capitol Theatre,4.6,Downtown,20
+1522,42.35,-71.05,Center Theatre,4.5,Downtown,20
+1523,42.35,-71.05,Mugar Omni Theater,4.6,Downtown,20
+1524,42.35,-71.05,AMC South Bay Center 12,4.2,Downtown,20
+1525,42.35,-71.05,AMC Assembly Row 12,4.5,Downtown,20
+1526,42.35,-71.05,Landmark's Kendall Square Cinema,4.4,Downtown,20
+1527,42.35,-71.05,Simons IMAX Theater,4.4,Downtown,20
+1528,42.35,-71.05,Underground Railway Theater,NAN,Downtown,20
+1529,42.35,-71.05,Regal Cinemas Fenway 13 & RPX,4.3,Downtown,20
+1530,42.35,-71.05,ShowPlace ICON Theatres at Seaport with ICON•X - Boston,4.6,Downtown,20
+1531,42.35,-71.05,Orpheum Theatre,3.8,Downtown,20
+1532,42.35,-71.05,Boston Children's Theatre,5,Downtown,20
+1533,42.35,-71.05,Huntington Avenue Theatre,5,Downtown,20
+1534,42.35,-71.05,School of Theatre,NAN,Downtown,20
+1535,42.35,-71.05,Fort Point Theatre Channel,NAN,Downtown,20
+1536,42.35,-71.05,Sanders Theatre,4.7,Downtown,20
+1537,42.34,-71.06,AMC Loews Boston Common 19,4.1,South End,20
+1538,42.34,-71.06,The Brattle Theatre,4.8,South End,20
+1539,42.34,-71.06,Somerville Theatre,4.6,South End,20
+1540,42.34,-71.06,Coolidge Corner Theatre,4.7,South End,20
+1541,42.34,-71.06,Capitol Theatre,4.6,South End,20
+1542,42.34,-71.06,Center Theatre,4.5,South End,20
+1543,42.34,-71.06,Mugar Omni Theater,4.6,South End,20
+1544,42.34,-71.06,AMC South Bay Center 12,4.2,South End,20
+1545,42.34,-71.06,AMC Assembly Row 12,4.5,South End,20
+1546,42.34,-71.06,Landmark's Kendall Square Cinema,4.4,South End,20
+1547,42.34,-71.06,Simons IMAX Theater,4.4,South End,20
+1548,42.34,-71.06,Underground Railway Theater,NAN,South End,20
+1549,42.34,-71.06,Regal Cinemas Fenway 13 & RPX,4.3,South End,20
+1550,42.34,-71.06,ShowPlace ICON Theatres at Seaport with ICON•X - Boston,4.6,South End,20
+1551,42.34,-71.06,Orpheum Theatre,3.8,South End,20
+1552,42.34,-71.06,Boston Children's Theatre,5,South End,20
+1553,42.34,-71.06,Huntington Avenue Theatre,5,South End,20
+1554,42.34,-71.06,School of Theatre,NAN,South End,20
+1555,42.34,-71.06,Fort Point Theatre Channel,NAN,South End,20
+1556,42.34,-71.06,Sanders Theatre,4.7,South End,20
+1557,40.75,-74,Kirk Theatre (The),3.9,Hudson Yards,20
+1558,40.75,-74,Columbia University￼ Miller Theatre,NAN,Hudson Yards,20
+1559,40.75,-74,The Paris Theatre,4.4,Hudson Yards,20
+1560,40.75,-74,Bridge Theatre,NAN,Hudson Yards,20
+1561,40.75,-74,Hypothetical Theatre Co Inc,3,Hudson Yards,20
+1562,40.75,-74,SVA Theatre,4.1,Hudson Yards,20
+1563,40.75,-74,The Beekman Theatre,3.8,Hudson Yards,20
+1564,40.75,-74,Wicked Theatre,4.7,Hudson Yards,20
+1565,40.75,-74,The Landmark Loew's Jersey Theatre,4.7,Hudson Yards,20
+1566,40.75,-74,Liberty Theatres,NAN,Hudson Yards,20
+1567,40.75,-74,AMC Empire 25,4.1,Hudson Yards,20
+1568,40.75,-74,AMC Village 7,4.3,Hudson Yards,20
+1569,40.75,-74,AMC Loews Lincoln Square 13,4.3,Hudson Yards,20
+1570,40.75,-74,Black Moon Theatre Company,NAN,Hudson Yards,20
+1571,40.75,-74,AMC Loews 34th Street 14,4.1,Hudson Yards,20
+1572,40.75,-74,Cobble Hill Cinemas,4.1,Hudson Yards,20
+1573,40.75,-74,Theatre Maximus,NAN,Hudson Yards,20
+1574,40.75,-74,AMC Newport Centre 11,4.1,Hudson Yards,20
+1575,40.75,-74,AMC 84th Street 6,4.5,Hudson Yards,20
+1576,40.75,-74,AMC Loews Orpheum 7,3.7,Hudson Yards,20
+1577,40.74,-73.94,Kirk Theatre (The),3.9,Long Island City,20
+1578,40.74,-73.94,The Paris Theatre,4.4,Long Island City,20
+1579,40.74,-73.94,Columbia University￼ Miller Theatre,NAN,Long Island City,20
+1580,40.74,-73.94,Bridge Theatre,NAN,Long Island City,20
+1581,40.74,-73.94,Hypothetical Theatre Co Inc,3,Long Island City,20
+1582,40.74,-73.94,SVA Theatre,4.1,Long Island City,20
+1583,40.74,-73.94,The Beekman Theatre,3.8,Long Island City,20
+1584,40.74,-73.94,Fair Theatre,3.8,Long Island City,20
+1585,40.74,-73.94,Wicked Theatre,4.7,Long Island City,20
+1586,40.74,-73.94,Liberty Theatres,NAN,Long Island City,20
+1587,40.74,-73.94,AMC Empire 25,4.1,Long Island City,20
+1588,40.74,-73.94,AMC Village 7,4.3,Long Island City,20
+1589,40.74,-73.94,AMC Loews Orpheum 7,3.7,Long Island City,20
+1590,40.74,-73.94,AMC Kips Bay 15,4.4,Long Island City,20
+1591,40.74,-73.94,Black Moon Theatre Company,NAN,Long Island City,20
+1592,40.74,-73.94,Cobble Hill Cinemas,4.1,Long Island City,20
+1593,40.74,-73.94,Theatre Maximus,NAN,Long Island City,20
+1594,40.74,-73.94,AMC Loews Lincoln Square 13,4.3,Long Island City,20
+1595,40.74,-73.94,AMC 84th Street 6,4.5,Long Island City,20
+1596,40.74,-73.94,AMC Loews 34th Street 14,4.1,Long Island City,20
+1597,40.7,-73.98,Kirk Theatre (The),3.9,Brooklyn Tech Triangle,20
+1598,40.7,-73.98,The Paris Theatre,4.4,Brooklyn Tech Triangle,20
+1599,40.7,-73.98,Bridge Theatre,NAN,Brooklyn Tech Triangle,20
+1600,40.7,-73.98,Hypothetical Theatre Co Inc,3,Brooklyn Tech Triangle,20
+1601,40.7,-73.98,SVA Theatre,4.1,Brooklyn Tech Triangle,20
+1602,40.7,-73.98,The Beekman Theatre,3.8,Brooklyn Tech Triangle,20
+1603,40.7,-73.98,Wicked Theatre,4.7,Brooklyn Tech Triangle,20
+1604,40.7,-73.98,The Landmark Loew's Jersey Theatre,4.7,Brooklyn Tech Triangle,20
+1605,40.7,-73.98,Auerbach Pollock Friedlander,NAN,Brooklyn Tech Triangle,20
+1606,40.7,-73.98,Liberty Theatres,NAN,Brooklyn Tech Triangle,20
+1607,40.7,-73.98,AMC Village 7,4.3,Brooklyn Tech Triangle,20
+1608,40.7,-73.98,AMC Kips Bay 15,4.4,Brooklyn Tech Triangle,20
+1609,40.7,-73.98,AMC Loews 19th St. East 6,3.4,Brooklyn Tech Triangle,20
+1610,40.7,-73.98,Black Moon Theatre Company,NAN,Brooklyn Tech Triangle,20
+1611,40.7,-73.98,AMC Newport Centre 11,4.1,Brooklyn Tech Triangle,20
+1612,40.7,-73.98,Cobble Hill Cinemas,4.1,Brooklyn Tech Triangle,20
+1613,40.7,-73.98,Theatre Maximus,NAN,Brooklyn Tech Triangle,20
+1614,40.7,-73.98,AMC Empire 25,4.1,Brooklyn Tech Triangle,20
+1615,40.7,-73.98,AMC Loews 34th Street 14,4.1,Brooklyn Tech Triangle,20
+1616,40.7,-73.98,United Artists Court Street 12 & RPX,3.9,Brooklyn Tech Triangle,20
+1617,40.7,-74.01,Kirk Theatre (The),3.9,Financial District,20
+1618,40.7,-74.01,The Paris Theatre,4.4,Financial District,20
+1619,40.7,-74.01,Hypothetical Theatre Co Inc,3,Financial District,20
+1620,40.7,-74.01,SVA Theatre,4.1,Financial District,20
+1621,40.7,-74.01,The Beekman Theatre,3.8,Financial District,20
+1622,40.7,-74.01,Wicked Theatre,4.7,Financial District,20
+1623,40.7,-74.01,The Landmark Loew's Jersey Theatre,4.7,Financial District,20
+1624,40.7,-74.01,Auerbach Pollock Friedlander,NAN,Financial District,20
+1625,40.7,-74.01,Liberty Theatres,NAN,Financial District,20
+1626,40.7,-74.01,AMC Village 7,4.3,Financial District,20
+1627,40.7,-74.01,AMC Kips Bay 15,4.4,Financial District,20
+1628,40.7,-74.01,AMC Loews 19th St. East 6,3.4,Financial District,20
+1629,40.7,-74.01,AMC Newport Centre 11,4.1,Financial District,20
+1630,40.7,-74.01,Black Moon Theatre Company,NAN,Financial District,20
+1631,40.7,-74.01,Frank Theatres South Cove Stadium 12,3.8,Financial District,20
+1632,40.7,-74.01,Cobble Hill Cinemas,4.1,Financial District,20
+1633,40.7,-74.01,Theatre Maximus,NAN,Financial District,20
+1634,40.7,-74.01,AMC Empire 25,4.1,Financial District,20
+1635,40.7,-74.01,AMC Loews 34th Street 14,4.1,Financial District,20
+1636,40.7,-74.01,United Artists Court Street 12 & RPX,3.9,Financial District,20
+1637,41.91,-87.64,AMC DINE-IN Block 37,4.1,Lincoln Yards,20
+1638,41.91,-87.64,AMC Navy Pier IMAX,4.1,Lincoln Yards,20
+1639,41.91,-87.64,Theatre Dreams Chicago,5,Lincoln Yards,20
+1640,41.91,-87.64,Vic Theatre,4.3,Lincoln Yards,20
+1641,41.91,-87.64,Music Box Theatre,4.7,Lincoln Yards,20
+1642,41.91,-87.64,The Logan Theatre,4.6,Lincoln Yards,20
+1643,41.91,-87.64,The Chicago Theatre,4.6,Lincoln Yards,20
+1644,41.91,-87.64,Theatre Shoppe Backstage,1,Lincoln Yards,20
+1645,41.91,-87.64,Theatre Production Group LLC,NAN,Lincoln Yards,20
+1646,41.91,-87.64,ShowPlace ICON Theatres at Roosevelt Collection with ICON•X,4.2,Lincoln Yards,20
+1647,41.91,-87.64,Ideal Theatre,NAN,Lincoln Yards,20
+1648,41.91,-87.64,Chicago Theatre,NAN,Lincoln Yards,20
+1649,41.91,-87.64,Uptown Theatre,3.4,Lincoln Yards,20
+1650,41.91,-87.64,AMC DINE-IN 600 North Michigan 9,4.4,Lincoln Yards,20
+1651,41.91,-87.64,AMC River East 21,4.3,Lincoln Yards,20
+1652,41.91,-87.64,Congress Theater,2.8,Lincoln Yards,20
+1653,41.91,-87.64,AMC Dine-in Theatres,4.2,Lincoln Yards,20
+1654,41.91,-87.64,Landmark's Century Centre Cinema,4.4,Lincoln Yards,20
+1655,41.91,-87.64,Regal Cinemas City North 14 IMAX & RPX,4.1,Lincoln Yards,20
+1656,41.91,-87.64,Regal Cinemas Webster Place 11,4.4,Lincoln Yards,20
+1657,41.89,-87.64,AMC DINE-IN Block 37,4.1,The River District,20
+1658,41.89,-87.64,AMC Navy Pier IMAX,4.1,The River District,20
+1659,41.89,-87.64,Theatre Dreams Chicago,5,The River District,20
+1660,41.89,-87.64,Vic Theatre,4.3,The River District,20
+1661,41.89,-87.64,Music Box Theatre,4.7,The River District,20
+1662,41.89,-87.64,The Logan Theatre,4.6,The River District,20
+1663,41.89,-87.64,The Chicago Theatre,4.6,The River District,20
+1664,41.89,-87.64,Theatre Shoppe Backstage,1,The River District,20
+1665,41.89,-87.64,Theatre Production Group LLC,NAN,The River District,20
+1666,41.89,-87.64,ShowPlace ICON Theatres at Roosevelt Collection with ICON•X,4.2,The River District,20
+1667,41.89,-87.64,Ideal Theatre,NAN,The River District,20
+1668,41.89,-87.64,Chicago Theatre,NAN,The River District,20
+1669,41.89,-87.64,AMC DINE-IN 600 North Michigan 9,4.4,The River District,20
+1670,41.89,-87.64,AMC River East 21,4.3,The River District,20
+1671,41.89,-87.64,Congress Theater,2.8,The River District,20
+1672,41.89,-87.64,AMC Dine-in Theatres,4.2,The River District,20
+1673,41.89,-87.64,Landmark's Century Centre Cinema,4.4,The River District,20
+1674,41.89,-87.64,Regal Cinemas City North 14 IMAX & RPX,4.1,The River District,20
+1675,41.89,-87.64,Regal Cinemas Webster Place 11,4.4,The River District,20
+1676,41.89,-87.64,CIBC Theatre,4.4,The River District,20
+1677,41.88,-87.65,AMC DINE-IN Block 37,4.1,Futton Market,20
+1678,41.88,-87.65,AMC Navy Pier IMAX,4.1,Futton Market,20
+1679,41.88,-87.65,Theatre Dreams Chicago,5,Futton Market,20
+1680,41.88,-87.65,Vic Theatre,4.3,Futton Market,20
+1681,41.88,-87.65,Music Box Theatre,4.7,Futton Market,20
+1682,41.88,-87.65,The Logan Theatre,4.6,Futton Market,20
+1683,41.88,-87.65,The Chicago Theatre,4.6,Futton Market,20
+1684,41.88,-87.65,Theatre Production Group LLC,NAN,Futton Market,20
+1685,41.88,-87.65,ShowPlace ICON Theatres at Roosevelt Collection with ICON•X,4.2,Futton Market,20
+1686,41.88,-87.65,Ideal Theatre,NAN,Futton Market,20
+1687,41.88,-87.65,Chicago Theatre,NAN,Futton Market,20
+1688,41.88,-87.65,AMC DINE-IN 600 North Michigan 9,4.4,Futton Market,20
+1689,41.88,-87.65,AMC River East 21,4.3,Futton Market,20
+1690,41.88,-87.65,AMC Showplace Cicero 14,4,Futton Market,20
+1691,41.88,-87.65,Congress Theater,2.8,Futton Market,20
+1692,41.88,-87.65,AMC Dine-in Theatres,4.2,Futton Market,20
+1693,41.88,-87.65,Landmark's Century Centre Cinema,4.4,Futton Market,20
+1694,41.88,-87.65,Regal Cinemas City North 14 IMAX & RPX,4.1,Futton Market,20
+1695,41.88,-87.65,Regal Cinemas Webster Place 11,4.4,Futton Market,20
+1696,41.88,-87.65,CIBC Theatre,4.4,Futton Market,20
+1697,41.87,-87.63,AMC DINE-IN Block 37,4.1,City Center Campus,20
+1698,41.87,-87.63,AMC Navy Pier IMAX,4.1,City Center Campus,20
+1699,41.87,-87.63,Theatre Dreams Chicago,5,City Center Campus,20
+1700,41.87,-87.63,Vic Theatre,4.3,City Center Campus,20
+1701,41.87,-87.63,The Logan Theatre,4.6,City Center Campus,20
+1702,41.87,-87.63,The Chicago Theatre,4.6,City Center Campus,20
+1703,41.87,-87.63,Theatre Production Group LLC,NAN,City Center Campus,20
+1704,41.87,-87.63,ShowPlace ICON Theatres at Roosevelt Collection with ICON•X,4.2,City Center Campus,20
+1705,41.87,-87.63,Ideal Theatre,NAN,City Center Campus,20
+1706,41.87,-87.63,AMC DINE-IN 600 North Michigan 9,4.4,City Center Campus,20
+1707,41.87,-87.63,AMC River East 21,4.3,City Center Campus,20
+1708,41.87,-87.63,Congress Theater,2.8,City Center Campus,20
+1709,41.87,-87.63,AMC Dine-in Theatres,4.2,City Center Campus,20
+1710,41.87,-87.63,Harper Theater,4.1,City Center Campus,20
+1711,41.87,-87.63,Regal Cinemas City North 14 IMAX & RPX,4.1,City Center Campus,20
+1712,41.87,-87.63,Regal Cinemas Webster Place 11,4.4,City Center Campus,20
+1713,41.87,-87.63,Landmark's Century Centre Cinema,4.4,City Center Campus,20
+1714,41.87,-87.63,CIBC Theatre,4.4,City Center Campus,20
+1715,41.87,-87.63,Cadillac Palace Theatre,4.6,City Center Campus,20
+1716,41.87,-87.63,Steppenwolf Theatre,4.7,City Center Campus,20
+1717,41.87,-87.62,AMC DINE-IN Block 37,4.1,The Downtown District,20
+1718,41.87,-87.62,AMC Navy Pier IMAX,4.1,The Downtown District,20
+1719,41.87,-87.62,Theatre Dreams Chicago,5,The Downtown District,20
+1720,41.87,-87.62,Vic Theatre,4.3,The Downtown District,20
+1721,41.87,-87.62,The Logan Theatre,4.6,The Downtown District,20
+1722,41.87,-87.62,The Chicago Theatre,4.6,The Downtown District,20
+1723,41.87,-87.62,Theatre Production Group LLC,NAN,The Downtown District,20
+1724,41.87,-87.62,ShowPlace ICON Theatres at Roosevelt Collection with ICON•X,4.2,The Downtown District,20
+1725,41.87,-87.62,Ideal Theatre,NAN,The Downtown District,20
+1726,41.87,-87.62,AMC DINE-IN 600 North Michigan 9,4.4,The Downtown District,20
+1727,41.87,-87.62,AMC River East 21,4.3,The Downtown District,20
+1728,41.87,-87.62,Congress Theater,2.8,The Downtown District,20
+1729,41.87,-87.62,AMC Dine-in Theatres,4.2,The Downtown District,20
+1730,41.87,-87.62,Harper Theater,4.1,The Downtown District,20
+1731,41.87,-87.62,Regal Cinemas City North 14 IMAX & RPX,4.1,The Downtown District,20
+1732,41.87,-87.62,Regal Cinemas Webster Place 11,4.4,The Downtown District,20
+1733,41.87,-87.62,Landmark's Century Centre Cinema,4.4,The Downtown District,20
+1734,41.87,-87.62,CIBC Theatre,4.4,The Downtown District,20
+1735,41.87,-87.62,Cadillac Palace Theatre,4.6,The Downtown District,20
+1736,41.87,-87.62,Steppenwolf Theatre,4.7,The Downtown District,20
+1737,41.86,-87.67,AMC DINE-IN Block 37,4.1,The Illinois Medical District,20
+1738,41.86,-87.67,AMC Navy Pier IMAX,4.1,The Illinois Medical District,20
+1739,41.86,-87.67,Theatre Dreams Chicago,5,The Illinois Medical District,20
+1740,41.86,-87.67,The Logan Theatre,4.6,The Illinois Medical District,20
+1741,41.86,-87.67,The Chicago Theatre,4.6,The Illinois Medical District,20
+1742,41.86,-87.67,Theatre Production Group LLC,NAN,The Illinois Medical District,20
+1743,41.86,-87.67,ShowPlace ICON Theatres at Roosevelt Collection with ICON•X,4.2,The Illinois Medical District,20
+1744,41.86,-87.67,Ideal Theatre,NAN,The Illinois Medical District,20
+1745,41.86,-87.67,AMC DINE-IN 600 North Michigan 9,4.4,The Illinois Medical District,20
+1746,41.86,-87.67,AMC River East 21,4.3,The Illinois Medical District,20
+1747,41.86,-87.67,AMC Showplace Cicero 14,4,The Illinois Medical District,20
+1748,41.86,-87.67,Congress Theater,2.8,The Illinois Medical District,20
+1749,41.86,-87.67,AMC Dine-in Theatres,4.2,The Illinois Medical District,20
+1750,41.86,-87.67,Harper Theater,4.1,The Illinois Medical District,20
+1751,41.86,-87.67,AMC CLASSIC Galewood Crossings 14,4.3,The Illinois Medical District,20
+1752,41.86,-87.67,Regal Cinemas City North 14 IMAX & RPX,4.1,The Illinois Medical District,20
+1753,41.86,-87.67,Regal Cinemas Webster Place 11,4.4,The Illinois Medical District,20
+1754,41.86,-87.67,CIBC Theatre,4.4,The Illinois Medical District,20
+1755,41.86,-87.67,Cadillac Palace Theatre,4.6,The Illinois Medical District,20
+1756,41.86,-87.67,Steppenwolf Theatre,4.7,The Illinois Medical District,20
+1757,41.85,-87.66,AMC DINE-IN Block 37,4.1,The 78,20
+1758,41.85,-87.66,AMC Navy Pier IMAX,4.1,The 78,20
+1759,41.85,-87.66,Theatre Dreams Chicago,5,The 78,20
+1760,41.85,-87.66,The Chicago Theatre,4.6,The 78,20
+1761,41.85,-87.66,Theatre Production Group LLC,NAN,The 78,20
+1762,41.85,-87.66,ShowPlace ICON Theatres at Roosevelt Collection with ICON•X,4.2,The 78,20
+1763,41.85,-87.66,Ideal Theatre,NAN,The 78,20
+1764,41.85,-87.66,AMC DINE-IN 600 North Michigan 9,4.4,The 78,20
+1765,41.85,-87.66,AMC River East 21,4.3,The 78,20
+1766,41.85,-87.66,AMC Showplace Cicero 14,4,The 78,20
+1767,41.85,-87.66,Congress Theater,2.8,The 78,20
+1768,41.85,-87.66,AMC Dine-in Theatres,4.2,The 78,20
+1769,41.85,-87.66,Harper Theater,4.1,The 78,20
+1770,41.85,-87.66,Regal Cinemas Webster Place 11,4.4,The 78,20
+1771,41.85,-87.66,CIBC Theatre,4.4,The 78,20
+1772,41.85,-87.66,Cadillac Palace Theatre,4.6,The 78,20
+1773,41.85,-87.66,Steppenwolf Theatre,4.7,The 78,20
+1774,41.85,-87.66,Lookingglass Theatre Company,4.9,The 78,20
+1775,41.85,-87.66,League of Chicago Theatres,4.4,The 78,20
+1776,41.85,-87.66,Goodman Theatre,4.7,The 78,20
+1777,41.83,-87.6,AMC Navy Pier IMAX,4.1,Burnham Lakefront,20
+1778,41.83,-87.6,AMC DINE-IN Block 37,4.1,Burnham Lakefront,20
+1779,41.83,-87.6,Theatre Dreams Chicago,5,Burnham Lakefront,20
+1780,41.83,-87.6,The Chicago Theatre,4.6,Burnham Lakefront,20
+1781,41.83,-87.6,Theatre Production Group LLC,NAN,Burnham Lakefront,20
+1782,41.83,-87.6,ShowPlace ICON Theatres at Roosevelt Collection with ICON•X,4.2,Burnham Lakefront,20
+1783,41.83,-87.6,AMC DINE-IN 600 North Michigan 9,4.4,Burnham Lakefront,20
+1784,41.83,-87.6,AMC River East 21,4.3,Burnham Lakefront,20
+1785,41.83,-87.6,AMC Dine-in Theatres,4.2,Burnham Lakefront,20
+1786,41.83,-87.6,Harper Theater,4.1,Burnham Lakefront,20
+1787,41.83,-87.6,CIBC Theatre,4.4,Burnham Lakefront,20
+1788,41.83,-87.6,Cadillac Palace Theatre,4.6,Burnham Lakefront,20
+1789,41.83,-87.6,League of Chicago Theatres,4.4,Burnham Lakefront,20
+1790,41.83,-87.6,Goodman Theatre,4.7,Burnham Lakefront,20
+1791,41.83,-87.6,Lookingglass Theatre Company,4.9,Burnham Lakefront,20
+1792,41.83,-87.6,Oriental Theatre,4.7,Burnham Lakefront,20
+1793,41.83,-87.6,Congo Square Theatre Co,4.5,Burnham Lakefront,20
+1794,41.83,-87.6,Hot Tix - Half Price Theatre Tickets,3.9,Burnham Lakefront,20
+1795,41.83,-87.6,Gene Siskel Film Center,4.7,Burnham Lakefront,20
+1796,41.83,-87.6,Auditorium Theatre of Roosevelt University,4.7,Burnham Lakefront,20
+1797,35.9,-78.87,Frank Theatres CineBowl & Grille at Parkside Town Commons,3.7,Research Triangle Park,4
+1798,35.9,-78.87,AMC CLASSIC Durham 15,3.8,Research Triangle Park,4
+1799,35.9,-78.87,AMC Southpoint 17,3.7,Research Triangle Park,4
+1800,35.9,-78.87,Regal Cinemas Brier Creek 14,4.1,Research Triangle Park,4
+1801,35.85,-79.08,Varsity Theatre,4.6,Chatham Park,7
+1802,35.85,-79.08,Lumina Theatre,4.4,Chatham Park,7
+1803,35.85,-79.08,Paul Green Theatre,4.7,Chatham Park,7
+1804,35.85,-79.08,Historic Playmakers Theatre,5,Chatham Park,7
+1805,35.85,-79.08,The Forest Theatre,4.8,Chatham Park,7
+1806,35.85,-79.08,Act One Act Now Community Theatre for Young People,NAN,Chatham Park,7
+1807,35.85,-79.08,Perihelion Theatre Co,NAN,Chatham Park,7
+1808,35.77,-78.64,Wells Fargo IMAX Theatre at Marbles,4.6,Warehouse District,17
+1809,35.77,-78.64,The Rialto Theatre,4.7,Warehouse District,17
+1810,35.77,-78.64,AMC CLASSIC Blueridge 14,4.1,Warehouse District,17
+1811,35.77,-78.64,Regal Cinemas North Hills 14,3.8,Warehouse District,17
+1812,35.77,-78.64,Comfort Xone,5,Warehouse District,17
+1813,35.77,-78.64,Titmus Theatre,5,Warehouse District,17
+1814,35.77,-78.64,Mission Valley Cinema,4.5,Warehouse District,17
+1815,35.77,-78.64,Sonorous Road Theatre & Film Studio,4.9,Warehouse District,17
+1816,35.77,-78.64,Alamo Drafthouse Cinema Raleigh,5,Warehouse District,17
+1817,35.77,-78.64,Stewart Theatre,4.7,Warehouse District,17
+1818,35.77,-78.64,Theatre Raleigh,5,Warehouse District,17
+1819,35.77,-78.64,Burning Coal Theatre Company,4.6,Warehouse District,17
+1820,35.77,-78.64,KENNEDY THEATRE,4.6,Warehouse District,17
+1821,35.77,-78.64,Leggett Theatre at William Peace University,NAN,Warehouse District,17
+1822,35.77,-78.64,Raleigh Little Theatre,4.8,Warehouse District,17
+1823,35.77,-78.64,Theatre in the Park: Raleigh NC Performing Arts and Entertainment,4.7,Warehouse District,17
+1824,35.77,-78.64,A.J. Fletcher Opera,4.7,Warehouse District,17
+1825,33.7615,-84.3856,Starlight Drive-In Theatre and Flea Market,4.3,Downtown Atlanta,20
+1826,33.7615,-84.3856,Plaza Theatre,4.5,Downtown Atlanta,20
+1827,33.7615,-84.3856,Cinefest Film Theatre,4.1,Downtown Atlanta,20
+1828,33.7615,-84.3856,Theatre Gael,5,Downtown Atlanta,20
+1829,33.7615,-84.3856,Landmark's Midtown Art Cinema,4.3,Downtown Atlanta,20
+1830,33.7615,-84.3856,United Artists Tara Cinemas 4,4.5,Downtown Atlanta,20
+1831,33.7615,-84.3856,Regal Cinemas Atlantic Station 18 IMAX & RPX,3.9,Downtown Atlanta,20
+1832,33.7615,-84.3856,Alliance Theatre,4.8,Downtown Atlanta,20
+1833,33.7615,-84.3856,The Fox Theatre,4.7,Downtown Atlanta,20
+1834,33.7615,-84.3856,Dad's Garage Theatre,4.8,Downtown Atlanta,20
+1835,33.7615,-84.3856,Essential Theatre,3.8,Downtown Atlanta,20
+1836,33.7615,-84.3856,Actor's Express Theatre Company,4.6,Downtown Atlanta,20
+1837,33.7615,-84.3856,Rankin M Smith Sr Giant Screen Theater,4,Downtown Atlanta,20
+1838,33.7615,-84.3856,The Exchange,NAN,Downtown Atlanta,20
+1839,33.7615,-84.3856,7 Stages Theatre,4.5,Downtown Atlanta,20
+1840,33.7615,-84.3856,Synchronicity Theatre,4.6,Downtown Atlanta,20
+1841,33.7615,-84.3856,Theatrical Outfit,4.8,Downtown Atlanta,20
+1842,33.7615,-84.3856,Horizon Theatre Company,4.7,Downtown Atlanta,20
+1843,33.7615,-84.3856,Relapse Theatre,4.7,Downtown Atlanta,20
+1844,33.7615,-84.3856,Village Theatre,4.6,Downtown Atlanta,20
+1845,34.5129,-93.0431,AMC CLASSIC Central City 10,3.6,Midtown,7
+1846,34.5129,-93.0431,Hot Springs Central Theater,3.8,Midtown,7
+1847,34.5129,-93.0431,Pocket Theatre,4.6,Midtown,7
+1848,34.5129,-93.0431,Maxwell Blade's Theatre of Magic & Comedy,4.8,Midtown,7
+1849,34.5129,-93.0431,Behind the Mall Cinema Inc,2.9,Midtown,7
+1850,34.5129,-93.0431,Five Star Theatre,4.6,Midtown,7
+1851,34.5129,-93.0431,Behind the mall cinema,2.8,Midtown,7
+1852,33.904,-84.2843,AMC DINE-IN Buckhead 6,3.2,Former GM plant,12
+1853,33.904,-84.2843,AMC Phipps Plaza 14,4.4,Former GM plant,12
+1854,33.904,-84.2843,Regal Cinemas Perimeter Pointe 10,3.7,Former GM plant,12
+1855,33.904,-84.2843,Regal Cinemas Hollywood 24 @ North I-85,4.1,Former GM plant,12
+1856,33.904,-84.2843,NCG Peachtree Corners Cinema,4.6,Former GM plant,12
+1857,33.904,-84.2843,Jerry's Habima Theatre,NAN,Former GM plant,12
+1858,33.904,-84.2843,CinéBistro at Town Brookhaven,4.3,Former GM plant,12
+1859,33.904,-84.2843,Movie Tavern,3.8,Former GM plant,12
+1860,33.904,-84.2843,Perimeter Pointe,NAN,Former GM plant,12
+1861,33.904,-84.2843,Peachtree Corners Marketplace,4.2,Former GM plant,12
+1862,33.904,-84.2843,Lionheart Theatre Company,4.7,Former GM plant,12
+1863,33.904,-84.2843,Conant Performing Arts Center,4.8,Former GM plant,12
+1864,33.9133,-84.3888,AMC DINE-IN Buckhead 6,3.2,The High Street Site,16
+1865,33.9133,-84.3888,AMC Phipps Plaza 14,4.4,The High Street Site,16
+1866,33.9133,-84.3888,AMC Parkway Pointe 15,4.4,The High Street Site,16
+1867,33.9133,-84.3888,GTC Merchants Walk 12 Cinema,4.4,The High Street Site,16
+1868,33.9133,-84.3888,Regal Cinemas Perimeter Pointe 10,3.7,The High Street Site,16
+1869,33.9133,-84.3888,Lefont Theaters,3.8,The High Street Site,16
+1870,33.9133,-84.3888,Jerry's Habima Theatre,NAN,The High Street Site,16
+1871,33.9133,-84.3888,Picture Show at Merchant's Exchange,4.4,The High Street Site,16
+1872,33.9133,-84.3888,CinéBistro at Town Brookhaven,4.3,The High Street Site,16
+1873,33.9133,-84.3888,Movie theater,3.7,The High Street Site,16
+1874,33.9133,-84.3888,Perimeter Pointe,NAN,The High Street Site,16
+1875,33.9133,-84.3888,The Basement Theatre,4.7,The High Street Site,16
+1876,33.9133,-84.3888,Atlanta Theatre To Go,5,The High Street Site,16
+1877,33.9133,-84.3888,Buckhead Theatre,4.4,The High Street Site,16
+1878,33.9133,-84.3888,King's Cinemas Corporate Ofcs,5,The High Street Site,16
+1879,33.9133,-84.3888,Conant Performing Arts Center,4.8,The High Street Site,16
+1880,30.2586,-97.7444,Topfer Theatre,4.9,American-Statesman ,20
+1881,30.2586,-97.7444,Galaxy Highland 10 Theatre,4.2,American-Statesman ,20
+1882,30.2586,-97.7444,Bullock Museum IMAX Theatre,4.7,American-Statesman ,20
+1883,30.2586,-97.7444,Rollins Theatre,4.6,American-Statesman ,20
+1884,30.2586,-97.7444,Stateside at the Paramount,4.4,American-Statesman ,20
+1885,30.2586,-97.7444,AMC Barton Creek Square 14,3.6,American-Statesman ,20
+1886,30.2586,-97.7444,Zilker Hillside Theater,4.7,American-Statesman ,20
+1887,30.2586,-97.7444,Regal Cinemas Metropolitan 14,4.1,American-Statesman ,20
+1888,30.2586,-97.7444,Acot Theater Hotline,NAN,American-Statesman ,20
+1889,30.2586,-97.7444,Regal Cinemas Westgate 11,4.4,American-Statesman ,20
+1890,30.2586,-97.7444,Alamo Drafthouse Ritz,4.6,American-Statesman ,20
+1891,30.2586,-97.7444,RLJ II-C Austin Air Lessee LP,5,American-Statesman ,20
+1892,30.2586,-97.7444,Violet Crown Cinema,4.3,American-Statesman ,20
+1893,30.2586,-97.7444,Alamo Drafthouse Mueller,4.7,American-Statesman ,20
+1894,30.2586,-97.7444,B. Iden Payne Theatre,4,American-Statesman ,20
+1895,30.2586,-97.7444,Alamo Drafthouse South Lamar,4.6,American-Statesman ,20
+1896,30.2586,-97.7444,AFS Cinema,4.5,American-Statesman ,20
+1897,30.2586,-97.7444,Blue Starlite Mini Urban Drive In,4.5,American-Statesman ,20
+1898,30.2586,-97.7444,Blue Theater,4.4,American-Statesman ,20
+1899,30.2586,-97.7444,Hyde Park Theatre,4.4,American-Statesman ,20
+1900,30.2714,-97.6647,Galaxy Highland 10 Theatre,4.2,Eightfold,16
+1901,30.2714,-97.6647,Bullock Museum IMAX Theatre,4.7,Eightfold,16
+1902,30.2714,-97.6647,Stateside at the Paramount,4.4,Eightfold,16
+1903,30.2714,-97.6647,Acot Theater Hotline,NAN,Eightfold,16
+1904,30.2714,-97.6647,Alamo Drafthouse Ritz,4.6,Eightfold,16
+1905,30.2714,-97.6647,RLJ II-C Austin Air Lessee LP,5,Eightfold,16
+1906,30.2714,-97.6647,Violet Crown Cinema,4.3,Eightfold,16
+1907,30.2714,-97.6647,Alamo Drafthouse Mueller,4.7,Eightfold,16
+1908,30.2714,-97.6647,AFS Cinema,4.5,Eightfold,16
+1909,30.2714,-97.6647,Blue Starlite Mini Urban Drive In,4.5,Eightfold,16
+1910,30.2714,-97.6647,Blue Theater,4.4,Eightfold,16
+1911,30.2714,-97.6647,Hyde Park Theatre,4.4,Eightfold,16
+1912,30.2714,-97.6647,B. Iden Payne Theatre,4,Eightfold,16
+1913,30.2714,-97.6647,Scottish Rite Child Theatre,NAN,Eightfold,16
+1914,30.2714,-97.6647,The City Theatre Company,4.5,Eightfold,16
+1915,30.2714,-97.6647,The Hideout Theatre,4.4,Eightfold,16
+1916,30.199,-97.8276,Topfer Theatre,4.9,Former 3M site,12
+1917,30.199,-97.8276,Rollins Theatre,4.6,Former 3M site,12
+1918,30.199,-97.8276,AMC Barton Creek Square 14,3.6,Former 3M site,12
+1919,30.199,-97.8276,Zilker Hillside Theater,4.7,Former 3M site,12
+1920,30.199,-97.8276,Regal Cinemas Metropolitan 14,4.1,Former 3M site,12
+1921,30.199,-97.8276,Cinemark,4.4,Former 3M site,12
+1922,30.199,-97.8276,Regal Cinemas Westgate 11,4.4,Former 3M site,12
+1923,30.199,-97.8276,Violet Crown Cinema,4.3,Former 3M site,12
+1924,30.199,-97.8276,Alamo Drafthouse South Lamar,4.6,Former 3M site,12
+1925,30.199,-97.8276,Alamo Drafthouse Cinema,4.6,Former 3M site,12
+1926,30.199,-97.8276,Mary Moody Northen Theatre,3.5,Former 3M site,12
+1927,30.199,-97.8276,Austin Mime Theatre,4,Former 3M site,12
+1928,30.4015,-97.7268,Galaxy Highland 10 Theatre,4.2,The Domain,9
+1929,30.4015,-97.7268,Longhorn Drive Inn Theatre - Historical Location,NAN,The Domain,9
+1930,30.4015,-97.7268,"Southwest Theaters, Lake Creek 7 Discount Theater",4.5,The Domain,9
+1931,30.4015,-97.7268,Regal Cinemas Arbor 8 at Great Hills,4.1,The Domain,9
+1932,30.4015,-97.7268,Cinemark 20 and XD,4.3,The Domain,9
+1933,30.4015,-97.7268,Regal Cinemas Gateway 16 & IMAX,3.8,The Domain,9
+1934,30.4015,-97.7268,iPic Theaters,4.1,The Domain,9
+1935,30.4015,-97.7268,Alamo Drafthouse Cinema,4.5,The Domain,9
+1936,30.4015,-97.7268,The Curtain Theatre,4.7,The Domain,9
+1937,30.4014,-97.7147,Galaxy Highland 10 Theatre,4.2,Bardmoor Campus,8
+1938,30.4014,-97.7147,Longhorn Drive Inn Theatre - Historical Location,NAN,Bardmoor Campus,8
+1939,30.4014,-97.7147,"Southwest Theaters, Lake Creek 7 Discount Theater",4.5,Bardmoor Campus,8
+1940,30.4014,-97.7147,Regal Cinemas Arbor 8 at Great Hills,4.1,Bardmoor Campus,8
+1941,30.4014,-97.7147,Cinemark 20 and XD,4.3,Bardmoor Campus,8
+1942,30.4014,-97.7147,Regal Cinemas Gateway 16 & IMAX,3.8,Bardmoor Campus,8
+1943,30.4014,-97.7147,iPic Theaters,4.1,Bardmoor Campus,8
+1944,30.4014,-97.7147,Alamo Drafthouse Cinema,4.5,Bardmoor Campus,8
+1945,30.4704,-97.7701,AMC Lakeline 9,3.6,Robinson Ranch,6
+1946,30.4704,-97.7701,"Southwest Theaters, Lake Creek 7 Discount Theater",4.5,Robinson Ranch,6
+1947,30.4704,-97.7701,Cinemark Movies 8,4.3,Robinson Ranch,6
+1948,30.4704,-97.7701,Cinemark Cedar Park,4.3,Robinson Ranch,6
+1949,30.4704,-97.7701,Moviehouse & Eatery,4.6,Robinson Ranch,6
+1950,30.4704,-97.7701,Alamo Drafthouse Cinema,4.5,Robinson Ranch,6
+1951,38.96,-77.42,BB&T Shopping Center,4,Center for Innovation Technology,20
+1952,38.96,-77.42,Reston Town Center,4.2,Center for Innovation Technology,20
+1953,38.96,-77.42,Dulles Town Center,4.3,Center for Innovation Technology,20
+1954,38.96,-77.42,South Lakes Village Shopping Center,4,Center for Innovation Technology,20
+1955,38.96,-77.42,Dulles 28 Centre,4.2,Center for Innovation Technology,20
+1956,38.96,-77.42,East Gate Marketplace,4.2,Center for Innovation Technology,20
+1957,38.96,-77.42,Potomac Run Plaza,4.2,Center for Innovation Technology,20
+1958,38.96,-77.42,Tall Oaks Shopping Center,3.1,Center for Innovation Technology,20
+1959,38.96,-77.42,Worldgate Centre,4.2,Center for Innovation Technology,20
+1960,38.96,-77.42,Herndon Centre,3.9,Center for Innovation Technology,20
+1961,38.96,-77.42,Sully Place Shopping Center,4.1,Center for Innovation Technology,20
+1962,38.96,-77.42,Cedar Lake Plaza,4,Center for Innovation Technology,20
+1963,38.96,-77.42,Village Center at Dulles,4.1,Center for Innovation Technology,20
+1964,38.96,-77.42,Franklin Farm Village Shopping Center,4.2,Center for Innovation Technology,20
+1965,38.96,-77.42,Sterling Park Shopping Mall,4,Center for Innovation Technology,20
+1966,38.96,-77.42,Chantilly,4,Center for Innovation Technology,20
+1967,38.96,-77.42,Sully Plaza shopping center,4,Center for Innovation Technology,20
+1968,38.96,-77.42,Chantilly Crossing,4.1,Center for Innovation Technology,20
+1969,38.96,-77.42,Shoppes at Ryan Park,4.1,Center for Innovation Technology,20
+1970,38.96,-77.42,Elden Street Marketplace,4,Center for Innovation Technology,20
+1971,38.84,-77.05,Crystal City Shops at 1750,NAN,Crystal City and Potomac Yard,20
+1972,38.84,-77.05,Shops At 2000 Penn,3.7,Crystal City and Potomac Yard,20
+1973,38.84,-77.05,Lee Harrison Shopping Center,4,Crystal City and Potomac Yard,20
+1974,38.84,-77.05,Crystal City Shops,4,Crystal City and Potomac Yard,20
+1975,38.84,-77.05,Culmore Shopping Center,3.9,Crystal City and Potomac Yard,20
+1976,38.84,-77.05,Shops at Del Ray LLC,4.8,Crystal City and Potomac Yard,20
+1977,38.84,-77.05,Shops At the Gateway,NAN,Crystal City and Potomac Yard,20
+1978,38.84,-77.05,Shirley Park Shopping Center,3.7,Crystal City and Potomac Yard,20
+1979,38.84,-77.05,CityCenterDC,4.4,Crystal City and Potomac Yard,20
+1980,38.84,-77.05,Gallery Place,4.1,Crystal City and Potomac Yard,20
+1981,38.84,-77.05,Ballston Quarter,3.1,Crystal City and Potomac Yard,20
+1982,38.84,-77.05,Colonial Village Shopping Center,4,Crystal City and Potomac Yard,20
+1983,38.84,-77.05,Fashion Centre at Pentagon City,4.3,Crystal City and Potomac Yard,20
+1984,38.84,-77.05,L'Enfant Plaza,4,Crystal City and Potomac Yard,20
+1985,38.84,-77.05,Bradlee Shopping Center,4,Crystal City and Potomac Yard,20
+1986,38.84,-77.05,Village at Shirlington,4.5,Crystal City and Potomac Yard,20
+1987,38.84,-77.05,Belle View Shopping Center,4.1,Crystal City and Potomac Yard,20
+1988,38.84,-77.05,LEE HEIGHTS SHOPS,4.3,Crystal City and Potomac Yard,20
+1989,38.84,-77.05,The Shops at Park Village,3.7,Crystal City and Potomac Yard,20
+1990,38.84,-77.05,The Shops at Pershing,3.9,Crystal City and Potomac Yard,20
+1991,38.86,-77.01,Crystal City Shops at 1750,NAN,Nationals Park/ D.C United Stadium,20
+1992,38.86,-77.01,Shops At 2000 Penn,3.7,Nationals Park/ D.C United Stadium,20
+1993,38.86,-77.01,The Shops at Iverson,3.4,Nationals Park/ D.C United Stadium,20
+1994,38.86,-77.01,Crystal City Shops,4,Nationals Park/ D.C United Stadium,20
+1995,38.86,-77.01,Shops at Del Ray LLC,4.8,Nationals Park/ D.C United Stadium,20
+1996,38.86,-77.01,Shops At the Gateway,NAN,Nationals Park/ D.C United Stadium,20
+1997,38.86,-77.01,Shirley Park Shopping Center,3.7,Nationals Park/ D.C United Stadium,20
+1998,38.86,-77.01,CityCenterDC,4.4,Nationals Park/ D.C United Stadium,20
+1999,38.86,-77.01,Gallery Place,4.1,Nationals Park/ D.C United Stadium,20
+2000,38.86,-77.01,DC USA,4.2,Nationals Park/ D.C United Stadium,20
+2001,38.86,-77.01,Colonial Village Shopping Center,4,Nationals Park/ D.C United Stadium,20
+2002,38.86,-77.01,Fashion Centre at Pentagon City,4.3,Nationals Park/ D.C United Stadium,20
+2003,38.86,-77.01,L'Enfant Plaza,4,Nationals Park/ D.C United Stadium,20
+2004,38.86,-77.01,Coral Hills Shopping Center,3.6,Nationals Park/ D.C United Stadium,20
+2005,38.86,-77.01,Bradlee Shopping Center,4,Nationals Park/ D.C United Stadium,20
+2006,38.86,-77.01,Village at Shirlington,4.5,Nationals Park/ D.C United Stadium,20
+2007,38.86,-77.01,Rhode Island Avenue Shopping Center,3.9,Nationals Park/ D.C United Stadium,20
+2008,38.86,-77.01,The Shops at Park Village,3.7,Nationals Park/ D.C United Stadium,20
+2009,38.86,-77.01,The Shops at Pershing,3.9,Nationals Park/ D.C United Stadium,20
+2010,38.86,-77.01,City Vista,4.1,Nationals Park/ D.C United Stadium,20
+2011,38.89,-77,Shops At 2000 Penn,3.7,Union Station,20
+2012,38.89,-77,Crystal City Shops at 1750,NAN,Union Station,20
+2013,38.89,-77,The Shops at Iverson,3.4,Union Station,20
+2014,38.89,-77,Crystal City Shops,4,Union Station,20
+2015,38.89,-77,Sam's Park & Shop,1,Union Station,20
+2016,38.89,-77,Fort Davis Shopping Center,3.5,Union Station,20
+2017,38.89,-77,Shops At the Gateway,NAN,Union Station,20
+2018,38.89,-77,CityCenterDC,4.4,Union Station,20
+2019,38.89,-77,Gallery Place,4.1,Union Station,20
+2020,38.89,-77,DC USA,4.2,Union Station,20
+2021,38.89,-77,Colonial Village Shopping Center,4,Union Station,20
+2022,38.89,-77,Fashion Centre at Pentagon City,4.3,Union Station,20
+2023,38.89,-77,L'Enfant Plaza,4,Union Station,20
+2024,38.89,-77,Coral Hills Shopping Center,3.6,Union Station,20
+2025,38.89,-77,Village at Shirlington,4.5,Union Station,20
+2026,38.89,-77,Rhode Island Avenue Shopping Center,3.9,Union Station,20
+2027,38.89,-77,Chillum Road Shopping Center,4,Union Station,20
+2028,38.89,-77,The Shops at Park Village,3.7,Union Station,20
+2029,38.89,-77,The Shops at Pershing,3.9,Union Station,20
+2030,38.89,-77,City Vista,4.1,Union Station,20
+2031,38.88,-76.97,Crystal City Shops at 1750,NAN,Hill-East Neighborhood,20
+2032,38.88,-76.97,Shops At 2000 Penn,3.7,Hill-East Neighborhood,20
+2033,38.88,-76.97,The Shops at Iverson,3.4,Hill-East Neighborhood,20
+2034,38.88,-76.97,Crystal City Shops,4,Hill-East Neighborhood,20
+2035,38.88,-76.97,Parkland Shopping Center,3.9,Hill-East Neighborhood,20
+2036,38.88,-76.97,Walker Mill Square Shopping Center,3.5,Hill-East Neighborhood,20
+2037,38.88,-76.97,Fort Davis Shopping Center,3.5,Hill-East Neighborhood,20
+2038,38.88,-76.97,King Shopping Center,3.7,Hill-East Neighborhood,20
+2039,38.88,-76.97,Shops At the Gateway,NAN,Hill-East Neighborhood,20
+2040,38.88,-76.97,CityCenterDC,4.4,Hill-East Neighborhood,20
+2041,38.88,-76.97,Gallery Place,4.1,Hill-East Neighborhood,20
+2042,38.88,-76.97,Fairfax Village Shopping Center,3,Hill-East Neighborhood,20
+2043,38.88,-76.97,DC USA,4.2,Hill-East Neighborhood,20
+2044,38.88,-76.97,Fashion Centre at Pentagon City,4.3,Hill-East Neighborhood,20
+2045,38.88,-76.97,L'Enfant Plaza,4,Hill-East Neighborhood,20
+2046,38.88,-76.97,Coral Hills Shopping Center,3.6,Hill-East Neighborhood,20
+2047,38.88,-76.97,Park & Shop,3.8,Hill-East Neighborhood,20
+2048,38.88,-76.97,Rhode Island Avenue Shopping Center,3.9,Hill-East Neighborhood,20
+2049,38.88,-76.97,Chillum Road Shopping Center,4,Hill-East Neighborhood,20
+2050,38.88,-76.97,The Shops at Park Village,3.7,Hill-East Neighborhood,20
+2051,38.91,-77.02,Crystal City Shops at 1750,NAN,Shaw-Howard University Area,20
+2052,38.91,-77.02,Shops At 2000 Penn,3.7,Shaw-Howard University Area,20
+2053,38.91,-77.02,Crystal City Shops,4,Shaw-Howard University Area,20
+2054,38.91,-77.02,Shop Rite Shopping Center,3.9,Shaw-Howard University Area,20
+2055,38.91,-77.02,Sam's Park & Shop,1,Shaw-Howard University Area,20
+2056,38.91,-77.02,Fort Davis Shopping Center,3.5,Shaw-Howard University Area,20
+2057,38.91,-77.02,Shops At the Gateway,NAN,Shaw-Howard University Area,20
+2058,38.91,-77.02,The Shops at Wisconsin Place,4.3,Shaw-Howard University Area,20
+2059,38.91,-77.02,CityCenterDC,4.4,Shaw-Howard University Area,20
+2060,38.91,-77.02,Gallery Place,4.1,Shaw-Howard University Area,20
+2061,38.91,-77.02,Ballston Quarter,3.1,Shaw-Howard University Area,20
+2062,38.91,-77.02,DC USA,4.2,Shaw-Howard University Area,20
+2063,38.91,-77.02,Colonial Village Shopping Center,4,Shaw-Howard University Area,20
+2064,38.91,-77.02,Fashion Centre at Pentagon City,4.3,Shaw-Howard University Area,20
+2065,38.91,-77.02,L'Enfant Plaza,4,Shaw-Howard University Area,20
+2066,38.91,-77.02,Bradley Shopping Center,4.5,Shaw-Howard University Area,20
+2067,38.91,-77.02,Village at Shirlington,4.5,Shaw-Howard University Area,20
+2068,38.91,-77.02,Takoma Park Plaza,4.5,Shaw-Howard University Area,20
+2069,38.91,-77.02,Rhode Island Avenue Shopping Center,3.9,Shaw-Howard University Area,20
+2070,38.91,-77.02,Chillum Road Shopping Center,4,Shaw-Howard University Area,20
+2071,34.1802,-118.6028,Woodland Hills Village Plaza Shopping Center,3.4,Warner Center West San Fernando Valley,20
+2072,34.1802,-118.6028,Northridge Plaza Shopping Center,4.3,Warner Center West San Fernando Valley,20
+2073,34.1802,-118.6028,Corbin Village Shopping Center,4.3,Warner Center West San Fernando Valley,20
+2074,34.1802,-118.6028,Gateway Plaza,4.1,Warner Center West San Fernando Valley,20
+2075,34.1802,-118.6028,Plaza Di Northridge,4.1,Warner Center West San Fernando Valley,20
+2076,34.1802,-118.6028,Reseda Shopping Center,3,Warner Center West San Fernando Valley,20
+2077,34.1802,-118.6028,Topanga Mall,4.7,Warner Center West San Fernando Valley,20
+2078,34.1802,-118.6028,Fallbrook Center,4.2,Warner Center West San Fernando Valley,20
+2079,34.1802,-118.6028,Westfield Topanga,4.5,Warner Center West San Fernando Valley,20
+2080,34.1802,-118.6028,Tarzana Square Shopping Center,4,Warner Center West San Fernando Valley,20
+2081,34.1802,-118.6028,Walnut Grove Shopping Center,4.2,Warner Center West San Fernando Valley,20
+2082,34.1802,-118.6028,Parkway Calabasas Shopping Center,4.4,Warner Center West San Fernando Valley,20
+2083,34.1802,-118.6028,Platt Village Shopping Center,4.3,Warner Center West San Fernando Valley,20
+2084,34.1802,-118.6028,The Commons at Calabasas,4.5,Warner Center West San Fernando Valley,20
+2085,34.1802,-118.6028,Northridge Fashion Center,4.4,Warner Center West San Fernando Valley,20
+2086,34.1802,-118.6028,Village at Topanga,4.5,Warner Center West San Fernando Valley,20
+2087,34.1802,-118.6028,Shop My Fair Lady,4.5,Warner Center West San Fernando Valley,20
+2088,34.1802,-118.6028,The Sign Shop,NAN,Warner Center West San Fernando Valley,20
+2089,34.1802,-118.6028,All American Sports Shop,4.5,Warner Center West San Fernando Valley,20
+2090,34.1802,-118.6028,CPC : Ink & Thread Imprint Shop,5,Warner Center West San Fernando Valley,20
+2091,34.4318,-118.5584,Lyons Station Shopping Center,4,New Hall Ranch Santa Clarita Valley,20
+2092,34.4318,-118.5584,Tesoro Village Shopping Center,NAN,New Hall Ranch Santa Clarita Valley,20
+2093,34.4318,-118.5584,Westfield Valencia Town Center,4.4,New Hall Ranch Santa Clarita Valley,20
+2094,34.4318,-118.5584,Canyon Country Plaza,4.2,New Hall Ranch Santa Clarita Valley,20
+2095,34.4318,-118.5584,Highridge Crossing,4.1,New Hall Ranch Santa Clarita Valley,20
+2096,34.4318,-118.5584,Stevenson Ranch Plaza,4.4,New Hall Ranch Santa Clarita Valley,20
+2097,34.4318,-118.5584,Hasley Canyon Village,4.3,New Hall Ranch Santa Clarita Valley,20
+2098,34.4318,-118.5584,Valencia Marketplace,4.3,New Hall Ranch Santa Clarita Valley,20
+2099,34.4318,-118.5584,Northpark Village Square,3.9,New Hall Ranch Santa Clarita Valley,20
+2100,34.4318,-118.5584,Bouquet Center Shopping Center,4.2,New Hall Ranch Santa Clarita Valley,20
+2101,34.4318,-118.5584,River Oaks Shopping Center,4.1,New Hall Ranch Santa Clarita Valley,20
+2102,34.4318,-118.5584,Granary Square,4.3,New Hall Ranch Santa Clarita Valley,20
+2103,34.4318,-118.5584,Valencia Crossroads,4.2,New Hall Ranch Santa Clarita Valley,20
+2104,34.4318,-118.5584,Canyon Center,4.2,New Hall Ranch Santa Clarita Valley,20
+2105,34.4318,-118.5584,Roger Dunn Golf Shops,4.4,New Hall Ranch Santa Clarita Valley,20
+2106,34.4318,-118.5584,Active Ride Shop,3,New Hall Ranch Santa Clarita Valley,20
+2107,34.4318,-118.5584,Love That Fluff Cloth Diaper Shop and Consignment,NAN,New Hall Ranch Santa Clarita Valley,20
+2108,34.4318,-118.5584,Cobra Tactical Inc,4.7,New Hall Ranch Santa Clarita Valley,20
+2109,34.4318,-118.5584,Cruz's Bridal,5,New Hall Ranch Santa Clarita Valley,20
+2110,34.4318,-118.5584,Bath & Body Works,NAN,New Hall Ranch Santa Clarita Valley,20
+2111,34.0885,-117.7702,Montclair Village Shopping Center,4.1,Pomona Fairplex,20
+2112,34.0885,-117.7702,Puddingstone Shopping Center,4.2,Pomona Fairplex,20
+2113,34.0885,-117.7702,Central Court Shopping Center,4.1,Pomona Fairplex,20
+2114,34.0885,-117.7702,Garey Shopping Center,3.8,Pomona Fairplex,20
+2115,34.0885,-117.7702,Arrow Plaza Shopping Center,4.2,Pomona Fairplex,20
+2116,34.0885,-117.7702,North Hills Square Shopping Center,5,Pomona Fairplex,20
+2117,34.0885,-117.7702,Ramona Town Center Shopping Center,3.8,Pomona Fairplex,20
+2118,34.0885,-117.7702,Montclair East Shopping Center,4.3,Pomona Fairplex,20
+2119,34.0885,-117.7702,Nisar's Shop,NAN,Pomona Fairplex,20
+2120,34.0885,-117.7702,Claremont Village,4.1,Pomona Fairplex,20
+2121,34.0885,-117.7702,Garey/Arrow Shopping Center,4.3,Pomona Fairplex,20
+2122,34.0885,-117.7702,Glendora Marketplace Shopping Center,4.4,Pomona Fairplex,20
+2123,34.0885,-117.7702,Claremont Promenade Shopping Center,4.2,Pomona Fairplex,20
+2124,34.0885,-117.7702,Lone Hill Shopping Center,4.2,Pomona Fairplex,20
+2125,34.0885,-117.7702,Claremont Heights Shopping Center,4.1,Pomona Fairplex,20
+2126,34.0885,-117.7702,Rio Rancho Mall,3.8,Pomona Fairplex,20
+2127,34.0885,-117.7702,Montclair Place,4.3,Pomona Fairplex,20
+2128,34.0885,-117.7702,San Dimas Plaza,4.3,Pomona Fairplex,20
+2129,34.0885,-117.7702,Rio Rancho Towne Center,4.3,Pomona Fairplex,20
+2130,34.0885,-117.7702,The Men's Shop,5,Pomona Fairplex,20
+2131,42.39,-71,Mercantile Mall Fine Shops & Restaurant,4.5,Suffolk Downs,20
+2132,42.39,-71,Copley Place,4.3,Suffolk Downs,20
+2133,42.39,-71,Adams Plaza Shopping Center,3.6,Suffolk Downs,20
+2134,42.39,-71,Faneuil Hall Marketplace,4.5,Suffolk Downs,20
+2135,42.39,-71,Assembly Row,4.5,Suffolk Downs,20
+2136,42.39,-71,Prudential Center Boston,4.4,Suffolk Downs,20
+2137,42.39,-71,CambridgeSide,4.3,Suffolk Downs,20
+2138,42.39,-71,The Shops at Station Landing,4.1,Suffolk Downs,20
+2139,42.39,-71,The Shops At Suffolk Downs,4,Suffolk Downs,20
+2140,42.39,-71,Parkway Plaza Shopping Center,4.1,Suffolk Downs,20
+2141,42.39,-71,South Bay Center,4.1,Suffolk Downs,20
+2142,42.39,-71,Northgate Shopping Center,4.1,Suffolk Downs,20
+2143,42.39,-71,Glendale Square Shopping Center,3.8,Suffolk Downs,20
+2144,42.39,-71,The Corner Mall,4,Suffolk Downs,20
+2145,42.39,-71,Square One Mall,4,Suffolk Downs,20
+2146,42.39,-71,Twin City Plaza,4,Suffolk Downs,20
+2147,42.39,-71,Meadow Glen Mall,4.1,Suffolk Downs,20
+2148,42.39,-71,Gateway Center,4.2,Suffolk Downs,20
+2149,42.39,-71,Fellsway Plaza,4.1,Suffolk Downs,20
+2150,42.39,-71,Macy's,4.1,Suffolk Downs,20
+2151,42.34,-71.03,Mercantile Mall Fine Shops & Restaurant,4.5,South Boston Waterfront,20
+2152,42.34,-71.03,Copley Place,4.3,South Boston Waterfront,20
+2153,42.34,-71.03,Faneuil Hall Marketplace,4.5,South Boston Waterfront,20
+2154,42.34,-71.03,Porter Square Shopping Center,4.1,South Boston Waterfront,20
+2155,42.34,-71.03,Assembly Row,4.5,South Boston Waterfront,20
+2156,42.34,-71.03,Prudential Center Boston,4.4,South Boston Waterfront,20
+2157,42.34,-71.03,CambridgeSide,4.3,South Boston Waterfront,20
+2158,42.34,-71.03,Neponset Circle Shopping Center,3.8,South Boston Waterfront,20
+2159,42.34,-71.03,The Shops at Station Landing,4.1,South Boston Waterfront,20
+2160,42.34,-71.03,The Shops At Suffolk Downs,4,South Boston Waterfront,20
+2161,42.34,-71.03,Parkway Plaza Shopping Center,4.1,South Boston Waterfront,20
+2162,42.34,-71.03,American Legion Shopping Center,4,South Boston Waterfront,20
+2163,42.34,-71.03,South Bay Center,4.1,South Boston Waterfront,20
+2164,42.34,-71.03,Longwood Galleria,3.9,South Boston Waterfront,20
+2165,42.34,-71.03,The Corner Mall,4,South Boston Waterfront,20
+2166,42.34,-71.03,Twin City Plaza,4,South Boston Waterfront,20
+2167,42.34,-71.03,Macy's,4.1,South Boston Waterfront,20
+2168,42.34,-71.03,T.J. Maxx,4.1,South Boston Waterfront,20
+2169,42.34,-71.03,Nordstrom Rack Newbury,4.1,South Boston Waterfront,20
+2170,42.34,-71.03,The Garment District,4.3,South Boston Waterfront,20
+2171,42.35,-71.05,Mercantile Mall Fine Shops & Restaurant,4.5,Downtown,20
+2172,42.35,-71.05,Copley Place,4.3,Downtown,20
+2173,42.35,-71.05,Faneuil Hall Marketplace,4.5,Downtown,20
+2174,42.35,-71.05,Porter Square Shopping Center,4.1,Downtown,20
+2175,42.35,-71.05,Assembly Row,4.5,Downtown,20
+2176,42.35,-71.05,Prudential Center Boston,4.4,Downtown,20
+2177,42.35,-71.05,CambridgeSide,4.3,Downtown,20
+2178,42.35,-71.05,Neponset Circle Shopping Center,3.8,Downtown,20
+2179,42.35,-71.05,The Shops at Station Landing,4.1,Downtown,20
+2180,42.35,-71.05,The Shops At Suffolk Downs,4,Downtown,20
+2181,42.35,-71.05,Parkway Plaza Shopping Center,4.1,Downtown,20
+2182,42.35,-71.05,American Legion Shopping Center,4,Downtown,20
+2183,42.35,-71.05,South Bay Center,4.1,Downtown,20
+2184,42.35,-71.05,Glendale Square Shopping Center,3.8,Downtown,20
+2185,42.35,-71.05,Longwood Galleria,3.9,Downtown,20
+2186,42.35,-71.05,Fresh Pond Mall,3.9,Downtown,20
+2187,42.35,-71.05,The Corner Mall,4,Downtown,20
+2188,42.35,-71.05,Twin City Plaza,4,Downtown,20
+2189,42.35,-71.05,Meadow Glen Mall,4.1,Downtown,20
+2190,42.35,-71.05,Fellsway Plaza,4.1,Downtown,20
+2191,42.34,-71.06,Mercantile Mall Fine Shops & Restaurant,4.5,South End,20
+2192,42.34,-71.06,Copley Place,4.3,South End,20
+2193,42.34,-71.06,Faneuil Hall Marketplace,4.5,South End,20
+2194,42.34,-71.06,Porter Square Shopping Center,4.1,South End,20
+2195,42.34,-71.06,Assembly Row,4.5,South End,20
+2196,42.34,-71.06,Prudential Center Boston,4.4,South End,20
+2197,42.34,-71.06,CambridgeSide,4.3,South End,20
+2198,42.34,-71.06,Neponset Circle Shopping Center,3.8,South End,20
+2199,42.34,-71.06,The Shops at Station Landing,4.1,South End,20
+2200,42.34,-71.06,The Shops at Putterham,3.8,South End,20
+2201,42.34,-71.06,The Shops At Suffolk Downs,4,South End,20
+2202,42.34,-71.06,Parkway Plaza Shopping Center,4.1,South End,20
+2203,42.34,-71.06,American Legion Shopping Center,4,South End,20
+2204,42.34,-71.06,South Bay Center,4.1,South End,20
+2205,42.34,-71.06,Longwood Galleria,3.9,South End,20
+2206,42.34,-71.06,Fresh Pond Mall,3.9,South End,20
+2207,42.34,-71.06,The Corner Mall,4,South End,20
+2208,42.34,-71.06,Twin City Plaza,4,South End,20
+2209,42.34,-71.06,Meadow Glen Mall,4.1,South End,20
+2210,42.34,-71.06,Macy's,4.1,South End,20
+2211,40.75,-74,The Shops at Columbus Circle,4.3,Hudson Yards,20
+2212,40.75,-74,Fulton Mall,4.2,Hudson Yards,20
+2213,40.75,-74,Manhattan Mall,3.9,Hudson Yards,20
+2214,40.75,-74,Westfield World Trade Center,4.6,Hudson Yards,20
+2215,40.75,-74,Soho mall,4.1,Hudson Yards,20
+2216,40.75,-74,Atlantic Terminal Mall,4.1,Hudson Yards,20
+2217,40.75,-74,Newport Centre,4.3,Hudson Yards,20
+2218,40.75,-74,The Fulton Center,4.3,Hudson Yards,20
+2219,40.75,-74,Shops At Lincoln Harbor,3.8,Hudson Yards,20
+2220,40.75,-74,Tower Square,4.1,Hudson Yards,20
+2221,40.75,-74,The Plaza at Harmon Meadow,4.3,Hudson Yards,20
+2222,40.75,-74,Swan Plaza Shopping Center,3.8,Hudson Yards,20
+2223,40.75,-74,The Atrium Shops and Cafes,3.9,Hudson Yards,20
+2224,40.75,-74,Wing Fat Shopping Mall,2.2,Hudson Yards,20
+2225,40.75,-74,Tonnelle Plaza Shopping Center,4.2,Hudson Yards,20
+2226,40.75,-74,Brookfield Place,4.5,Hudson Yards,20
+2227,40.75,-74,Empire Stores,4.4,Hudson Yards,20
+2228,40.75,-74,Bronx Terminal Market,4.2,Hudson Yards,20
+2229,40.75,-74,"Michael's, The Consignment Shop for Women",4.8,Hudson Yards,20
+2230,40.75,-74,J.Crew The Ludlow Shop at 50 Hudson,4.2,Hudson Yards,20
+2231,40.74,-73.94,The Shops at Atlas Park,4.3,Long Island City,20
+2232,40.74,-73.94,The Shops at Columbus Circle,4.3,Long Island City,20
+2233,40.74,-73.94,Fulton Mall,4.2,Long Island City,20
+2234,40.74,-73.94,Manhattan Mall,3.9,Long Island City,20
+2235,40.74,-73.94,Westfield World Trade Center,4.6,Long Island City,20
+2236,40.74,-73.94,Soho mall,4.1,Long Island City,20
+2237,40.74,-73.94,Atlantic Terminal Mall,4.1,Long Island City,20
+2238,40.74,-73.94,The Fulton Center,4.3,Long Island City,20
+2239,40.74,-73.94,Shops At Lincoln Harbor,3.8,Long Island City,20
+2240,40.74,-73.94,Tower Square,4.1,Long Island City,20
+2241,40.74,-73.94,Jackson Heights Shopping Center,4.1,Long Island City,20
+2242,40.74,-73.94,LaGuardia Shopping Center,4,Long Island City,20
+2243,40.74,-73.94,The Atrium Shops and Cafes,3.9,Long Island City,20
+2244,40.74,-73.94,Wing Fat Shopping Mall,2.2,Long Island City,20
+2245,40.74,-73.94,Queens Center,4.3,Long Island City,20
+2246,40.74,-73.94,Brookfield Place,4.5,Long Island City,20
+2247,40.74,-73.94,Empire Stores,4.4,Long Island City,20
+2248,40.74,-73.94,"Michael's, The Consignment Shop for Women",4.8,Long Island City,20
+2249,40.74,-73.94,J.Crew The Ludlow Shop at 50 Hudson,4.2,Long Island City,20
+2250,40.74,-73.94,Edgewater City Place,4.4,Long Island City,20
+2251,40.7,-73.98,The Shops at Columbus Circle,4.3,Brooklyn Tech Triangle,20
+2252,40.7,-73.98,Fulton Mall,4.2,Brooklyn Tech Triangle,20
+2253,40.7,-73.98,Manhattan Mall,3.9,Brooklyn Tech Triangle,20
+2254,40.7,-73.98,Westfield World Trade Center,4.6,Brooklyn Tech Triangle,20
+2255,40.7,-73.98,Soho mall,4.1,Brooklyn Tech Triangle,20
+2256,40.7,-73.98,Atlantic Terminal Mall,4.1,Brooklyn Tech Triangle,20
+2257,40.7,-73.98,Newport Centre,4.3,Brooklyn Tech Triangle,20
+2258,40.7,-73.98,The Fulton Center,4.3,Brooklyn Tech Triangle,20
+2259,40.7,-73.98,Shops At Lincoln Harbor,3.8,Brooklyn Tech Triangle,20
+2260,40.7,-73.98,Tower Square,4.1,Brooklyn Tech Triangle,20
+2261,40.7,-73.98,Jackson Heights Shopping Center,4.1,Brooklyn Tech Triangle,20
+2262,40.7,-73.98,The Atrium Shops and Cafes,3.9,Brooklyn Tech Triangle,20
+2263,40.7,-73.98,Wing Fat Shopping Mall,2.2,Brooklyn Tech Triangle,20
+2264,40.7,-73.98,Brookfield Place,4.5,Brooklyn Tech Triangle,20
+2265,40.7,-73.98,Empire Stores,4.4,Brooklyn Tech Triangle,20
+2266,40.7,-73.98,J.Crew The Ludlow Shop at 50 Hudson,4.2,Brooklyn Tech Triangle,20
+2267,40.7,-73.98,Newport Plaza,4.3,Brooklyn Tech Triangle,20
+2268,40.7,-73.98,Metro Mall-Middle Village,4,Brooklyn Tech Triangle,20
+2269,40.7,-73.98,Canarsie Plaza,4.1,Brooklyn Tech Triangle,20
+2270,40.7,-73.98,Monk Vintage,4.2,Brooklyn Tech Triangle,20
+2271,40.7,-74.01,The Shops at Columbus Circle,4.3,Financial District,20
+2272,40.7,-74.01,Fulton Mall,4.2,Financial District,20
+2273,40.7,-74.01,Manhattan Mall,3.9,Financial District,20
+2274,40.7,-74.01,Westfield World Trade Center,4.6,Financial District,20
+2275,40.7,-74.01,Soho mall,4.1,Financial District,20
+2276,40.7,-74.01,Atlantic Terminal Mall,4.1,Financial District,20
+2277,40.7,-74.01,Newport Centre,4.3,Financial District,20
+2278,40.7,-74.01,The Fulton Center,4.3,Financial District,20
+2279,40.7,-74.01,Shops At Lincoln Harbor,3.8,Financial District,20
+2280,40.7,-74.01,Stadium Plaza Shopping Center,4.1,Financial District,20
+2281,40.7,-74.01,The Atrium Shops and Cafes,3.9,Financial District,20
+2282,40.7,-74.01,Wing Fat Shopping Mall,2.2,Financial District,20
+2283,40.7,-74.01,Brookfield Place,4.5,Financial District,20
+2284,40.7,-74.01,Empire Stores,4.4,Financial District,20
+2285,40.7,-74.01,J.Crew The Ludlow Shop at 50 Hudson,4.2,Financial District,20
+2286,40.7,-74.01,Newport Plaza,4.3,Financial District,20
+2287,40.7,-74.01,South Cove Commons,4.1,Financial District,20
+2288,40.7,-74.01,Monk Vintage,4.2,Financial District,20
+2289,40.7,-74.01,The Body Shop,5,Financial District,20
+2290,40.7,-74.01,Vivi Girl Shop,5,Financial District,20
+2291,41.91,-87.64,The Shops at North Bridge,4.3,Lincoln Yards,20
+2292,41.91,-87.64,NORTH BRIDGE SHOPS,2,Lincoln Yards,20
+2293,41.91,-87.64,900 North Michigan Shops,4.4,Lincoln Yards,20
+2294,41.91,-87.64,Roosevelt Collection Shops,4.4,Lincoln Yards,20
+2295,41.91,-87.64,Water Tower Place,4.5,Lincoln Yards,20
+2296,41.91,-87.64,Block 37,4.3,Lincoln Yards,20
+2297,41.91,-87.64,NEWCITY,4.3,Lincoln Yards,20
+2298,41.91,-87.64,Addison Mall,4.1,Lincoln Yards,20
+2299,41.91,-87.64,Riverview Plaza,3.9,Lincoln Yards,20
+2300,41.91,-87.64,Diversey Halsted Shopping Center,4,Lincoln Yards,20
+2301,41.91,-87.64,Foundry Shopping Center,3.8,Lincoln Yards,20
+2302,41.91,-87.64,Albany Park Shopping Center,3.8,Lincoln Yards,20
+2303,41.91,-87.64,Nordstrom Rack The Shops at State and Washington,4.1,Lincoln Yards,20
+2304,41.91,-87.64,Greenheart Shop,4.9,Lincoln Yards,20
+2305,41.91,-87.64,Pointe At Clark St,4.1,Lincoln Yards,20
+2306,41.91,-87.64,Southgate Market,4.3,Lincoln Yards,20
+2307,41.91,-87.64,Riverpoint Center,4.1,Lincoln Yards,20
+2308,41.91,-87.64,The Maxwell,4.3,Lincoln Yards,20
+2309,41.91,-87.64,Riverfront Plaza,4.2,Lincoln Yards,20
+2310,41.91,-87.64,Three Stars Resale Shop,4.9,Lincoln Yards,20
+2311,41.89,-87.64,The Shops at North Bridge,4.3,The River District,20
+2312,41.89,-87.64,NORTH BRIDGE SHOPS,2,The River District,20
+2313,41.89,-87.64,900 North Michigan Shops,4.4,The River District,20
+2314,41.89,-87.64,Roosevelt Collection Shops,4.4,The River District,20
+2315,41.89,-87.64,Water Tower Place,4.5,The River District,20
+2316,41.89,-87.64,Block 37,4.3,The River District,20
+2317,41.89,-87.64,NEWCITY,4.3,The River District,20
+2318,41.89,-87.64,Lake Meadows Shopping Center,4,The River District,20
+2319,41.89,-87.64,Addison Mall,4.1,The River District,20
+2320,41.89,-87.64,Riverview Plaza,3.9,The River District,20
+2321,41.89,-87.64,Diversey Halsted Shopping Center,4,The River District,20
+2322,41.89,-87.64,Foundry Shopping Center,3.8,The River District,20
+2323,41.89,-87.64,Nordstrom Rack The Shops at State and Washington,4.1,The River District,20
+2324,41.89,-87.64,Greenheart Shop,4.9,The River District,20
+2325,41.89,-87.64,Pointe At Clark St,4.1,The River District,20
+2326,41.89,-87.64,Southgate Market,4.3,The River District,20
+2327,41.89,-87.64,Riverpoint Center,4.1,The River District,20
+2328,41.89,-87.64,The Maxwell,4.3,The River District,20
+2329,41.89,-87.64,Riverfront Plaza,4.2,The River District,20
+2330,41.89,-87.64,Three Stars Resale Shop,4.9,The River District,20
+2331,41.88,-87.65,The Shops at North Bridge,4.3,Futton Market,20
+2332,41.88,-87.65,NORTH BRIDGE SHOPS,2,Futton Market,20
+2333,41.88,-87.65,900 North Michigan Shops,4.4,Futton Market,20
+2334,41.88,-87.65,Roosevelt Collection Shops,4.4,Futton Market,20
+2335,41.88,-87.65,Water Tower Place,4.5,Futton Market,20
+2336,41.88,-87.65,Block 37,4.3,Futton Market,20
+2337,41.88,-87.65,NEWCITY,4.3,Futton Market,20
+2338,41.88,-87.65,Lake Meadows Shopping Center,4,Futton Market,20
+2339,41.88,-87.65,Addison Mall,4.1,Futton Market,20
+2340,41.88,-87.65,Riverview Plaza,3.9,Futton Market,20
+2341,41.88,-87.65,Diversey Halsted Shopping Center,4,Futton Market,20
+2342,41.88,-87.65,Foundry Shopping Center,3.8,Futton Market,20
+2343,41.88,-87.65,Nordstrom Rack The Shops at State and Washington,4.1,Futton Market,20
+2344,41.88,-87.65,Greenheart Shop,4.9,Futton Market,20
+2345,41.88,-87.65,Pointe At Clark St,4.1,Futton Market,20
+2346,41.88,-87.65,Southgate Market,4.3,Futton Market,20
+2347,41.88,-87.65,Yards Plaza,4,Futton Market,20
+2348,41.88,-87.65,Riverpoint Center,4.1,Futton Market,20
+2349,41.88,-87.65,The Maxwell,4.3,Futton Market,20
+2350,41.88,-87.65,Riverfront Plaza,4.2,Futton Market,20
+2351,41.87,-87.63,The Shops at North Bridge,4.3,City Center Campus,20
+2352,41.87,-87.63,NORTH BRIDGE SHOPS,2,City Center Campus,20
+2353,41.87,-87.63,900 North Michigan Shops,4.4,City Center Campus,20
+2354,41.87,-87.63,The Shops at Millennium Station,NAN,City Center Campus,20
+2355,41.87,-87.63,Roosevelt Collection Shops,4.4,City Center Campus,20
+2356,41.87,-87.63,Water Tower Place,4.5,City Center Campus,20
+2357,41.87,-87.63,Block 37,4.3,City Center Campus,20
+2358,41.87,-87.63,NEWCITY,4.3,City Center Campus,20
+2359,41.87,-87.63,Lake Meadows Shopping Center,4,City Center Campus,20
+2360,41.87,-87.63,Dorchester Commons Shopping Center,3.9,City Center Campus,20
+2361,41.87,-87.63,Diversey Halsted Shopping Center,4,City Center Campus,20
+2362,41.87,-87.63,Foundry Shopping Center,3.8,City Center Campus,20
+2363,41.87,-87.63,Nordstrom Rack The Shops at State and Washington,4.1,City Center Campus,20
+2364,41.87,-87.63,Greenheart Shop,4.9,City Center Campus,20
+2365,41.87,-87.63,Pointe At Clark St,4.1,City Center Campus,20
+2366,41.87,-87.63,Riverview Plaza,3.9,City Center Campus,20
+2367,41.87,-87.63,Southgate Market,4.3,City Center Campus,20
+2368,41.87,-87.63,Yards Plaza,4,City Center Campus,20
+2369,41.87,-87.63,Riverpoint Center,4.1,City Center Campus,20
+2370,41.87,-87.63,Harper court,4.4,City Center Campus,20
+2371,41.87,-87.62,The Shops at North Bridge,4.3,The Downtown District,20
+2372,41.87,-87.62,NORTH BRIDGE SHOPS,2,The Downtown District,20
+2373,41.87,-87.62,900 North Michigan Shops,4.4,The Downtown District,20
+2374,41.87,-87.62,The Shops at Millennium Station,NAN,The Downtown District,20
+2375,41.87,-87.62,Roosevelt Collection Shops,4.4,The Downtown District,20
+2376,41.87,-87.62,Water Tower Place,4.5,The Downtown District,20
+2377,41.87,-87.62,Block 37,4.3,The Downtown District,20
+2378,41.87,-87.62,NEWCITY,4.3,The Downtown District,20
+2379,41.87,-87.62,Lake Meadows Shopping Center,4,The Downtown District,20
+2380,41.87,-87.62,Dorchester Commons Shopping Center,3.9,The Downtown District,20
+2381,41.87,-87.62,Diversey Halsted Shopping Center,4,The Downtown District,20
+2382,41.87,-87.62,Foundry Shopping Center,3.8,The Downtown District,20
+2383,41.87,-87.62,Nordstrom Rack The Shops at State and Washington,4.1,The Downtown District,20
+2384,41.87,-87.62,Greenheart Shop,4.9,The Downtown District,20
+2385,41.87,-87.62,Pointe At Clark St,4.1,The Downtown District,20
+2386,41.87,-87.62,Riverview Plaza,3.9,The Downtown District,20
+2387,41.87,-87.62,Southgate Market,4.3,The Downtown District,20
+2388,41.87,-87.62,Yards Plaza,4,The Downtown District,20
+2389,41.87,-87.62,Riverpoint Center,4.1,The Downtown District,20
+2390,41.87,-87.62,Harper court,4.4,The Downtown District,20
+2391,41.86,-87.67,The Shops at North Bridge,4.3,The Illinois Medical District,20
+2392,41.86,-87.67,NORTH BRIDGE SHOPS,2,The Illinois Medical District,20
+2393,41.86,-87.67,900 North Michigan Shops,4.4,The Illinois Medical District,20
+2394,41.86,-87.67,Hawthorne Works Shopping Center,4,The Illinois Medical District,20
+2395,41.86,-87.67,Roosevelt Collection Shops,4.4,The Illinois Medical District,20
+2396,41.86,-87.67,Water Tower Place,4.5,The Illinois Medical District,20
+2397,41.86,-87.67,Block 37,4.3,The Illinois Medical District,20
+2398,41.86,-87.67,NEWCITY,4.3,The Illinois Medical District,20
+2399,41.86,-87.67,Lake Meadows Shopping Center,4,The Illinois Medical District,20
+2400,41.86,-87.67,Dorchester Commons Shopping Center,3.9,The Illinois Medical District,20
+2401,41.86,-87.67,Foundry Shopping Center,3.8,The Illinois Medical District,20
+2402,41.86,-87.67,Nordstrom Rack The Shops at State and Washington,4.1,The Illinois Medical District,20
+2403,41.86,-87.67,Greenheart Shop,4.9,The Illinois Medical District,20
+2404,41.86,-87.67,Diversey Halsted Shopping Center,4,The Illinois Medical District,20
+2405,41.86,-87.67,Southgate Market,4.3,The Illinois Medical District,20
+2406,41.86,-87.67,Washington Square Mall.,4,The Illinois Medical District,20
+2407,41.86,-87.67,Yards Plaza,4,The Illinois Medical District,20
+2408,41.86,-87.67,Riverpoint Center,4.1,The Illinois Medical District,20
+2409,41.86,-87.67,The Maxwell,4.3,The Illinois Medical District,20
+2410,41.86,-87.67,Three Stars Resale Shop,4.9,The Illinois Medical District,20
+2411,41.85,-87.66,The Shops at North Bridge,4.3,The 78,20
+2412,41.85,-87.66,NORTH BRIDGE SHOPS,2,The 78,20
+2413,41.85,-87.66,900 North Michigan Shops,4.4,The 78,20
+2414,41.85,-87.66,Hawthorne Works Shopping Center,4,The 78,20
+2415,41.85,-87.66,The Shops at Millennium Station,NAN,The 78,20
+2416,41.85,-87.66,Roosevelt Collection Shops,4.4,The 78,20
+2417,41.85,-87.66,Water Tower Place,4.5,The 78,20
+2418,41.85,-87.66,Block 37,4.3,The 78,20
+2419,41.85,-87.66,NEWCITY,4.3,The 78,20
+2420,41.85,-87.66,Lake Meadows Shopping Center,4,The 78,20
+2421,41.85,-87.66,Dorchester Commons Shopping Center,3.9,The 78,20
+2422,41.85,-87.66,Hyde Park Shopping Mall,3,The 78,20
+2423,41.85,-87.66,Foundry Shopping Center,3.8,The 78,20
+2424,41.85,-87.66,Nordstrom Rack The Shops at State and Washington,4.1,The 78,20
+2425,41.85,-87.66,Greenheart Shop,4.9,The 78,20
+2426,41.85,-87.66,Southgate Market,4.3,The 78,20
+2427,41.85,-87.66,Yards Plaza,4,The 78,20
+2428,41.85,-87.66,Harper court,4.4,The 78,20
+2429,41.85,-87.66,The Maxwell,4.3,The 78,20
+2430,41.85,-87.66,Wild Things gift shop at Lincoln Park Zoo,4.1,The 78,20
+2431,41.83,-87.6,The Shops at North Bridge,4.3,Burnham Lakefront,20
+2432,41.83,-87.6,NORTH BRIDGE SHOPS,2,Burnham Lakefront,20
+2433,41.83,-87.6,The Shops at Millennium Station,NAN,Burnham Lakefront,20
+2434,41.83,-87.6,900 North Michigan Shops,4.4,Burnham Lakefront,20
+2435,41.83,-87.6,Roosevelt Collection Shops,4.4,Burnham Lakefront,20
+2436,41.83,-87.6,Kimbark Plaza,4.2,Burnham Lakefront,20
+2437,41.83,-87.6,Water Tower Place,4.5,Burnham Lakefront,20
+2438,41.83,-87.6,Block 37,4.3,Burnham Lakefront,20
+2439,41.83,-87.6,Lake Meadows Shopping Center,4,Burnham Lakefront,20
+2440,41.83,-87.6,Dorchester Commons Shopping Center,3.9,Burnham Lakefront,20
+2441,41.83,-87.6,Hyde Park Shopping Mall,3,Burnham Lakefront,20
+2442,41.83,-87.6,Nordstrom Rack The Shops at State and Washington,4.1,Burnham Lakefront,20
+2443,41.83,-87.6,Southgate Market,4.3,Burnham Lakefront,20
+2444,41.83,-87.6,Yards Plaza,4,Burnham Lakefront,20
+2445,41.83,-87.6,Harper court,4.4,Burnham Lakefront,20
+2446,41.83,-87.6,The Maxwell,4.3,Burnham Lakefront,20
+2447,41.83,-87.6,Forever 21,4,Burnham Lakefront,20
+2448,41.83,-87.6,Nordstrom Rack Chicago Avenue,4.2,Burnham Lakefront,20
+2449,41.83,-87.6,Disney Store,4.4,Burnham Lakefront,20
+2450,41.83,-87.6,Grassroots Chicago,4.7,Burnham Lakefront,20
+2451,35.9,-78.87,Brier Creek Shopping Center,4,Research Triangle Park,19
+2452,35.9,-78.87,The Streets at Southpoint,4.5,Research Triangle Park,19
+2453,35.9,-78.87,Brier Creek Commons,4.4,Research Triangle Park,19
+2454,35.9,-78.87,Brierdale Shopping Center,4.2,Research Triangle Park,19
+2455,35.9,-78.87,Triangle Square Shopping Center,4.1,Research Triangle Park,19
+2456,35.9,-78.87,Greenwood Commons Shopping Center,4.1,Research Triangle Park,19
+2457,35.9,-78.87,Woodcroft Shopping Center,4.2,Research Triangle Park,19
+2458,35.9,-78.87,Hope Valley Shopping Center,4.2,Research Triangle Park,19
+2459,35.9,-78.87,Parkside Town Commons,4.4,Research Triangle Park,19
+2460,35.9,-78.87,Renaissance Center,4.3,Research Triangle Park,19
+2461,35.9,-78.87,Homestead Market,4.2,Research Triangle Park,19
+2462,35.9,-78.87,McCrimmon Corners,4.2,Research Triangle Park,19
+2463,35.9,-78.87,SouthPoint Crossing,4.3,Research Triangle Park,19
+2464,35.9,-78.87,Hope Valley Commons,4.2,Research Triangle Park,19
+2465,35.9,-78.87,Alexander Place,4.2,Research Triangle Park,19
+2466,35.9,-78.87,Morrisville Outlet Mall,2.4,Research Triangle Park,19
+2467,35.9,-78.87,Luv Shop,NAN,Research Triangle Park,19
+2468,35.9,-78.87,Bath & Body Works,NAN,Research Triangle Park,19
+2469,35.9,-78.87,Brooks Brothers,3.2,Research Triangle Park,19
+2470,35.85,-79.08,Eastgate shopping center,NAN,Chatham Park,13
+2471,35.85,-79.08,Glen Lennox Shopping Center,3.8,Chatham Park,13
+2472,35.85,-79.08,Glenwood Square Shopping Center,4.1,Chatham Park,13
+2473,35.85,-79.08,Chatham Crossing Shopping Center,5,Chatham Park,13
+2474,35.85,-79.08,Carr Mill Mall,4.3,Chatham Park,13
+2475,35.85,-79.08,Meadowmont Village,4.4,Chatham Park,13
+2476,35.85,-79.08,Carrboro Plaza,4.1,Chatham Park,13
+2477,35.85,-79.08,North Chatham Village,4.2,Chatham Park,13
+2478,35.85,-79.08,Dress Shop,NAN,Chatham Park,13
+2479,35.85,-79.08,The Fragrance Shop,4,Chatham Park,13
+2480,35.85,-79.08,Womancraft Gifts,4.9,Chatham Park,13
+2481,35.85,-79.08,University Florist & Gift Shop,4.8,Chatham Park,13
+2482,35.85,-79.08,Rumors,4.2,Chatham Park,13
+2483,35.77,-78.64,North Ridge Shopping Center,NAN,Warehouse District,20
+2484,35.77,-78.64,Forest Hills Barber Shop,4.6,Warehouse District,20
+2485,35.77,-78.64,The Shops at Garner Plaza,4.1,Warehouse District,20
+2486,35.77,-78.64,Shops At Oberlin Court,4.2,Warehouse District,20
+2487,35.77,-78.64,Northside Shopping Center,NAN,Warehouse District,20
+2488,35.77,-78.64,City Market,4.3,Warehouse District,20
+2489,35.77,-78.64,Balcony,NAN,Warehouse District,20
+2490,35.77,-78.64,Crabtree Valley Mall,4.4,Warehouse District,20
+2491,35.77,-78.64,Cameron Village,4.4,Warehouse District,20
+2492,35.77,-78.64,North Hills,4.4,Warehouse District,20
+2493,35.77,-78.64,Creekside Crossing & Shops,4.1,Warehouse District,20
+2494,35.77,-78.64,Ridgewood Shopping Center,4.2,Warehouse District,20
+2495,35.77,-78.64,Mission Valley Shopping Center,4.1,Warehouse District,20
+2496,35.77,-78.64,Walnut Creek Shopping Center,3.9,Warehouse District,20
+2497,35.77,-78.64,Farmington Square Shopping Center,4,Warehouse District,20
+2498,35.77,-78.64,Stony Brook Shopping Center,3.8,Warehouse District,20
+2499,35.77,-78.64,Tower Shopping Center,3.8,Warehouse District,20
+2500,35.77,-78.64,Plaza West Shopping Center,3.8,Warehouse District,20
+2501,35.77,-78.64,Holly Park,4.2,Warehouse District,20
+2502,35.77,-78.64,Forest Hills Shopping Center,3.9,Warehouse District,20
+2503,33.7615,-84.3856,Peachtree Square Shopping Center,4.2,Downtown Atlanta,20
+2504,33.7615,-84.3856,Campbellton Plaza,3.6,Downtown Atlanta,20
+2505,33.7615,-84.3856,Oak At Ashby Street Shopping Center,4.2,Downtown Atlanta,20
+2506,33.7615,-84.3856,Peachtree Center,4,Downtown Atlanta,20
+2507,33.7615,-84.3856,Atlantic Station,4.5,Downtown Atlanta,20
+2508,33.7615,-84.3856,Colony Square,4,Downtown Atlanta,20
+2509,33.7615,-84.3856,Shopping center,NAN,Downtown Atlanta,20
+2510,33.7615,-84.3856,Glenwood Place,4.3,Downtown Atlanta,20
+2511,33.7615,-84.3856,Midtown Place,4.1,Downtown Atlanta,20
+2512,33.7615,-84.3856,Edgewood Retail District,4.3,Downtown Atlanta,20
+2513,33.7615,-84.3856,Atlantic Shopping Center,3.7,Downtown Atlanta,20
+2514,33.7615,-84.3856,Westside Provisions District,4.5,Downtown Atlanta,20
+2515,33.7615,-84.3856,Briarcliff Plaza,4.2,Downtown Atlanta,20
+2516,33.7615,-84.3856,Toco Hills Shopping Center,4.3,Downtown Atlanta,20
+2517,33.7615,-84.3856,Peachtree Battle,4.2,Downtown Atlanta,20
+2518,33.7615,-84.3856,Shops of Miami Circle,4.4,Downtown Atlanta,20
+2519,33.7615,-84.3856,Sage Hill Shopping Center,4.1,Downtown Atlanta,20
+2520,33.7615,-84.3856,Stewart Lakewood Shopping Center,3.1,Downtown Atlanta,20
+2521,33.7615,-84.3856,Moreland Shopping Center,4,Downtown Atlanta,20
+2522,33.7615,-84.3856,Briarcliff La Vista Shopping Center,4.2,Downtown Atlanta,20
+2523,34.5129,-93.0431,Albert Pike Shopping Center,3.9,Midtown,12
+2524,34.5129,-93.0431,The Handmade Holiday shop,NAN,Midtown,12
+2525,34.5129,-93.0431,Temperance Hill Square,4.3,Midtown,12
+2526,34.5129,-93.0431,Cornerstone Market Place,4.2,Midtown,12
+2527,34.5129,-93.0431,Hot Springs Plaza Shopping Center,4,Midtown,12
+2528,34.5129,-93.0431,Hot Springs Mall,3.4,Midtown,12
+2529,34.5129,-93.0431,Beverly's Casual Shop,NAN,Midtown,12
+2530,34.5129,-93.0431,Stella Mae's,4.7,Midtown,12
+2531,34.5129,-93.0431,State & Pride Provisions Company,4.8,Midtown,12
+2532,34.5129,-93.0431,Cupids Lingerie,4,Midtown,12
+2533,34.5129,-93.0431,BATHHOUSE Soapery,4.8,Midtown,12
+2534,34.5129,-93.0431,Grand Lagniappe Shoppe,5,Midtown,12
+2535,33.904,-84.2843,Doraville Shopping Center,4,Former GM plant,20
+2536,33.904,-84.2843,Gwinnett Horizons Shopping Center,4.1,Former GM plant,20
+2537,33.904,-84.2843,Georgetown Shopping Center,NAN,Former GM plant,20
+2538,33.904,-84.2843,Carter Rockbridge Plaza Shopping Center,3.9,Former GM plant,20
+2539,33.904,-84.2843,Global Forum Shopping Center,4.1,Former GM plant,20
+2540,33.904,-84.2843,Skyland Shopping Center,3.4,Former GM plant,20
+2541,33.904,-84.2843,Cherokee Plaza,4.4,Former GM plant,20
+2542,33.904,-84.2843,Browning Village Shopping Center,4.1,Former GM plant,20
+2543,33.904,-84.2843,Perimeter Mall,4.4,Former GM plant,20
+2544,33.904,-84.2843,Town Square Center,4.2,Former GM plant,20
+2545,33.904,-84.2843,Perimeter Square,4.4,Former GM plant,20
+2546,33.904,-84.2843,Lenox Square,4.4,Former GM plant,20
+2547,33.904,-84.2843,Shops Around Lenox,4,Former GM plant,20
+2548,33.904,-84.2843,Phipps Plaza,4.4,Former GM plant,20
+2549,33.904,-84.2843,Briarcliff Village,4.1,Former GM plant,20
+2550,33.904,-84.2843,Embry Village Shopping Center,4.1,Former GM plant,20
+2551,33.904,-84.2843,The Shops Of Dunwoody,NAN,Former GM plant,20
+2552,33.904,-84.2843,Oakbrook Square Shopping Center,4.2,Former GM plant,20
+2553,33.904,-84.2843,Peachtree Parkway Shopping Plaza,4,Former GM plant,20
+2554,33.904,-84.2843,Norcross Village Shopping Center,4.1,Former GM plant,20
+2555,33.9133,-84.3888,The Prado Shopping Center,2,The High Street Site,20
+2556,33.9133,-84.3888,The Shops at Cumberland Shopping Center,4.2,The High Street Site,20
+2557,33.9133,-84.3888,Woodlawn Square Shopping Center,4.2,The High Street Site,20
+2558,33.9133,-84.3888,Georgetown Shopping Center,NAN,The High Street Site,20
+2559,33.9133,-84.3888,Skyland Shopping Center,3.4,The High Street Site,20
+2560,33.9133,-84.3888,Cherokee Plaza,4.4,The High Street Site,20
+2561,33.9133,-84.3888,Perimeter Mall,4.4,The High Street Site,20
+2562,33.9133,-84.3888,Stefans Shop,4,The High Street Site,20
+2563,33.9133,-84.3888,Perimeter Square,4.4,The High Street Site,20
+2564,33.9133,-84.3888,Lenox Square,4.4,The High Street Site,20
+2565,33.9133,-84.3888,Cumberland Mall,4.2,The High Street Site,20
+2566,33.9133,-84.3888,Shops Around Lenox,4,The High Street Site,20
+2567,33.9133,-84.3888,Phipps Plaza,4.4,The High Street Site,20
+2568,33.9133,-84.3888,Perimeter Pointe,4.2,The High Street Site,20
+2569,33.9133,-84.3888,Brookhaven Plaza,4.2,The High Street Site,20
+2570,33.9133,-84.3888,The Station at Vinings Shopping Center,4.3,The High Street Site,20
+2571,33.9133,-84.3888,Galleria Specialty Mall,4,The High Street Site,20
+2572,33.9133,-84.3888,The Shops Of Dunwoody,NAN,The High Street Site,20
+2573,33.9133,-84.3888,Powers Ferry Plaza,4.2,The High Street Site,20
+2574,33.9133,-84.3888,Perimeter Station,4.3,The High Street Site,20
+2575,30.2586,-97.7444,Twin Oaks Shopping Center,3.7,American-Statesman ,20
+2576,30.2586,-97.7444,2nd Street District,4.3,American-Statesman ,20
+2577,30.2586,-97.7444,Barton Creek Square,4.3,American-Statesman ,20
+2578,30.2586,-97.7444,Brodie Oaks Shopping Center,4.1,American-Statesman ,20
+2579,30.2586,-97.7444,Capital Plaza,4,American-Statesman ,20
+2580,30.2586,-97.7444,Shops at Mira Vista,4.1,American-Statesman ,20
+2581,30.2586,-97.7444,Southwood Shopping Center,3.8,American-Statesman ,20
+2582,30.2586,-97.7444,Austin Market and Mercantile,3.7,American-Statesman ,20
+2583,30.2586,-97.7444,West Woods Shopping Center,3.9,American-Statesman ,20
+2584,30.2586,-97.7444,Central Park Shopping Center,3,American-Statesman ,20
+2585,30.2586,-97.7444,Windsor Village Shopping Center,3.9,American-Statesman ,20
+2586,30.2586,-97.7444,Casis Shopping Center,3.9,American-Statesman ,20
+2587,30.2586,-97.7444,Delwood Shopping Center,3.3,American-Statesman ,20
+2588,30.2586,-97.7444,Jefferson Square Shopping Center,4.1,American-Statesman ,20
+2589,30.2586,-97.7444,Stassney Heights Shopping Central,4.5,American-Statesman ,20
+2590,30.2586,-97.7444,Rosedale Village Shopping Center,3,American-Statesman ,20
+2591,30.2586,-97.7444,Hancock Center,4.2,American-Statesman ,20
+2592,30.2586,-97.7444,The Village at Westlake,4.3,American-Statesman ,20
+2593,30.2586,-97.7444,take heart,4.9,American-Statesman ,20
+2594,30.2586,-97.7444,Sunset Valley Marketfair,4.1,American-Statesman ,20
+2595,30.2714,-97.6647,2nd Street District,4.3,Eightfold,20
+2596,30.2714,-97.6647,Capital Plaza,4,Eightfold,20
+2597,30.2714,-97.6647,Austin Market and Mercantile,3.7,Eightfold,20
+2598,30.2714,-97.6647,Central Park Shopping Center,3,Eightfold,20
+2599,30.2714,-97.6647,Springdale Shopping Center,3.8,Eightfold,20
+2600,30.2714,-97.6647,The Linc,3.9,Eightfold,20
+2601,30.2714,-97.6647,Windsor Village Shopping Center,3.9,Eightfold,20
+2602,30.2714,-97.6647,Delwood Shopping Center,3.3,Eightfold,20
+2603,30.2714,-97.6647,Rosedale Village Shopping Center,3,Eightfold,20
+2604,30.2714,-97.6647,Hancock Center,4.2,Eightfold,20
+2605,30.2714,-97.6647,take heart,4.9,Eightfold,20
+2606,30.2714,-97.6647,Eastland Plaza,3.9,Eightfold,20
+2607,30.2714,-97.6647,Urban Outfitters,3.7,Eightfold,20
+2608,30.2714,-97.6647,Rainbow Shops,4,Eightfold,20
+2609,30.2714,-97.6647,Patagonia Austin,4.4,Eightfold,20
+2610,30.2714,-97.6647,Bonobos,4.7,Eightfold,20
+2611,30.2714,-97.6647,Flip Flop Shops,3,Eightfold,20
+2612,30.2714,-97.6647,The Burlap Bag,4.4,Eightfold,20
+2613,30.2714,-97.6647,Apparition Skateboards,4.8,Eightfold,20
+2614,30.2714,-97.6647,francesca's,4.6,Eightfold,20
+2615,30.199,-97.8276,Twin Oaks Shopping Center,3.7,Former 3M site,20
+2616,30.199,-97.8276,2nd Street District,4.3,Former 3M site,20
+2617,30.199,-97.8276,Barton Creek Square,4.3,Former 3M site,20
+2618,30.199,-97.8276,Southpark Meadows,4.4,Former 3M site,20
+2619,30.199,-97.8276,Brodie Oaks Shopping Center,4.1,Former 3M site,20
+2620,30.199,-97.8276,Sunset Valley Homestead,4.3,Former 3M site,20
+2621,30.199,-97.8276,Stassney Square,4,Former 3M site,20
+2622,30.199,-97.8276,Century South,4,Former 3M site,20
+2623,30.199,-97.8276,Shops at Mira Vista,4.1,Former 3M site,20
+2624,30.199,-97.8276,Shops at Arbor Trails,4.3,Former 3M site,20
+2625,30.199,-97.8276,Southwood Shopping Center,3.8,Former 3M site,20
+2626,30.199,-97.8276,Tanglewood Village Shopping Center,4.1,Former 3M site,20
+2627,30.199,-97.8276,Cannon Oaks Shopping Center,3.7,Former 3M site,20
+2628,30.199,-97.8276,Southcross Plaza Shopping Center,3.8,Former 3M site,20
+2629,30.199,-97.8276,Stassney Heights Shopping Central,4.5,Former 3M site,20
+2630,30.199,-97.8276,Parkside Village,4.1,Former 3M site,20
+2631,30.199,-97.8276,Oak Hill Centre,3.9,Former 3M site,20
+2632,30.199,-97.8276,Sunset Valley Marketfair,4.1,Former 3M site,20
+2633,30.199,-97.8276,Lakehills Plaza,4,Former 3M site,20
+2634,30.199,-97.8276,Cherry Creek Plaza,4.2,Former 3M site,20
+2635,30.4015,-97.7268,Northgate Shopping Center,4,The Domain,20
+2636,30.4015,-97.7268,Crossroads Shopping Center,3.9,The Domain,20
+2637,30.4015,-97.7268,Interpoint Shopping Center,3.8,The Domain,20
+2638,30.4015,-97.7268,Mesa Woods Shopping Center,NAN,The Domain,20
+2639,30.4015,-97.7268,Gateway Shopping Centers,4.2,The Domain,20
+2640,30.4015,-97.7268,Shops At Pecan Park,NAN,The Domain,20
+2641,30.4015,-97.7268,Crestview Shopping Center,NAN,The Domain,20
+2642,30.4015,-97.7268,The Domain,4.4,The Domain,20
+2643,30.4015,-97.7268,The Arboretum,4.4,The Domain,20
+2644,30.4015,-97.7268,Village Shopping Center,4.1,The Domain,20
+2645,30.4015,-97.7268,North Hills,4.2,The Domain,20
+2646,30.4015,-97.7268,The Shops at Arbor Walk,4.2,The Domain,20
+2647,30.4015,-97.7268,Shops At Ladera Bend,4,The Domain,20
+2648,30.4015,-97.7268,Great Hills Market,4.2,The Domain,20
+2649,30.4015,-97.7268,Allandale Shopping Center,4.1,The Domain,20
+2650,30.4015,-97.7268,Rundberg Square Shopping Center,3.7,The Domain,20
+2651,30.4015,-97.7268,Jester Village Shopping Center,4,The Domain,20
+2652,30.4015,-97.7268,Centennial Shopping Center,4.2,The Domain,20
+2653,30.4015,-97.7268,North Park Shopping Center,4,The Domain,20
+2654,30.4015,-97.7268,Simon Property Group,4.7,The Domain,20
+2655,30.4014,-97.7147,Northgate Shopping Center,4,Bardmoor Campus,20
+2656,30.4014,-97.7147,Crossroads Shopping Center,3.9,Bardmoor Campus,20
+2657,30.4014,-97.7147,Interpoint Shopping Center,3.8,Bardmoor Campus,20
+2658,30.4014,-97.7147,Mesa Woods Shopping Center,NAN,Bardmoor Campus,20
+2659,30.4014,-97.7147,Gateway Shopping Centers,4.2,Bardmoor Campus,20
+2660,30.4014,-97.7147,Crestview Shopping Center,NAN,Bardmoor Campus,20
+2661,30.4014,-97.7147,The Domain,4.4,Bardmoor Campus,20
+2662,30.4014,-97.7147,The Arboretum,4.4,Bardmoor Campus,20
+2663,30.4014,-97.7147,Village Shopping Center,4.1,Bardmoor Campus,20
+2664,30.4014,-97.7147,North Hills,4.2,Bardmoor Campus,20
+2665,30.4014,-97.7147,The Shops at Arbor Walk,4.2,Bardmoor Campus,20
+2666,30.4014,-97.7147,Great Hills Market,4.2,Bardmoor Campus,20
+2667,30.4014,-97.7147,Allandale Shopping Center,4.1,Bardmoor Campus,20
+2668,30.4014,-97.7147,Rundberg Square Shopping Center,3.7,Bardmoor Campus,20
+2669,30.4014,-97.7147,Centennial Shopping Center,4.2,Bardmoor Campus,20
+2670,30.4014,-97.7147,North Park Shopping Center,4,Bardmoor Campus,20
+2671,30.4014,-97.7147,Simon Property Group,4.7,Bardmoor Campus,20
+2672,30.4014,-97.7147,Northcross Mall,4,Bardmoor Campus,20
+2673,30.4014,-97.7147,Parmer Crossing,4.1,Bardmoor Campus,20
+2674,30.4014,-97.7147,Galleria Oaks,4,Bardmoor Campus,20
+2675,30.4704,-97.7701,Parkline Shopping Center,4,Robinson Ranch,20
+2676,30.4704,-97.7701,Walden Park Shopping Center,4.1,Robinson Ranch,20
+2677,30.4704,-97.7701,Shops At Pecan Park,NAN,Robinson Ranch,20
+2678,30.4704,-97.7701,Shops At Cedar Park,NAN,Robinson Ranch,20
+2679,30.4704,-97.7701,Village Belle Shopping Center,5,Robinson Ranch,20
+2680,30.4704,-97.7701,Shops at Walden Park,4.3,Robinson Ranch,20
+2681,30.4704,-97.7701,The Domain,4.4,Robinson Ranch,20
+2682,30.4704,-97.7701,Lakeline Mall,4.1,Robinson Ranch,20
+2683,30.4704,-97.7701,North Hills,4.2,Robinson Ranch,20
+2684,30.4704,-97.7701,Plaza Volente,4.2,Robinson Ranch,20
+2685,30.4704,-97.7701,Market at Lake Creek,4.1,Robinson Ranch,20
+2686,30.4704,-97.7701,Domain NORTHSIDE,4.5,Robinson Ranch,20
+2687,30.4704,-97.7701,The RailYard Shopping Center,4.1,Robinson Ranch,20
+2688,30.4704,-97.7701,The Homestead Shopping Center,4.1,Robinson Ranch,20
+2689,30.4704,-97.7701,The Shops at Whitestone,4.3,Robinson Ranch,20
+2690,30.4704,-97.7701,1890 Ranch,4.3,Robinson Ranch,20
+2691,30.4704,-97.7701,The Trails at 620,4.4,Robinson Ranch,20
+2692,30.4704,-97.7701,Parmer Crossing,4.1,Robinson Ranch,20
+2693,30.4704,-97.7701,Galleria Oaks,4,Robinson Ranch,20
+2694,30.4704,-97.7701,The Parke,4.4,Robinson Ranch,20
