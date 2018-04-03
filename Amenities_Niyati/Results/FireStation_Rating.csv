@@ -1,0 +1,286 @@
+,City Name,Facility fire_station,Latitude,Longitude,Rating,Site Name,fire_station Total Count
+0,Northern Virginia Area,Metropolitan Washington Airports Authority Fire Station 303,38.96,-77.42,NAN,Center for Innovation Technology,2
+1,Northern Virginia Area,Frying Pan Fire Station # 36,38.96,-77.42,4.6,Center for Innovation Technology,2
+2,Northern Virginia Area,Arlington County Fire Station 5,38.84,-77.05,5,Crystal City and Potomac Yard,6
+3,Northern Virginia Area,Fire Station 209,38.84,-77.05,NAN,Crystal City and Potomac Yard,6
+4,Northern Virginia Area,Alexandria Fire Station,38.84,-77.05,5,Crystal City and Potomac Yard,6
+5,Northern Virginia Area,Station 203,38.84,-77.05,5,Crystal City and Potomac Yard,6
+6,Northern Virginia Area,Fire Station 301 DCA ARFF,38.84,-77.05,NAN,Crystal City and Potomac Yard,6
+7,Northern Virginia Area,Alexandria Fire Station 204,38.84,-77.05,4.2,Crystal City and Potomac Yard,6
+8,Washington DC,Washington DC Fire & EMS Station,38.86,-77.01,3.5,Nationals Park/ D.C United Stadium,7
+9,Washington DC,Washington DC Fire & EMS Station,38.86,-77.01,5,Nationals Park/ D.C United Stadium,7
+10,Washington DC,Washington DC Fire & EMS Station,38.86,-77.01,5,Nationals Park/ D.C United Stadium,7
+11,Washington DC,Washington DC Fire & EMS Station,38.86,-77.01,NAN,Nationals Park/ D.C United Stadium,7
+12,Washington DC,Washington DC Fleet Maintenance Division,38.86,-77.01,NAN,Nationals Park/ D.C United Stadium,7
+13,Washington DC,Washington DC Fire & EMS Station,38.86,-77.01,4,Nationals Park/ D.C United Stadium,7
+14,Washington DC,"Engine 13, Truck 10",38.86,-77.01,5,Nationals Park/ D.C United Stadium,7
+15,Washington DC,Washington DC Fire & EMS Station,38.89,-77,3.5,Union Station,13
+16,Washington DC,Washington DC Fire & EMS Station,38.89,-77,4,Union Station,13
+17,Washington DC,Washington DC Fire & EMS Station,38.89,-77,5,Union Station,13
+18,Washington DC,Washington DC Fire & EMS Station,38.89,-77,NAN,Union Station,13
+19,Washington DC,Washington DC Fire & EMS Station,38.89,-77,5,Union Station,13
+20,Washington DC,Washington DC Fire & EMS Station,38.89,-77,5,Union Station,13
+21,Washington DC,Washington DC Fire & EMS Station,38.89,-77,2,Union Station,13
+22,Washington DC,Washington DC Fire & EMS Station,38.89,-77,5,Union Station,13
+23,Washington DC,"Engine 10, Truck 13",38.89,-77,3.7,Union Station,13
+24,Washington DC,"Engine 13, Truck 10",38.89,-77,5,Union Station,13
+25,Washington DC,Washington Fire Department-Payroll,38.89,-77,NAN,Union Station,13
+26,Washington DC,Washington DC Fleet Maintenance Division,38.89,-77,NAN,Union Station,13
+27,Washington DC,Washington DC Fire & EMS Station,38.89,-77,5,Union Station,13
+28,Washington DC,Washington DC Fire & EMS Station,38.88,-76.97,4,Hill-East Neighborhood,7
+29,Washington DC,Washington DC Fire & EMS Station,38.88,-76.97,5,Hill-East Neighborhood,7
+30,Washington DC,Washington DC Fire & EMS Station,38.88,-76.97,NAN,Hill-East Neighborhood,7
+31,Washington DC,Washington DC Fire & EMS Station,38.88,-76.97,5,Hill-East Neighborhood,7
+32,Washington DC,Washington DC Fire & EMS Station,38.88,-76.97,2,Hill-East Neighborhood,7
+33,Washington DC,Washington DC Fire & EMS Station,38.88,-76.97,4.8,Hill-East Neighborhood,7
+34,Washington DC,"Engine 10, Truck 13",38.88,-76.97,3.7,Hill-East Neighborhood,7
+35,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,3.7,Shaw-Howard University Area,16
+36,Washington DC,Washington DC Fire & EMS: Homeland Security Special Operations,38.91,-77.02,NAN,Shaw-Howard University Area,16
+37,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,4,Shaw-Howard University Area,16
+38,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,5,Shaw-Howard University Area,16
+39,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,NAN,Shaw-Howard University Area,16
+40,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,5,Shaw-Howard University Area,16
+41,Washington DC,DC Fire & Emergency Med Services,38.91,-77.02,3,Shaw-Howard University Area,16
+42,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,3.3,Shaw-Howard University Area,16
+43,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,5,Shaw-Howard University Area,16
+44,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,3,Shaw-Howard University Area,16
+45,Washington DC,Washington DC Fire & EMS Engine 12,38.91,-77.02,NAN,Shaw-Howard University Area,16
+46,Washington DC,Washington DC Fire & EMS Station,38.91,-77.02,5,Shaw-Howard University Area,16
+47,Washington DC,Fire Department Headquarters,38.91,-77.02,NAN,Shaw-Howard University Area,16
+48,Washington DC,Washington Fire-Public Info,38.91,-77.02,NAN,Shaw-Howard University Area,16
+49,Washington DC,Washington Fire Department-Payroll,38.91,-77.02,NAN,Shaw-Howard University Area,16
+50,Washington DC,Fire and EMS Department,38.91,-77.02,5,Shaw-Howard University Area,16
+51,Los Angeles,Los Angeles Fire Dept. Station 105,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,4
+52,Los Angeles,Los Angeles Fire Department Station 84,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,4
+53,Los Angeles,Los Angeles Fire Dept. Station 72,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,4
+54,Los Angeles,Accu Fire Protection,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,4
+55,Los Angeles,Los Angeles County Fire Station 111,34.4318,-118.5584,5,New Hall Ranch Santa Clarita Valley,4
+56,Los Angeles,Los Angeles County Fire Department Station #126,34.4318,-118.5584,NAN,New Hall Ranch Santa Clarita Valley,4
+57,Los Angeles,Los Angeles County Fire Dept. Station 156,34.4318,-118.5584,5,New Hall Ranch Santa Clarita Valley,4
+58,Los Angeles,Dept of Consumer Affairs,34.4318,-118.5584,NAN,New Hall Ranch Santa Clarita Valley,4
+59,Los Angeles,Los Angeles County Fire Dept Station 182,34.0885,-117.7702,5,Pomona Fairplex,3
+60,Los Angeles,Los Angeles County Fire Station 186,34.0885,-117.7702,5,Pomona Fairplex,3
+61,Los Angeles,City of La Verne Fire Station 61,34.0885,-117.7702,5,Pomona Fairplex,3
+62,Boston,Winthrop Fire Department,42.39,-71,NAN,Suffolk Downs,4
+63,Boston,Chelsea Fire Department,42.39,-71,NAN,Suffolk Downs,4
+64,Boston,Winthrop Fire Department,42.39,-71,NAN,Suffolk Downs,4
+65,Boston,Boston Fire Department Engine 56 Ladder 21,42.39,-71,5,Suffolk Downs,4
+66,Boston,Boston Fire Department Engine 10 Tower 3 Rescue 1 Division 1,42.34,-71.03,5,South Boston Waterfront,5
+67,Boston,Massport Fire Rescue Headquarters,42.34,-71.03,5,South Boston Waterfront,5
+68,Boston,Patriot Fire Protection,42.34,-71.03,NAN,South Boston Waterfront,5
+69,Boston,Boston Fire Department Engine 2 Ladder 19,42.34,-71.03,NAN,South Boston Waterfront,5
+70,Boston,Boston Fire Department Engine 39 Ladder 18 District 3 Chief,42.34,-71.03,NAN,South Boston Waterfront,5
+71,Boston,Boston Fire Department,42.35,-71.05,4.5,Downtown,20
+72,Boston,Boston Fire Department Marine 1,42.35,-71.05,NAN,Downtown,20
+73,Boston,Boston Fire Department Engine 10 Tower 3 Rescue 1 Division 1,42.35,-71.05,5,Downtown,20
+74,Boston,Boston Fire Department,42.35,-71.05,NAN,Downtown,20
+75,Boston,Broadway Fire House,42.35,-71.05,5,Downtown,20
+76,Boston,Boston Fire Department Engine 8 Ladder 1,42.35,-71.05,5,Downtown,20
+77,Boston,East Cambridge Fire House,42.35,-71.05,NAN,Downtown,20
+78,Boston,Boston Fire Department - District 1,42.35,-71.05,3,Downtown,20
+79,Boston,Boston Fire Department Engine 4 Ladder 24,42.35,-71.05,5,Downtown,20
+80,Boston,Boston Fire Department Engine 7 Ladder 17 District 4 Chief,42.35,-71.05,NAN,Downtown,20
+81,Boston,Patriot Fire Protection,42.35,-71.05,NAN,Downtown,20
+82,Boston,Russell Fire Club,42.35,-71.05,NAN,Downtown,20
+83,Boston,Boston Fire Department Engine 3,42.35,-71.05,1,Downtown,20
+84,Boston,Boston Fire Department Engine 2 Ladder 19,42.35,-71.05,NAN,Downtown,20
+85,Boston,Boston Fire Headquarters,42.35,-71.05,NAN,Downtown,20
+86,Boston,Boston Fire Department Engine 39 Ladder 18 District 3 Chief,42.35,-71.05,NAN,Downtown,20
+87,Boston,Fire Command Center,42.35,-71.05,NAN,Downtown,20
+88,Boston,Massport Fire Rescue Headquarters,42.35,-71.05,5,Downtown,20
+89,Boston,Engine 50 Boston Fire Department,42.35,-71.05,4.3,Downtown,20
+90,Boston,Boston Fire Department Engine 14 Ladder 4 Safety Chief 1,42.35,-71.05,NAN,Downtown,20
+91,Boston,Boston Fire Department,42.34,-71.06,4.5,South End,15
+92,Boston,Boston Fire Department Engine 33 Ladder 15,42.34,-71.06,4.9,South End,15
+93,Boston,Boston Fire Department Engine 10 Tower 3 Rescue 1 Division 1,42.34,-71.06,5,South End,15
+94,Boston,Boston Fire Department,42.34,-71.06,NAN,South End,15
+95,Boston,Broadway Fire House,42.34,-71.06,5,South End,15
+96,Boston,Boston Fire Department Engine 4 Ladder 24,42.34,-71.06,5,South End,15
+97,Boston,Boston Fire Department Engine 7 Ladder 17 District 4 Chief,42.34,-71.06,NAN,South End,15
+98,Boston,Patriot Fire Protection,42.34,-71.06,NAN,South End,15
+99,Boston,Boston Fire Department Engine 3,42.34,-71.06,1,South End,15
+100,Boston,Boston Fire Department Engine 21,42.34,-71.06,NAN,South End,15
+101,Boston,Boston Fire Department Engine 2 Ladder 19,42.34,-71.06,NAN,South End,15
+102,Boston,Boston Fire Headquarters,42.34,-71.06,NAN,South End,15
+103,Boston,Boston Fire Department Engine 39 Ladder 18 District 3 Chief,42.34,-71.06,NAN,South End,15
+104,Boston,Boston Fire Department Engine 14 Ladder 4 Safety Chief 1,42.34,-71.06,NAN,South End,15
+105,Boston,City of Boston Fire Department (Historic Building),42.34,-71.06,NAN,South End,15
+106,New York,North Hudson Reginal Fire & Rescue Engine 3,40.75,-74,NAN,Hudson Yards,20
+107,New York,FDNY Engine 5,40.75,-74,5,Hudson Yards,20
+108,New York,FDNY Engine 65,40.75,-74,5,Hudson Yards,20
+109,New York,FDNY Engine 26,40.75,-74,4.4,Hudson Yards,20
+110,New York,New York City Fire Department,40.75,-74,5,Hudson Yards,20
+111,New York,FDNY Engine 54/Ladder 4/Battalion 9,40.75,-74,4.7,Hudson Yards,20
+112,New York,FDNY Engine 16/Ladder 7,40.75,-74,4,Hudson Yards,20
+113,New York,FDNY Rescue 1,40.75,-74,4.9,Hudson Yards,20
+114,New York,FDNY Engine 21,40.75,-74,4,Hudson Yards,20
+115,New York,FDNY Engine 23,40.75,-74,4.8,Hudson Yards,20
+116,New York,FDNY Squad 18,40.75,-74,4.9,Hudson Yards,20
+117,New York,FDNY Engine 8/Ladder 2/Battalion 8,40.75,-74,4.6,Hudson Yards,20
+118,New York,FDNY Engine 34/Ladder 21,40.75,-74,5,Hudson Yards,20
+119,New York,H & L CO 3 & Water Tower No. 2,40.75,-74,NAN,Hudson Yards,20
+120,New York,FDNY Engine 1/Ladder 24,40.75,-74,4.9,Hudson Yards,20
+121,New York,Fire Science Institute,40.75,-74,NAN,Hudson Yards,20
+122,New York,Fire Life Safety Solutions USA,40.75,-74,NAN,Hudson Yards,20
+123,New York,Master Fire Mechanical,40.75,-74,NAN,Hudson Yards,20
+124,New York,new york state honorary fire chiefs association,40.75,-74,NAN,Hudson Yards,20
+125,New York,FDNY Engine 33/Ladder 9,40.75,-74,5,Hudson Yards,20
+126,New York,FDNY Engine 258/Ladder 115,40.74,-73.94,4.5,Long Island City,7
+127,New York,FDNY Engine 325 & Ladder 163,40.74,-73.94,5,Long Island City,7
+128,New York,FDNY Ladder 116,40.74,-73.94,NAN,Long Island City,7
+129,New York,FDNY Engine 259/Ladder 128/Battalion 45,40.74,-73.94,NAN,Long Island City,7
+130,New York,FDNY Engine 238 & Ladder 106,40.74,-73.94,3.3,Long Island City,7
+131,New York,FDNY Engine 260,40.74,-73.94,NAN,Long Island City,7
+132,New York,FDNY Engine 8/Ladder 2/Battalion 8,40.74,-73.94,4.6,Long Island City,7
+133,New York,FDNY Engine 224,40.7,-73.98,3.7,Brooklyn Tech Triangle,14
+134,New York,FDNY Marine 6,40.7,-73.98,NAN,Brooklyn Tech Triangle,14
+135,New York,FDNY Ladder 8,40.7,-73.98,4.3,Brooklyn Tech Triangle,14
+136,New York,NYC Fire Department,40.7,-73.98,5,Brooklyn Tech Triangle,14
+137,New York,Fire Department City of New York Emergency Medical Service Station 32,40.7,-73.98,4.5,Brooklyn Tech Triangle,14
+138,New York,FDNY Engine 55/Battalion 2,40.7,-73.98,5,Brooklyn Tech Triangle,14
+139,New York,FDNY Engine 6,40.7,-73.98,5,Brooklyn Tech Triangle,14
+140,New York,FDNY Engine 221/Ladder 104,40.7,-73.98,4.5,Brooklyn Tech Triangle,14
+141,New York,FDNY ENGINE 28/LADDER 11,40.7,-73.98,5,Brooklyn Tech Triangle,14
+142,New York,FDNY Engine 235/Battalion 57,40.7,-73.98,5,Brooklyn Tech Triangle,14
+143,New York,FDNY Engine 202/Ladder 101/Gat. 32,40.7,-73.98,5,Brooklyn Tech Triangle,14
+144,New York,FDNY E207 / L110 / BC31 / DC11,40.7,-73.98,4.7,Brooklyn Tech Triangle,14
+145,New York,FDNY Ladder 20/Division 1/Rescue 6,40.7,-73.98,5,Brooklyn Tech Triangle,14
+146,New York,FDNY L146 E229,40.7,-73.98,5,Brooklyn Tech Triangle,14
+147,New York,NYC Fire Department,40.7,-74.01,5,Financial District,13
+148,New York,FDNY Engine 224,40.7,-74.01,3.7,Financial District,13
+149,New York,"FDNY Engine 9, Ladder 6",40.7,-74.01,4.8,Financial District,13
+150,New York,FDNY Ladder 8,40.7,-74.01,4.3,Financial District,13
+151,New York,Fire Department City of New York Emergency Medical Service Station 32,40.7,-74.01,4.5,Financial District,13
+152,New York,FDNY Engine 55/Battalion 2,40.7,-74.01,5,Financial District,13
+153,New York,FDNY Engine 6,40.7,-74.01,5,Financial District,13
+154,New York,FDNY ENGINE 28/LADDER 11,40.7,-74.01,5,Financial District,13
+155,New York,FDNY Engine 202/Ladder 101/Gat. 32,40.7,-74.01,5,Financial District,13
+156,New York,FDNY Ten House,40.7,-74.01,4.7,Financial District,13
+157,New York,FDNY E207 / L110 / BC31 / DC11,40.7,-74.01,4.7,Financial District,13
+158,New York,Fire Department of Jersey City,40.7,-74.01,NAN,Financial District,13
+159,New York,FDNY Ladder 20/Division 1/Rescue 6,40.7,-74.01,5,Financial District,13
+160,Chicago,Chicago Fire Department,41.91,-87.64,4.8,Lincoln Yards,11
+161,Chicago,Chicago Fire Department,41.91,-87.64,4.5,Lincoln Yards,11
+162,Chicago,Chicago Fire Department- Engine 30,41.91,-87.64,5,Lincoln Yards,11
+163,Chicago,Chicago Fire Department,41.91,-87.64,4,Lincoln Yards,11
+164,Chicago,Dist 1 Headquarters Chicago Fire Department,41.91,-87.64,4.2,Lincoln Yards,11
+165,Chicago,Chicago Fire Department - Air Mask Services,41.91,-87.64,3.7,Lincoln Yards,11
+166,Chicago,Chicago Fire Department,41.91,-87.64,5,Lincoln Yards,11
+167,Chicago,Chicago Fire Department,41.91,-87.64,NAN,Lincoln Yards,11
+168,Chicago,Engine 4 Tower Ladder 10,41.91,-87.64,NAN,Lincoln Yards,11
+169,Chicago,Fire Your Therapist,41.91,-87.64,NAN,Lincoln Yards,11
+170,Chicago,Chicago Fire Department,41.91,-87.64,4.8,Lincoln Yards,11
+171,Chicago,Chicago Fire Department,41.89,-87.64,4.9,The River District,14
+172,Chicago,City of Chicago Fire Department Engine 103,41.89,-87.64,5,The River District,14
+173,Chicago,Chicago Fire Department,41.89,-87.64,4.8,The River District,14
+174,Chicago,Chicago Fire Department,41.89,-87.64,4.8,The River District,14
+175,Chicago,Chicago Fire Department- Engine 30,41.89,-87.64,5,The River District,14
+176,Chicago,Chicago Fire Dept Engine 1,41.89,-87.64,5,The River District,14
+177,Chicago,Chicago Fire Department,41.89,-87.64,4,The River District,14
+178,Chicago,Chicago Fire Department,41.89,-87.64,5,The River District,14
+179,Chicago,Dist 1 Headquarters Chicago Fire Department,41.89,-87.64,4.2,The River District,14
+180,Chicago,Chicago Fire Department - Air Mask Services,41.89,-87.64,3.7,The River District,14
+181,Chicago,Chicago Fire Department,41.89,-87.64,5,The River District,14
+182,Chicago,Engine 4 Tower Ladder 10,41.89,-87.64,NAN,The River District,14
+183,Chicago,Fire Suppression & Rescue,41.89,-87.64,NAN,The River District,14
+184,Chicago,Optimal Fire Protection,41.89,-87.64,NAN,The River District,14
+185,Chicago,Chicago Fire Department,41.88,-87.65,4.9,Futton Market,15
+186,Chicago,City of Chicago Fire Department Engine 103,41.88,-87.65,5,Futton Market,15
+187,Chicago,Chicago Fire Department,41.88,-87.65,4.8,Futton Market,15
+188,Chicago,Chicago Fire Department,41.88,-87.65,4.8,Futton Market,15
+189,Chicago,Chicago Fire Department- Engine 30,41.88,-87.65,5,Futton Market,15
+190,Chicago,Chicago Fire Dept Engine 1,41.88,-87.65,5,Futton Market,15
+191,Chicago,Chicago Fire Department,41.88,-87.65,4,Futton Market,15
+192,Chicago,Chicago Fire Department,41.88,-87.65,5,Futton Market,15
+193,Chicago,Dist 1 Headquarters Chicago Fire Department,41.88,-87.65,4.2,Futton Market,15
+194,Chicago,Chicago Fire Department - Air Mask Services,41.88,-87.65,3.7,Futton Market,15
+195,Chicago,Chicago Fire Department,41.88,-87.65,4.9,Futton Market,15
+196,Chicago,Chicago Fire Department,41.88,-87.65,3.7,Futton Market,15
+197,Chicago,Fire Suppression & Rescue,41.88,-87.65,NAN,Futton Market,15
+198,Chicago,Optimal Fire Protection,41.88,-87.65,NAN,Futton Market,15
+199,Chicago,Chicago Fire Department,41.88,-87.65,NAN,Futton Market,15
+200,Chicago,Chicago Fire Department,41.87,-87.63,4.9,City Center Campus,11
+201,Chicago,Chicago Fire Department,41.87,-87.63,4.8,City Center Campus,11
+202,Chicago,Chicago Fire Department,41.87,-87.63,4,City Center Campus,11
+203,Chicago,Chicago Fire Dept Engine 1,41.87,-87.63,5,City Center Campus,11
+204,Chicago,Chicago Fire Department,41.87,-87.63,5,City Center Campus,11
+205,Chicago,Dist 1 Headquarters Chicago Fire Department,41.87,-87.63,4.2,City Center Campus,11
+206,Chicago,Chicago Fire Department,41.87,-87.63,5,City Center Campus,11
+207,Chicago,Chicago Fire Department,41.87,-87.63,4.9,City Center Campus,11
+208,Chicago,Chicago Fire Department,41.87,-87.63,3.7,City Center Campus,11
+209,Chicago,Fire Suppression & Rescue,41.87,-87.63,NAN,City Center Campus,11
+210,Chicago,Optimal Fire Protection,41.87,-87.63,NAN,City Center Campus,11
+211,Chicago,Chicago Fire Department,41.87,-87.62,4.9,The Downtown District,10
+212,Chicago,Chicago Fire Department,41.87,-87.62,4.8,The Downtown District,10
+213,Chicago,Chicago Fire Department,41.87,-87.62,4,The Downtown District,10
+214,Chicago,Chicago Fire Dept Engine 1,41.87,-87.62,5,The Downtown District,10
+215,Chicago,Chicago Fire Department,41.87,-87.62,5,The Downtown District,10
+216,Chicago,Dist 1 Headquarters Chicago Fire Department,41.87,-87.62,4.2,The Downtown District,10
+217,Chicago,Chicago Fire Department,41.87,-87.62,5,The Downtown District,10
+218,Chicago,Chicago Fire Department,41.87,-87.62,3.7,The Downtown District,10
+219,Chicago,Fire Suppression & Rescue,41.87,-87.62,NAN,The Downtown District,10
+220,Chicago,Optimal Fire Protection,41.87,-87.62,NAN,The Downtown District,10
+221,Chicago,Chicago Fire Department,41.86,-87.67,4.9,The Illinois Medical District,9
+222,Chicago,City of Chicago Fire Department Engine 103,41.86,-87.67,5,The Illinois Medical District,9
+223,Chicago,Chicago Fire Department Support Services,41.86,-87.67,1,The Illinois Medical District,9
+224,Chicago,Chicago Fire Department,41.86,-87.67,5,The Illinois Medical District,9
+225,Chicago,Chicago Fire Department,41.86,-87.67,4.9,The Illinois Medical District,9
+226,Chicago,Chicago Fire Department,41.86,-87.67,3.7,The Illinois Medical District,9
+227,Chicago,Chicago Fire Department,41.86,-87.67,NAN,The Illinois Medical District,9
+228,Chicago,Fire Suppression & Rescue,41.86,-87.67,NAN,The Illinois Medical District,9
+229,Chicago,Chicago Fire Department,41.86,-87.67,NAN,The Illinois Medical District,9
+230,Chicago,Chicago Fire Department,41.85,-87.66,4,The 78,6
+231,Chicago,Chicago Fire Department,41.85,-87.66,4.9,The 78,6
+232,Chicago,Chicago Fire Department,41.85,-87.66,3.7,The 78,6
+233,Chicago,Fire Suppression & Rescue,41.85,-87.66,NAN,The 78,6
+234,Chicago,Chicago Fire Department,41.85,-87.66,NAN,The 78,6
+235,Chicago,Chicago Fire Engine 29,41.85,-87.66,NAN,The 78,6
+236,Chicago,Chicago Fire Dept Eng 45,41.83,-87.6,NAN,Burnham Lakefront,4
+237,Chicago,Chicago Fire Department Eng 19,41.83,-87.6,NAN,Burnham Lakefront,4
+238,Chicago,International Fire Training,41.83,-87.6,NAN,Burnham Lakefront,4
+239,Chicago,Chicago Fire Department,41.83,-87.6,4,Burnham Lakefront,4
+240,Raleigh,Durham Fire Station 12,35.9,-78.87,5,Research Triangle Park,2
+241,Raleigh,Parkwood Volunteer Fire Department Station 3,35.9,-78.87,NAN,Research Triangle Park,2
+242,Raleigh,Raleigh Fire Station 6,35.77,-78.64,5,Warehouse District,6
+243,Raleigh,Raleigh Central Fire Station,35.77,-78.64,5,Warehouse District,6
+244,Raleigh,Raleigh Fire Station 3,35.77,-78.64,5,Warehouse District,6
+245,Raleigh,Wake County Fire Marshall,35.77,-78.64,NAN,Warehouse District,6
+246,Raleigh,Raleigh Fire Station 7,35.77,-78.64,5,Warehouse District,6
+247,Raleigh,Raleigh Fire Station 2,35.77,-78.64,5,Warehouse District,6
+248,Atlanta,Atlanta Fire Department Station 10,33.7615,-84.3856,5,Downtown Atlanta,6
+249,Atlanta,Atlanta Fire Rescue Station 1,33.7615,-84.3856,4.5,Downtown Atlanta,6
+250,Atlanta,Atlanta Fire Station 4,33.7615,-84.3856,5,Downtown Atlanta,6
+251,Atlanta,Atlanta Fire Rescue Station 15,33.7615,-84.3856,5,Downtown Atlanta,6
+252,Atlanta,Atlanta Fire Rescue,33.7615,-84.3856,4,Downtown Atlanta,6
+253,Atlanta,NorthCape Fire,33.7615,-84.3856,NAN,Downtown Atlanta,6
+254,Atlanta,Hot Springs Fire Department,34.5129,-93.0431,4.5,Midtown,4
+255,Atlanta,Fountain Lake Fire Department,34.5129,-93.0431,NAN,Midtown,4
+256,Atlanta,US Fire Management,34.5129,-93.0431,NAN,Midtown,4
+257,Atlanta,Mountain Pine Rural Volunteer,34.5129,-93.0431,NAN,Midtown,4
+258,Atlanta,Wilson Parker Corporate,33.904,-84.2843,NAN,Former GM plant,1
+259,Atlanta,Sandy Springs Fire Station #3,33.9133,-84.3888,NAN,The High Street Site,3
+260,Atlanta,Sandy Springs Fire Station 2,33.9133,-84.3888,5,The High Street Site,3
+261,Atlanta,Fire Alarm Mc Cleskey Properties,33.9133,-84.3888,NAN,The High Street Site,3
+262,Austin,Austin Fire Department - Station 1,30.2586,-97.7444,4.6,American-Statesman ,6
+263,Austin,Austin Fire Station 11,30.2586,-97.7444,5,American-Statesman ,6
+264,Austin,Austin Fire Station 6,30.2586,-97.7444,4.2,American-Statesman ,6
+265,Austin,Austin Fire Station 4,30.2586,-97.7444,NAN,American-Statesman ,6
+266,Austin,Austin Fire Station No. 2,30.2586,-97.7444,NAN,American-Statesman ,6
+267,Austin,Austin Fire Station 7,30.2586,-97.7444,NAN,American-Statesman ,6
+268,Austin,Austin Fire Station 5,30.2714,-97.6647,NAN,Eightfold,3
+269,Austin,Govalle Fire Station,30.2714,-97.6647,NAN,Eightfold,3
+270,Austin,Explorer Post 370,30.2714,-97.6647,NAN,Eightfold,3
+271,Austin,Austin Fire Station 29,30.199,-97.8276,NAN,Former 3M site,2
+272,Austin,Austin Fire Station 20,30.199,-97.8276,5,Former 3M site,2
+273,Austin,Austin Fire Station 28,30.4015,-97.7268,5,The Domain,4
+274,Austin,Austin Fire Station 25,30.4015,-97.7268,5,The Domain,4
+275,Austin,Century Fire Protection,30.4015,-97.7268,NAN,The Domain,4
+276,Austin,District 4 Fire & Rescue,30.4015,-97.7268,NAN,The Domain,4
+277,Austin,Austin Fire Station 28,30.4014,-97.7147,5,Bardmoor Campus,4
+278,Austin,Austin Fire Station 30,30.4014,-97.7147,NAN,Bardmoor Campus,4
+279,Austin,Century Fire Protection,30.4014,-97.7147,NAN,Bardmoor Campus,4
+280,Austin,Austin Fire Station 25,30.4014,-97.7147,5,Bardmoor Campus,4
+281,Austin,Jollyville Volunteer Fire Department,30.4704,-97.7701,4.7,Robinson Ranch,3
+282,Austin,Austin Fire Station 45,30.4704,-97.7701,NAN,Robinson Ranch,3
+283,Austin,Austin Fire Station 34,30.4704,-97.7701,NAN,Robinson Ranch,3
+284,Austin,Travis County ESD 11 Fire Station 1101,30.1338,-97.6411,4.3,Project Catalyst,1
