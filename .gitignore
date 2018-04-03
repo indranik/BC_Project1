@@ -98,7 +98,8 @@ ENV/
 
 # mkdocs documentation
 /site
-
+# macbook
+.DS_Store
 # mypy
 .mypy_cache/
 config.py
