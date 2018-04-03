@@ -1,0 +1,565 @@
+,City Name,Facility cafe,Latitude,Longitude,Rating,Site Name,cafe Total Count,price_level
+0,Northern Virginia Area,Cafe 28,38.96,-77.42,3.6,Center for Innovation Technology,13,NAN
+1,Northern Virginia Area,Epicurean Cafe Deli,38.96,-77.42,4.6,Center for Innovation Technology,13,NAN
+2,Northern Virginia Area,Fresh Start Cafe,38.96,-77.42,5,Center for Innovation Technology,13,NAN
+3,Northern Virginia Area,Central Park Cafe,38.96,-77.42,4.8,Center for Innovation Technology,13,NAN
+4,Northern Virginia Area,Cafe Woodland,38.96,-77.42,3.3,Center for Innovation Technology,13,NAN
+5,Northern Virginia Area,Uptown@Dulles Cafe,38.96,-77.42,4.5,Center for Innovation Technology,13,NAN
+6,Northern Virginia Area,Uptown Cafe,38.96,-77.42,3,Center for Innovation Technology,13,NAN
+7,Northern Virginia Area,Starbucks,38.96,-77.42,3.8,Center for Innovation Technology,13,2
+8,Northern Virginia Area,Tropical Smoothie Cafe,38.96,-77.42,3.8,Center for Innovation Technology,13,NAN
+9,Northern Virginia Area,Starbucks,38.96,-77.42,3,Center for Innovation Technology,13,NAN
+10,Northern Virginia Area,Starbucks,38.96,-77.42,4.5,Center for Innovation Technology,13,NAN
+11,Northern Virginia Area,Starbucks,38.96,-77.42,4.1,Center for Innovation Technology,13,2
+12,Northern Virginia Area,Uptown Cafe,38.96,-77.42,4.3,Center for Innovation Technology,13,NAN
+13,Northern Virginia Area,Del Ray Café,38.84,-77.05,4.4,Crystal City and Potomac Yard,17,2
+14,Northern Virginia Area,Ease Yoga & Cafe,38.84,-77.05,4.8,Crystal City and Potomac Yard,17,NAN
+15,Northern Virginia Area,Cafe Manna,38.84,-77.05,3.3,Crystal City and Potomac Yard,17,NAN
+16,Northern Virginia Area,Swing's Coffee,38.84,-77.05,4.6,Crystal City and Potomac Yard,17,NAN
+17,Northern Virginia Area,St. Elmo's Coffee Pub,38.84,-77.05,4.2,Crystal City and Potomac Yard,17,NAN
+18,Northern Virginia Area,Bon Vivant Cafe + Farm Market,38.84,-77.05,4.2,Crystal City and Potomac Yard,17,NAN
+19,Northern Virginia Area,Gallery Cafe,38.84,-77.05,2.5,Crystal City and Potomac Yard,17,NAN
+20,Northern Virginia Area,Sahara Cafe,38.84,-77.05,4.2,Crystal City and Potomac Yard,17,NAN
+21,Northern Virginia Area,Commonwealth Joe Coffee Roasters,38.84,-77.05,4.8,Crystal City and Potomac Yard,17,2
+22,Northern Virginia Area,Paramount Cafe,38.84,-77.05,4.8,Crystal City and Potomac Yard,17,NAN
+23,Northern Virginia Area,Espressamente Illy,38.84,-77.05,4.2,Crystal City and Potomac Yard,17,NAN
+24,Northern Virginia Area,Uptown Cafe,38.84,-77.05,4.5,Crystal City and Potomac Yard,17,NAN
+25,Northern Virginia Area,Jefferson Cafe,38.84,-77.05,4.8,Crystal City and Potomac Yard,17,NAN
+26,Northern Virginia Area,Buzz Bakeshop,38.84,-77.05,4.2,Crystal City and Potomac Yard,17,1
+27,Northern Virginia Area,Au Bon Pain,38.84,-77.05,3.3,Crystal City and Potomac Yard,17,2
+28,Northern Virginia Area,Green Beans Coffee,38.84,-77.05,2.2,Crystal City and Potomac Yard,17,NAN
+29,Northern Virginia Area,Espresso Bar,38.84,-77.05,NAN,Crystal City and Potomac Yard,17,NAN
+30,Washington DC,Pineapple and Pearls,38.86,-77.01,4.8,Nationals Park/ D.C United Stadium,14,1
+31,Washington DC,Martin's Cafe,38.86,-77.01,3.4,Nationals Park/ D.C United Stadium,14,NAN
+32,Washington DC,Philz Coffee,38.86,-77.01,4.7,Nationals Park/ D.C United Stadium,14,1
+33,Washington DC,The Velo Cafe,38.86,-77.01,4.7,Nationals Park/ D.C United Stadium,14,NAN
+34,Washington DC,Starbucks,38.86,-77.01,3.3,Nationals Park/ D.C United Stadium,14,2
+35,Washington DC,William III,38.86,-77.01,4,Nationals Park/ D.C United Stadium,14,NAN
+36,Washington DC,Lot 38 espresso bar,38.86,-77.01,4.6,Nationals Park/ D.C United Stadium,14,1
+37,Washington DC,Starbucks,38.86,-77.01,1,Nationals Park/ D.C United Stadium,14,2
+38,Washington DC,Caseys Coffee,38.86,-77.01,3,Nationals Park/ D.C United Stadium,14,NAN
+39,Washington DC,Capital Cafe II,38.86,-77.01,4,Nationals Park/ D.C United Stadium,14,NAN
+40,Washington DC,Grand Deli & Cafe,38.86,-77.01,4.5,Nationals Park/ D.C United Stadium,14,NAN
+41,Washington DC,Cafe Twelve,38.86,-77.01,4.2,Nationals Park/ D.C United Stadium,14,NAN
+42,Washington DC,Cafe 59,38.86,-77.01,3.1,Nationals Park/ D.C United Stadium,14,NAN
+43,Washington DC,Au Bon Pain,38.86,-77.01,3.1,Nationals Park/ D.C United Stadium,14,2
+44,Washington DC,Big Bear Cafe,38.89,-77,4.2,Union Station,20,1
+45,Washington DC,Pavilion Café,38.89,-77,3.8,Union Station,20,2
+46,Washington DC,Tortilla Cafe,38.89,-77,4.5,Union Station,20,1
+47,Washington DC,El Rinconcito Cafe,38.89,-77,4.5,Union Station,20,NAN
+48,Washington DC,Mezzanine Cafe,38.89,-77,3,Union Station,20,1
+49,Washington DC,Dirty South Deli Cafe,38.89,-77,4.3,Union Station,20,NAN
+50,Washington DC,Atrium Cafe DC,38.89,-77,3.6,Union Station,20,NAN
+51,Washington DC,Courtyard Cafe,38.89,-77,3.8,Union Station,20,NAN
+52,Washington DC,Castle Café,38.89,-77,2.5,Union Station,20,NAN
+53,Washington DC,Compass Coffee,38.89,-77,4.5,Union Station,20,1
+54,Washington DC,Uptown Cafe,38.89,-77,4.2,Union Station,20,NAN
+55,Washington DC,Compass Coffee,38.89,-77,4.6,Union Station,20,1
+56,Washington DC,Cosmo Cafe,38.89,-77,3.1,Union Station,20,NAN
+57,Washington DC,Cafe Berlin,38.89,-77,4.3,Union Station,20,2
+58,Washington DC,Le Bon Café,38.89,-77,4.2,Union Station,20,2
+59,Washington DC,Atrium Cafe,38.89,-77,4.3,Union Station,20,2
+60,Washington DC,First Cup Cafe,38.89,-77,3.5,Union Station,20,NAN
+61,Washington DC,Jacob's Coffee House,38.89,-77,4.5,Union Station,20,NAN
+62,Washington DC,West Wing Cafe,38.89,-77,4.2,Union Station,20,NAN
+63,Washington DC,New World Cafe,38.89,-77,3.7,Union Station,20,NAN
+64,Washington DC,Tortilla Cafe,38.88,-76.97,4.5,Hill-East Neighborhood,13,1
+65,Washington DC,Jacob's Coffee House,38.88,-76.97,4.5,Hill-East Neighborhood,13,NAN
+66,Washington DC,Pineapple and Pearls,38.88,-76.97,4.8,Hill-East Neighborhood,13,1
+67,Washington DC,Bourbon Coffee,38.88,-76.97,4.4,Hill-East Neighborhood,13,NAN
+68,Washington DC,Peregrine Espresso,38.88,-76.97,4.5,Hill-East Neighborhood,13,1
+69,Washington DC,Port City Java,38.88,-76.97,3.9,Hill-East Neighborhood,13,NAN
+70,Washington DC,William III,38.88,-76.97,4,Hill-East Neighborhood,13,NAN
+71,Washington DC,The Wydown at the Apollo,38.88,-76.97,4.8,Hill-East Neighborhood,13,1
+72,Washington DC,Starbucks,38.88,-76.97,2.7,Hill-East Neighborhood,13,2
+73,Washington DC,Starbucks,38.88,-76.97,4,Hill-East Neighborhood,13,2
+74,Washington DC,Sidamo Coffee & Tea,38.88,-76.97,4.5,Hill-East Neighborhood,13,NAN
+75,Washington DC,Cafe Berlin,38.88,-76.97,4.3,Hill-East Neighborhood,13,2
+76,Washington DC,Philz Coffee,38.88,-76.97,4.7,Hill-East Neighborhood,13,1
+77,Washington DC,Big Bear Cafe,38.91,-77.02,4.2,Shaw-Howard University Area,20,1
+78,Washington DC,Kramerbooks & Afterwords Cafe,38.91,-77.02,4.4,Shaw-Howard University Area,20,2
+79,Washington DC,Pavilion Café,38.91,-77.02,3.8,Shaw-Howard University Area,20,2
+80,Washington DC,Songbyrd Record Cafe and Music House,38.91,-77.02,4.4,Shaw-Howard University Area,20,1
+81,Washington DC,Sankofa Video Books & Cafe,38.91,-77.02,4.8,Shaw-Howard University Area,20,1
+82,Washington DC,Sweet Home Cafe,38.91,-77.02,3.2,Shaw-Howard University Area,20,2
+83,Washington DC,Calabash Teahouse & Cafe,38.91,-77.02,4.9,Shaw-Howard University Area,20,1
+84,Washington DC,Courtyard Cafe,38.91,-77.02,3.8,Shaw-Howard University Area,20,NAN
+85,Washington DC,Love 'n Faith Community Cafe,38.91,-77.02,4.6,Shaw-Howard University Area,20,1
+86,Washington DC,Timgad Café,38.91,-77.02,4.5,Shaw-Howard University Area,20,NAN
+87,Washington DC,Café Dupont,38.91,-77.02,3.7,Shaw-Howard University Area,20,2
+88,Washington DC,Dirty South Deli Cafe,38.91,-77.02,4.3,Shaw-Howard University Area,20,NAN
+89,Washington DC,El Rinconcito Cafe,38.91,-77.02,4.5,Shaw-Howard University Area,20,NAN
+90,Washington DC,The GreenBee Cafe,38.91,-77.02,4.7,Shaw-Howard University Area,20,NAN
+91,Washington DC,Compass Coffee,38.91,-77.02,4.6,Shaw-Howard University Area,20,1
+92,Washington DC,Steam Cafe & Pizzeria,38.91,-77.02,4,Shaw-Howard University Area,20,2
+93,Washington DC,Compass Coffee,38.91,-77.02,4.5,Shaw-Howard University Area,20,1
+94,Washington DC,Cornerstone Cafe,38.91,-77.02,4.5,Shaw-Howard University Area,20,NAN
+95,Washington DC,Metro Cafe,38.91,-77.02,5,Shaw-Howard University Area,20,NAN
+96,Washington DC,The Coffee Bar,38.91,-77.02,4.5,Shaw-Howard University Area,20,NAN
+97,Los Angeles,GASOLINA cafe,34.1802,-118.6028,4.6,Warner Center West San Fernando Valley,18,1
+98,Los Angeles,NM Cafe,34.1802,-118.6028,5,Warner Center West San Fernando Valley,18,2
+99,Los Angeles,Pascal Patisserie & Cafe,34.1802,-118.6028,4.6,Warner Center West San Fernando Valley,18,NAN
+100,Los Angeles,Nat's Coffee Shop,34.1802,-118.6028,4.5,Warner Center West San Fernando Valley,18,NAN
+101,Los Angeles,Bobby's Coffee Shop,34.1802,-118.6028,4.5,Warner Center West San Fernando Valley,18,1
+102,Los Angeles,Peet's Coffee,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,18,NAN
+103,Los Angeles,The Baker Bakery & Cafe,34.1802,-118.6028,4.2,Warner Center West San Fernando Valley,18,NAN
+104,Los Angeles,Bean Cafe,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,18,NAN
+105,Los Angeles,The Coffee Bean & Tea Leaf,34.1802,-118.6028,4.6,Warner Center West San Fernando Valley,18,2
+106,Los Angeles,Peet's Coffee,34.1802,-118.6028,3.9,Warner Center West San Fernando Valley,18,1
+107,Los Angeles,The Coffee Bean & Tea Leaf,34.1802,-118.6028,4.5,Warner Center West San Fernando Valley,18,1
+108,Los Angeles,The Coffee Bean & Tea Leaf,34.1802,-118.6028,4.5,Warner Center West San Fernando Valley,18,2
+109,Los Angeles,The Coffee Bean & Tea Leaf,34.1802,-118.6028,3.9,Warner Center West San Fernando Valley,18,2
+110,Los Angeles,Saigon Sandwiches & Coffee,34.1802,-118.6028,4.1,Warner Center West San Fernando Valley,18,NAN
+111,Los Angeles,Square Bar Cafe,34.1802,-118.6028,4.1,Warner Center West San Fernando Valley,18,NAN
+112,Los Angeles,Allegro Coffee Company,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,18,NAN
+113,Los Angeles,Breakroom Juice Bar & Cafe,34.1802,-118.6028,5,Warner Center West San Fernando Valley,18,NAN
+114,Los Angeles,Sara J Pastries & Cakes,34.1802,-118.6028,4.4,Warner Center West San Fernando Valley,18,NAN
+115,Los Angeles,Eat Real Cafe #2,34.4318,-118.5584,4.6,New Hall Ranch Santa Clarita Valley,19,NAN
+116,Los Angeles,The Original Saugus Cafe,34.4318,-118.5584,4.1,New Hall Ranch Santa Clarita Valley,19,NAN
+117,Los Angeles,Mimi's Cafe,34.4318,-118.5584,4.1,New Hall Ranch Santa Clarita Valley,19,2
+118,Los Angeles,California Bakery & Cafe,34.4318,-118.5584,4.3,New Hall Ranch Santa Clarita Valley,19,NAN
+119,Los Angeles,Tea Elle C Garden Cafe',34.4318,-118.5584,4.5,New Hall Ranch Santa Clarita Valley,19,NAN
+120,Los Angeles,Nestle Toll House Cafe,34.4318,-118.5584,4.7,New Hall Ranch Santa Clarita Valley,19,NAN
+121,Los Angeles,85C Bakery Cafe - Valencia,34.4318,-118.5584,3.7,New Hall Ranch Santa Clarita Valley,19,NAN
+122,Los Angeles,Peet's Coffee,34.4318,-118.5584,4.4,New Hall Ranch Santa Clarita Valley,19,1
+123,Los Angeles,Bodhi Leaf Coffee Traders,34.4318,-118.5584,4.9,New Hall Ranch Santa Clarita Valley,19,NAN
+124,Los Angeles,The Coffee Bean & Tea Leaf,34.4318,-118.5584,4.3,New Hall Ranch Santa Clarita Valley,19,1
+125,Los Angeles,The Coffee Bean & Tea Leaf,34.4318,-118.5584,4.6,New Hall Ranch Santa Clarita Valley,19,2
+126,Los Angeles,Alessandro Caffe Inc,34.4318,-118.5584,NAN,New Hall Ranch Santa Clarita Valley,19,NAN
+127,Los Angeles,Undergrounds Coffeehouse,34.4318,-118.5584,4.6,New Hall Ranch Santa Clarita Valley,19,NAN
+128,Los Angeles,Starbucks,34.4318,-118.5584,3.9,New Hall Ranch Santa Clarita Valley,19,2
+129,Los Angeles,Coffee Kiosk,34.4318,-118.5584,4.7,New Hall Ranch Santa Clarita Valley,19,NAN
+130,Los Angeles,Starbucks,34.4318,-118.5584,4.2,New Hall Ranch Santa Clarita Valley,19,NAN
+131,Los Angeles,Starbucks,34.4318,-118.5584,4,New Hall Ranch Santa Clarita Valley,19,2
+132,Los Angeles,Starbucks,34.4318,-118.5584,5,New Hall Ranch Santa Clarita Valley,19,2
+133,Los Angeles,Dunkin' Donuts,34.4318,-118.5584,3.8,New Hall Ranch Santa Clarita Valley,19,NAN
+134,Los Angeles,Le Donut & Cafe,34.0885,-117.7702,4.8,Pomona Fairplex,6,NAN
+135,Los Angeles,Cactus Coffee,34.0885,-117.7702,4.6,Pomona Fairplex,6,NAN
+136,Los Angeles,Starbucks,34.0885,-117.7702,4,Pomona Fairplex,6,2
+137,Los Angeles,Starbucks,34.0885,-117.7702,4.2,Pomona Fairplex,6,2
+138,Los Angeles,aqua café,34.0885,-117.7702,NAN,Pomona Fairplex,6,NAN
+139,Boston,Starbucks,34.0885,-117.7702,3.8,Pomona Fairplex,6,2
+140,Boston,Winthrop Center Cafe,42.39,-71,4.4,Suffolk Downs,9,NAN
+141,Boston,Jac's Cafe,42.39,-71,4.7,Suffolk Downs,9,NAN
+142,Boston,Cafe Costa Del Sol,42.39,-71,3.9,Suffolk Downs,9,NAN
+143,Boston,Cafe Delite,42.39,-71,3.8,Suffolk Downs,9,NAN
+144,Boston,Pan Y Cafe Chelsea,42.39,-71,4.7,Suffolk Downs,9,NAN
+145,Boston,Brewin Cafe,42.39,-71,4.2,Suffolk Downs,9,NAN
+146,Boston,Boston Back Bay Cafe,42.39,-71,NAN,Suffolk Downs,9,NAN
+147,Boston,Starbucks,42.39,-71,4.1,Suffolk Downs,9,2
+148,Boston,Hi-Tide,42.39,-71,4.3,Suffolk Downs,9,NAN
+149,Boston,Metro Cafe,42.34,-71.03,3.6,South Boston Waterfront,20,NAN
+150,Boston,Milk Street Cafe,42.34,-71.03,4.4,South Boston Waterfront,20,1
+151,Boston,Cafe Polonia,42.34,-71.03,4.6,South Boston Waterfront,20,2
+152,Boston,Blue State Coffee,42.34,-71.03,4.6,South Boston Waterfront,20,NAN
+153,Boston,Sip Cafe,42.34,-71.03,4.5,South Boston Waterfront,20,2
+154,Boston,Boston Cafe,42.34,-71.03,4,South Boston Waterfront,20,NAN
+155,Boston,Capital One Café,42.34,-71.03,3,South Boston Waterfront,20,NAN
+156,Boston,Trio Cafe,42.34,-71.03,4,South Boston Waterfront,20,NAN
+157,Boston,Boston News Café and Catering,42.34,-71.03,4.4,South Boston Waterfront,20,1
+158,Boston,Al's State Street Cafe,42.34,-71.03,4.5,South Boston Waterfront,20,1
+159,Boston,Render Coffee,42.34,-71.03,4.4,South Boston Waterfront,20,1
+160,Boston,Winsor Dim Sum Café,42.34,-71.03,4.1,South Boston Waterfront,20,2
+161,Boston,The Kitchen Café,42.34,-71.03,5,South Boston Waterfront,20,NAN
+162,Boston,Mike's Cafe,42.34,-71.03,4.6,South Boston Waterfront,20,NAN
+163,Boston,Scali Cafe,42.34,-71.03,4.2,South Boston Waterfront,20,NAN
+164,Boston,Sorelle,42.34,-71.03,3.8,South Boston Waterfront,20,NAN
+165,Boston,Sebastians Cafe,42.34,-71.03,4.2,South Boston Waterfront,20,1
+166,Boston,Cafe Arpeggio,42.34,-71.03,4.4,South Boston Waterfront,20,NAN
+167,Boston,Grassroots Cafe,42.34,-71.03,4.6,South Boston Waterfront,20,NAN
+168,Boston,Broadway’s Pastry & Coffee Shop,42.34,-71.03,4.5,South Boston Waterfront,20,1
+169,Boston,Metro Cafe,42.35,-71.05,3.6,Downtown,20,NAN
+170,Boston,Parish Cafe,42.35,-71.05,4.4,Downtown,20,2
+171,Boston,Milk Street Cafe,42.35,-71.05,4.4,Downtown,20,1
+172,Boston,Catalyst Cafe,42.35,-71.05,3.8,Downtown,20,1
+173,Boston,Cafe Polonia,42.35,-71.05,4.6,Downtown,20,2
+174,Boston,Newsfeed Café,42.35,-71.05,4.2,Downtown,20,NAN
+175,Boston,Dumpling Cafe,42.35,-71.05,3.9,Downtown,20,1
+176,Boston,Blue State Coffee,42.35,-71.05,4.6,Downtown,20,NAN
+177,Boston,Blue Glass Cafe,42.35,-71.05,4.3,Downtown,20,1
+178,Boston,Parish Café,42.35,-71.05,4.3,Downtown,20,2
+179,Boston,Al's State Street Cafe,42.35,-71.05,4.5,Downtown,20,1
+180,Boston,Flour Bakery & Cafe,42.35,-71.05,4.6,Downtown,20,2
+181,Boston,Cafe Madeleine,42.35,-71.05,4.7,Downtown,20,1
+182,Boston,Capital One Café,42.35,-71.05,3,Downtown,20,NAN
+183,Boston,Boston Cafe,42.35,-71.05,4,Downtown,20,NAN
+184,Boston,Sip Cafe,42.35,-71.05,4.5,Downtown,20,2
+185,Boston,Trio Cafe,42.35,-71.05,4,Downtown,20,NAN
+186,Boston,Sidewalk Cafe South Boston,42.35,-71.05,4.5,Downtown,20,NAN
+187,Boston,Render Coffee,42.35,-71.05,4.4,Downtown,20,1
+188,Boston,The Kitchen Café,42.35,-71.05,5,Downtown,20,NAN
+189,Boston,Metro Cafe,42.34,-71.06,3.6,South End,20,NAN
+190,Boston,Parish Cafe,42.34,-71.06,4.4,South End,20,2
+191,Boston,Trident Booksellers & Cafe,42.34,-71.06,4.5,South End,20,2
+192,Boston,Milk Street Cafe,42.34,-71.06,4.4,South End,20,1
+193,Boston,Newsfeed Café,42.34,-71.06,4.2,South End,20,NAN
+194,Boston,Dumpling Cafe,42.34,-71.06,3.9,South End,20,1
+195,Boston,Cafe Polonia,42.34,-71.06,4.6,South End,20,2
+196,Boston,Blue State Coffee,42.34,-71.06,4.6,South End,20,NAN
+197,Boston,Blue Glass Cafe,42.34,-71.06,4.3,South End,20,1
+198,Boston,Parish Café,42.34,-71.06,4.3,South End,20,2
+199,Boston,Al's State Street Cafe,42.34,-71.06,4.5,South End,20,1
+200,Boston,Flour Bakery & Cafe,42.34,-71.06,4.6,South End,20,2
+201,Boston,Cafe Madeleine,42.34,-71.06,4.7,South End,20,1
+202,Boston,Capital One Café,42.34,-71.06,3,South End,20,NAN
+203,Boston,Cafe 939,42.34,-71.06,4.4,South End,20,2
+204,Boston,Boston Cafe,42.34,-71.06,4,South End,20,NAN
+205,Boston,Render Coffee,42.34,-71.06,4.6,South End,20,1
+206,Boston,Sip Cafe,42.34,-71.06,4.5,South End,20,2
+207,Boston,Trio Cafe,42.34,-71.06,4,South End,20,NAN
+208,Boston,Sidewalk Cafe South Boston,42.34,-71.06,4.5,South End,20,NAN
+209,New York,Café Grumpy,40.75,-74,4.3,Hudson Yards,20,1
+210,New York,Gregorys Coffee,40.75,-74,3.8,Hudson Yards,20,NAN
+211,New York,Gregorys Coffee,40.75,-74,4.3,Hudson Yards,20,2
+212,New York,Gregorys Coffee,40.75,-74,4.2,Hudson Yards,20,NAN
+213,New York,Gregorys Coffee,40.75,-74,4.3,Hudson Yards,20,1
+214,New York,Gregorys Coffee,40.75,-74,4.1,Hudson Yards,20,NAN
+215,New York,Le Cafe Coffee,40.75,-74,4.5,Hudson Yards,20,NAN
+216,New York,Cafe Wha?,40.75,-74,4.2,Hudson Yards,20,1
+217,New York,Café Grumpy,40.75,-74,4.3,Hudson Yards,20,1
+218,New York,Le Cafe Coffee,40.75,-74,4.3,Hudson Yards,20,NAN
+219,New York,le cafe coffee,40.75,-74,5,Hudson Yards,20,NAN
+220,New York,BXL Cafe,40.75,-74,4.3,Hudson Yards,20,2
+221,New York,Café Grumpy - Grand Central Terminal,40.75,-74,4.4,Hudson Yards,20,1
+222,New York,The Cornelia Street Cafe,40.75,-74,4.2,Hudson Yards,20,2
+223,New York,Hard Rock Cafe,40.75,-74,4.2,Hudson Yards,20,2
+224,New York,Cafe Mocha,40.75,-74,4.3,Hudson Yards,20,1
+225,New York,GiGi Café,40.75,-74,3.8,Hudson Yards,20,1
+226,New York,Cafe Standard,40.75,-74,4.5,Hudson Yards,20,NAN
+227,New York,Jerusalem Cafe,40.75,-74,3.8,Hudson Yards,20,2
+228,New York,Cafe M Studio,40.75,-74,4.5,Hudson Yards,20,NAN
+229,New York,Aubergine Cafe,40.74,-73.94,4.4,Long Island City,20,1
+230,New York,Karu Café,40.74,-73.94,4.7,Long Island City,20,NAN
+231,New York,Lilia Caffé,40.74,-73.94,4,Long Island City,20,NAN
+232,New York,Karu Café,40.74,-73.94,4.8,Long Island City,20,NAN
+233,New York,Cafe Triskell,40.74,-73.94,4.7,Long Island City,20,2
+234,New York,Oxford Cafe,40.74,-73.94,3.8,Long Island City,20,1
+235,New York,Toby's Estate LIC Cafe & Courtyard,40.74,-73.94,4.6,Long Island City,20,1
+236,New York,Cafe Olympia 55,40.74,-73.94,4,Long Island City,20,NAN
+237,New York,Cafe Colette,40.74,-73.94,4.3,Long Island City,20,2
+238,New York,Bricktown Bagels & Cafe,40.74,-73.94,4.3,Long Island City,20,1
+239,New York,Arepas Cafe,40.74,-73.94,4.5,Long Island City,20,2
+240,New York,Fresco Deli Cafe,40.74,-73.94,4.1,Long Island City,20,1
+241,New York,Rosa's Cafe,40.74,-73.94,4.1,Long Island City,20,NAN
+242,New York,Layaly Cafe,40.74,-73.94,4.4,Long Island City,20,NAN
+243,New York,Tost Cafe,40.74,-73.94,3.5,Long Island City,20,1
+244,New York,Café Grumpy - Greenpoint,40.74,-73.94,4.3,Long Island City,20,1
+245,New York,LIC Corner Cafe,40.74,-73.94,4.5,Long Island City,20,NAN
+246,New York,The Mill Coffee House Long Island City,40.74,-73.94,4.5,Long Island City,20,NAN
+247,New York,Toby's Estate Coffee,40.74,-73.94,4.4,Long Island City,20,1
+248,New York,Birch Coffee,40.74,-73.94,4.4,Long Island City,20,1
+249,New York,The Brooklyn Cat Cafe,40.7,-73.98,4.4,Brooklyn Tech Triangle,20,NAN
+250,New York,Caffe Vita,40.7,-73.98,4.7,Brooklyn Tech Triangle,20,NAN
+251,New York,Cornerstone Cafe,40.7,-73.98,4.2,Brooklyn Tech Triangle,20,1
+252,New York,Cafe Clementine,40.7,-73.98,4.4,Brooklyn Tech Triangle,20,1
+253,New York,Pause Cafe,40.7,-73.98,4.6,Brooklyn Tech Triangle,20,NAN
+254,New York,Cafe Patoro,40.7,-73.98,4.7,Brooklyn Tech Triangle,20,NAN
+255,New York,The Civil Service Café,40.7,-73.98,3.9,Brooklyn Tech Triangle,20,NAN
+256,New York,Gregorys Coffee,40.7,-73.98,4.2,Brooklyn Tech Triangle,20,NAN
+257,New York,Gregorys Coffee,40.7,-73.98,4.4,Brooklyn Tech Triangle,20,NAN
+258,New York,Fiat Café,40.7,-73.98,4.4,Brooklyn Tech Triangle,20,2
+259,New York,Iris Cafe,40.7,-73.98,4.4,Brooklyn Tech Triangle,20,1
+260,New York,CounterCulture Coffee Cafe,40.7,-73.98,4,Brooklyn Tech Triangle,20,NAN
+261,New York,Veggies Natural Juice Bar & Cafe,40.7,-73.98,4.1,Brooklyn Tech Triangle,20,NAN
+262,New York,Avenue Cafe,40.7,-73.98,4.8,Brooklyn Tech Triangle,20,NAN
+263,New York,Café Habana,40.7,-73.98,4.3,Brooklyn Tech Triangle,20,2
+264,New York,Blank Cafe,40.7,-73.98,4.5,Brooklyn Tech Triangle,20,NAN
+265,New York,FEED Shop & Cafe,40.7,-73.98,4.3,Brooklyn Tech Triangle,20,1
+266,New York,Cafe Select,40.7,-73.98,4.1,Brooklyn Tech Triangle,20,2
+267,New York,Chau Down Cafe,40.7,-73.98,3.6,Brooklyn Tech Triangle,20,NAN
+268,New York,Cafe Bari,40.7,-73.98,4.7,Brooklyn Tech Triangle,20,NAN
+269,New York,The Brooklyn Cat Cafe,40.7,-74.01,4.4,Financial District,20,NAN
+270,New York,Caffe Vita,40.7,-74.01,4.7,Financial District,20,NAN
+271,New York,Cornerstone Cafe,40.7,-74.01,4.2,Financial District,20,1
+272,New York,Cafe Clementine,40.7,-74.01,4.4,Financial District,20,1
+273,New York,Pause Cafe,40.7,-74.01,4.6,Financial District,20,NAN
+274,New York,Cafe Patoro,40.7,-74.01,4.7,Financial District,20,NAN
+275,New York,Café Habana,40.7,-74.01,4.3,Financial District,20,2
+276,New York,Gregorys Coffee,40.7,-74.01,4.2,Financial District,20,NAN
+277,New York,Gregorys Coffee,40.7,-74.01,4.4,Financial District,20,NAN
+278,New York,Fiat Café,40.7,-74.01,4.4,Financial District,20,2
+279,New York,Iris Cafe,40.7,-74.01,4.4,Financial District,20,1
+280,New York,CounterCulture Coffee Cafe,40.7,-74.01,4,Financial District,20,NAN
+281,New York,Black Fox Coffee,40.7,-74.01,4.5,Financial District,20,NAN
+282,New York,Cafe 11,40.7,-74.01,4.6,Financial District,20,1
+283,New York,Cafe Petisco,40.7,-74.01,4.4,Financial District,20,2
+284,New York,FEED Shop & Cafe,40.7,-74.01,4.3,Financial District,20,1
+285,New York,Renaissance Java Cafe,40.7,-74.01,3.9,Financial District,20,NAN
+286,New York,CC's Cafe,40.7,-74.01,4.6,Financial District,20,1
+287,New York,Caffe Roma,40.7,-74.01,3.8,Financial District,20,2
+288,New York,Chau Down Cafe,40.7,-74.01,3.6,Financial District,20,NAN
+289,Chicago,Kingsbury Street Cafe,41.91,-87.64,4.5,Lincoln Yards,20,NAN
+290,Chicago,Cafe Brauer,41.91,-87.64,4.2,Lincoln Yards,20,NAN
+291,Chicago,3 Arts Club Cafe,41.91,-87.64,4.6,Lincoln Yards,20,2
+292,Chicago,Caffe Umbria,41.91,-87.64,4.6,Lincoln Yards,20,1
+293,Chicago,Café Integral at Freehand Chicago,41.91,-87.64,4.2,Lincoln Yards,20,1
+294,Chicago,Coco Pazzo Cafe,41.91,-87.64,4.1,Lincoln Yards,20,2
+295,Chicago,Cafe Spiaggia,41.91,-87.64,4.3,Lincoln Yards,20,3
+296,Chicago,Bourgeois Pig Cafe,41.91,-87.64,4.1,Lincoln Yards,20,1
+297,Chicago,Floriole Cafe & Bakery,41.91,-87.64,4.6,Lincoln Yards,20,1
+298,Chicago,North & Clark Cafe,41.91,-87.64,4.4,Lincoln Yards,20,NAN
+299,Chicago,Windy City Cafe,41.91,-87.64,4.4,Lincoln Yards,20,2
+300,Chicago,King Cafe Gourmet & Go,41.91,-87.64,3.8,Lincoln Yards,20,1
+301,Chicago,Eva's Cafe,41.91,-87.64,4.6,Lincoln Yards,20,NAN
+302,Chicago,Capital One Cafe,41.91,-87.64,4,Lincoln Yards,20,NAN
+303,Chicago,Colectivo Coffee - Lincoln Park,41.91,-87.64,4.5,Lincoln Yards,20,1
+304,Chicago,Cyrano's Cafe & Wine Bar,41.91,-87.64,3.3,Lincoln Yards,20,2
+305,Chicago,Harry's Cafe,41.91,-87.64,5,Lincoln Yards,20,NAN
+306,Chicago,La Colombe Coffee Roasters,41.91,-87.64,4.6,Lincoln Yards,20,1
+307,Chicago,Peet's Coffee,41.91,-87.64,4.4,Lincoln Yards,20,1
+308,Chicago,Dollop Coffee Co.,41.91,-87.64,4.2,Lincoln Yards,20,NAN
+309,Chicago,caffecafe,41.89,-87.64,4.3,The River District,20,NAN
+310,Chicago,Nutella Cafe Chicago,41.89,-87.64,3.8,The River District,20,1
+311,Chicago,Kingsbury Street Cafe,41.89,-87.64,4.5,The River District,20,NAN
+312,Chicago,3 Arts Club Cafe,41.89,-87.64,4.6,The River District,20,2
+313,Chicago,Meli Cafe,41.89,-87.64,4.2,The River District,20,NAN
+314,Chicago,Boar's Head Cafe,41.89,-87.64,4.3,The River District,20,1
+315,Chicago,Ceres Cafe,41.89,-87.64,4.4,The River District,20,1
+316,Chicago,Meli Cafe,41.89,-87.64,4.4,The River District,20,2
+317,Chicago,Nohea Cafe,41.89,-87.64,4.4,The River District,20,1
+318,Chicago,Cafe Spiaggia,41.89,-87.64,4.3,The River District,20,3
+319,Chicago,Washburne Cafe,41.89,-87.64,4,The River District,20,NAN
+320,Chicago,Caffe Umbria,41.89,-87.64,4.6,The River District,20,1
+321,Chicago,Toni Patisserie & Cafe,41.89,-87.64,4.4,The River District,20,2
+322,Chicago,Venice Cafe,41.89,-87.64,4.4,The River District,20,NAN
+323,Chicago,Café Integral at Freehand Chicago,41.89,-87.64,4.2,The River District,20,1
+324,Chicago,Specialty's Cafe & Bakery,41.89,-87.64,4.2,The River District,20,NAN
+325,Chicago,Port Center Cafe,41.89,-87.64,NAN,The River District,20,NAN
+326,Chicago,Sweet Maple Cafe,41.89,-87.64,4.4,The River District,20,2
+327,Chicago,Coco Pazzo Cafe,41.89,-87.64,4.1,The River District,20,2
+328,Chicago,Stax Cafe,41.89,-87.64,4.4,The River District,20,1
+329,Chicago,caffecafe,41.88,-87.65,4.3,Futton Market,20,NAN
+330,Chicago,Nutella Cafe Chicago,41.88,-87.65,3.8,Futton Market,20,1
+331,Chicago,Meli Cafe,41.88,-87.65,4.2,Futton Market,20,NAN
+332,Chicago,Ceres Cafe,41.88,-87.65,4.4,Futton Market,20,1
+333,Chicago,Boar's Head Cafe,41.88,-87.65,4.3,Futton Market,20,1
+334,Chicago,Meli Cafe,41.88,-87.65,4.4,Futton Market,20,2
+335,Chicago,Nohea Cafe,41.88,-87.65,4.4,Futton Market,20,1
+336,Chicago,Washburne Cafe,41.88,-87.65,4,Futton Market,20,NAN
+337,Chicago,Caffe Umbria,41.88,-87.65,4.6,Futton Market,20,1
+338,Chicago,Venice Cafe,41.88,-87.65,4.4,Futton Market,20,NAN
+339,Chicago,Sweet Maple Cafe,41.88,-87.65,4.4,Futton Market,20,2
+340,Chicago,Café Integral at Freehand Chicago,41.88,-87.65,4.2,Futton Market,20,1
+341,Chicago,Specialty's Cafe & Bakery,41.88,-87.65,4.2,Futton Market,20,NAN
+342,Chicago,Stax Cafe,41.88,-87.65,4.4,Futton Market,20,1
+343,Chicago,Toni Patisserie & Cafe,41.88,-87.65,4.4,Futton Market,20,2
+344,Chicago,Specialty's Cafe and Bakery,41.88,-87.65,4.2,Futton Market,20,1
+345,Chicago,Specialty's Cafe & Bakery,41.88,-87.65,3.9,Futton Market,20,2
+346,Chicago,Windy City Cafe,41.88,-87.65,4.4,Futton Market,20,2
+347,Chicago,Morgan Street Cafe,41.88,-87.65,4.5,Futton Market,20,NAN
+348,Chicago,Cyrano's Cafe & Wine Bar,41.88,-87.65,3.3,Futton Market,20,2
+349,Chicago,caffecafe,41.87,-87.63,4.3,City Center Campus,20,NAN
+350,Chicago,Nutella Cafe Chicago,41.87,-87.63,3.8,City Center Campus,20,1
+351,Chicago,Meli Cafe,41.87,-87.63,4.2,City Center Campus,20,NAN
+352,Chicago,Boar's Head Cafe,41.87,-87.63,4.3,City Center Campus,20,1
+353,Chicago,Ceres Cafe,41.87,-87.63,4.4,City Center Campus,20,1
+354,Chicago,Meli Cafe,41.87,-87.63,4.4,City Center Campus,20,2
+355,Chicago,Washburne Cafe,41.87,-87.63,4,City Center Campus,20,NAN
+356,Chicago,Caffe Umbria,41.87,-87.63,4.6,City Center Campus,20,1
+357,Chicago,Venice Cafe,41.87,-87.63,4.4,City Center Campus,20,NAN
+358,Chicago,Two Zero Three Coffee & Wine Bar,41.87,-87.63,4.4,City Center Campus,20,2
+359,Chicago,Little Branch Cafe,41.87,-87.63,3.9,City Center Campus,20,2
+360,Chicago,Toni Patisserie & Cafe,41.87,-87.63,4.4,City Center Campus,20,2
+361,Chicago,Café Integral at Freehand Chicago,41.87,-87.63,4.2,City Center Campus,20,1
+362,Chicago,Specialty's Cafe and Bakery,41.87,-87.63,4.2,City Center Campus,20,1
+363,Chicago,Specialty's Cafe & Bakery,41.87,-87.63,4.2,City Center Campus,20,NAN
+364,Chicago,Port Center Cafe,41.87,-87.63,NAN,City Center Campus,20,NAN
+365,Chicago,Specialty's Cafe & Bakery,41.87,-87.63,3.9,City Center Campus,20,2
+366,Chicago,Cyrano's Cafe & Wine Bar,41.87,-87.63,3.3,City Center Campus,20,2
+367,Chicago,Kristoffer's Cafe & Bakery,41.87,-87.63,4.6,City Center Campus,20,NAN
+368,Chicago,Sawada Coffee,41.87,-87.63,4.7,City Center Campus,20,1
+369,Chicago,caffecafe,41.87,-87.62,4.3,The Downtown District,20,NAN
+370,Chicago,Nutella Cafe Chicago,41.87,-87.62,3.8,The Downtown District,20,1
+371,Chicago,Meli Cafe,41.87,-87.62,4.2,The Downtown District,20,NAN
+372,Chicago,Boar's Head Cafe,41.87,-87.62,4.3,The Downtown District,20,1
+373,Chicago,Meli Cafe,41.87,-87.62,4.4,The Downtown District,20,2
+374,Chicago,Ceres Cafe,41.87,-87.62,4.4,The Downtown District,20,1
+375,Chicago,Washburne Cafe,41.87,-87.62,4,The Downtown District,20,NAN
+376,Chicago,Caffe Umbria,41.87,-87.62,4.6,The Downtown District,20,1
+377,Chicago,Venice Cafe,41.87,-87.62,4.4,The Downtown District,20,NAN
+378,Chicago,Two Zero Three Coffee & Wine Bar,41.87,-87.62,4.4,The Downtown District,20,2
+379,Chicago,Little Branch Cafe,41.87,-87.62,3.9,The Downtown District,20,2
+380,Chicago,Toni Patisserie & Cafe,41.87,-87.62,4.4,The Downtown District,20,2
+381,Chicago,Wildberry Pancakes & Cafe,41.87,-87.62,4.5,The Downtown District,20,1
+382,Chicago,Specialty's Cafe and Bakery,41.87,-87.62,4.2,The Downtown District,20,1
+383,Chicago,Specialty's Cafe & Bakery,41.87,-87.62,4.2,The Downtown District,20,NAN
+384,Chicago,HERO Coffee Bar,41.87,-87.62,4.5,The Downtown District,20,1
+385,Chicago,Specialty's Cafe & Bakery,41.87,-87.62,3.9,The Downtown District,20,2
+386,Chicago,Kristoffer's Cafe & Bakery,41.87,-87.62,4.6,The Downtown District,20,NAN
+387,Chicago,Sawada Coffee,41.87,-87.62,4.7,The Downtown District,20,1
+388,Chicago,Caffe Baci,41.87,-87.62,3.9,The Downtown District,20,2
+389,Chicago,Venice Cafe,41.86,-87.67,4.4,The Illinois Medical District,20,NAN
+390,Chicago,Meli Cafe,41.86,-87.67,4.4,The Illinois Medical District,20,2
+391,Chicago,Sweet Maple Cafe,41.86,-87.67,4.4,The Illinois Medical District,20,2
+392,Chicago,Nohea Cafe,41.86,-87.67,4.4,The Illinois Medical District,20,1
+393,Chicago,Morgan Street Cafe,41.86,-87.67,4.5,The Illinois Medical District,20,NAN
+394,Chicago,La Catrina Cafe,41.86,-87.67,4.4,The Illinois Medical District,20,NAN
+395,Chicago,Chicago Hope Cafe,41.86,-87.67,4.6,The Illinois Medical District,20,1
+396,Chicago,Gio's Cafe and Deli,41.86,-87.67,4.5,The Illinois Medical District,20,2
+397,Chicago,Lotus Cafe & Banh Mi Sandwich,41.86,-87.67,4.4,The Illinois Medical District,20,1
+398,Chicago,M 2 Cafe,41.86,-87.67,4.5,The Illinois Medical District,20,NAN
+399,Chicago,Cafe Jumping Bean,41.86,-87.67,4.7,The Illinois Medical District,20,1
+400,Chicago,Port Center Cafe,41.86,-87.67,NAN,The Illinois Medical District,20,NAN
+401,Chicago,Specialty's Cafe & Bakery,41.86,-87.67,3.9,The Illinois Medical District,20,2
+402,Chicago,Tropical Smoothie Cafe,41.86,-87.67,4.4,The Illinois Medical District,20,NAN
+403,Chicago,Meddle Coffee Bar,41.86,-87.67,4.7,The Illinois Medical District,20,1
+404,Chicago,Kristoffer's Cafe & Bakery,41.86,-87.67,4.6,The Illinois Medical District,20,NAN
+405,Chicago,Demitasse Cafe,41.86,-87.67,4.7,The Illinois Medical District,20,2
+406,Chicago,Stax Cafe,41.86,-87.67,4.4,The Illinois Medical District,20,1
+407,Chicago,Caffè Baci,41.86,-87.67,4.2,The Illinois Medical District,20,NAN
+408,Chicago,THE COFFEE ALLEY,41.86,-87.67,4.5,The Illinois Medical District,20,NAN
+409,Chicago,Sweet Maple Cafe,41.85,-87.66,4.4,The 78,20,2
+410,Chicago,Polo Cafe and Catering,41.85,-87.66,4.5,The 78,20,2
+411,Chicago,Gio's Cafe and Deli,41.85,-87.66,4.5,The 78,20,2
+412,Chicago,Cafe Jumping Bean,41.85,-87.66,4.7,The 78,20,1
+413,Chicago,La Catrina Cafe,41.85,-87.66,4.4,The 78,20,NAN
+414,Chicago,Chicago Hope Cafe,41.85,-87.66,4.6,The 78,20,1
+415,Chicago,Stax Cafe,41.85,-87.66,4.4,The 78,20,1
+416,Chicago,Lotus Cafe & Banh Mi Sandwich,41.85,-87.66,4.4,The 78,20,1
+417,Chicago,Bridgeport Coffee,41.85,-87.66,4.2,The 78,20,NAN
+418,Chicago,THE COFFEE ALLEY,41.85,-87.66,4.5,The 78,20,NAN
+419,Chicago,Tropical Smoothie Cafe,41.85,-87.66,4.4,The 78,20,NAN
+420,Chicago,Kristoffer's Cafe & Bakery,41.85,-87.66,4.6,The 78,20,NAN
+421,Chicago,Demitasse Cafe,41.85,-87.66,4.7,The 78,20,2
+422,Chicago,China Cafe,41.85,-87.66,3.8,The 78,20,2
+423,Chicago,Jackalope Coffee & Tea House,41.85,-87.66,4.7,The 78,20,NAN
+424,Chicago,Joy Cafe,41.85,-87.66,4.8,The 78,20,NAN
+425,Chicago,Cafe Descartes,41.85,-87.66,4.4,The 78,20,NAN
+426,Chicago,Bridgeport Coffeehouse,41.85,-87.66,4.5,The 78,20,NAN
+427,Chicago,Frida Room,41.85,-87.66,4.5,The 78,20,NAN
+428,Chicago,Starbucks,41.85,-87.66,4.4,The 78,20,2
+429,Chicago,Ain't She Sweet Cafe,41.83,-87.6,4.7,Burnham Lakefront,2,NAN
+430,Chicago,Starbucks,41.83,-87.6,3.8,Burnham Lakefront,2,2
+431,Raleigh,Cafe Meridian & Catering Company,35.9,-78.87,4.6,Research Triangle Park,4,2
+432,Raleigh,Tropical Smoothie Cafe,35.9,-78.87,4.1,Research Triangle Park,4,NAN
+433,Raleigh,Chelsea Cafe,35.9,-78.87,4.4,Research Triangle Park,4,NAN
+434,Raleigh,Starbucks,35.9,-78.87,4.1,Research Triangle Park,4,2
+435,Raleigh,Starbucks,35.85,-79.08,4.6,Chatham Park,1,2
+436,Raleigh,Benelux Coffee,35.77,-78.64,4.3,Warehouse District,20,1
+437,Raleigh,The Daily Planet Cafe,35.77,-78.64,4.2,Warehouse District,20,1
+438,Raleigh,Irregardless Cafe & Catering,35.77,-78.64,4.3,Warehouse District,20,2
+439,Raleigh,The Pharmacy Cafe,35.77,-78.64,4.9,Warehouse District,20,NAN
+440,Raleigh,Seaboard Cafe,35.77,-78.64,4.3,Warehouse District,20,2
+441,Raleigh,Sosta Cafe,35.77,-78.64,4.8,Warehouse District,20,2
+442,Raleigh,Acro Cafe,35.77,-78.64,4,Warehouse District,20,NAN
+443,Raleigh,Raleigh Raw Juice Bar & Cafe,35.77,-78.64,4.7,Warehouse District,20,NAN
+444,Raleigh,Sunflower's Cafe and Catering,35.77,-78.64,4.2,Warehouse District,20,2
+445,Raleigh,Plaza Cafe,35.77,-78.64,4.2,Warehouse District,20,NAN
+446,Raleigh,Berkeley Cafe,35.77,-78.64,4.2,Warehouse District,20,1
+447,Raleigh,BREW Coffee Bar,35.77,-78.64,4.6,Warehouse District,20,NAN
+448,Raleigh,Cafe Carolina and Bakery,35.77,-78.64,4.1,Warehouse District,20,NAN
+449,Raleigh,Tobacco Road Sports Cafe & Brewery,35.77,-78.64,4.1,Warehouse District,20,NAN
+450,Raleigh,Night Kitchen Bakehouse & Cafe,35.77,-78.64,4.7,Warehouse District,20,NAN
+451,Raleigh,Manhattan Cafe,35.77,-78.64,4.6,Warehouse District,20,NAN
+452,Raleigh,Jubala Coffee,35.77,-78.64,4.6,Warehouse District,20,NAN
+453,Raleigh,Sahara Hookah Cafe,35.77,-78.64,4.2,Warehouse District,20,2
+454,Raleigh,Nara Lounge Hookah cafe,35.77,-78.64,4.3,Warehouse District,20,NAN
+455,Raleigh,Sir Walter Coffee,35.77,-78.64,4.5,Warehouse District,20,2
+456,Atlanta,West Egg Cafe,33.7615,-84.3856,4.5,Downtown Atlanta,20,2
+457,Atlanta,Java Cats Cafe,33.7615,-84.3856,4.7,Downtown Atlanta,20,NAN
+458,Atlanta,Carroll Street Cafe,33.7615,-84.3856,4.5,Downtown Atlanta,20,2
+459,Atlanta,Pemberton Cafe,33.7615,-84.3856,1.6,Downtown Atlanta,20,NAN
+460,Atlanta,ADios Cafe,33.7615,-84.3856,4.4,Downtown Atlanta,20,NAN
+461,Atlanta,Cafe + Velo,33.7615,-84.3856,4.6,Downtown Atlanta,20,1
+462,Atlanta,Cafe Intermezzo,33.7615,-84.3856,4.4,Downtown Atlanta,20,NAN
+463,Atlanta,Condesa Coffee,33.7615,-84.3856,4.5,Downtown Atlanta,20,NAN
+464,Atlanta,Buenos Dias Cafe,33.7615,-84.3856,4.8,Downtown Atlanta,20,NAN
+465,Atlanta,Metro Cafe Diner,33.7615,-84.3856,3.7,Downtown Atlanta,20,2
+466,Atlanta,Charlot's Creole Cafe,33.7615,-84.3856,4,Downtown Atlanta,20,NAN
+467,Atlanta,Cafe cubism inc,33.7615,-84.3856,NAN,Downtown Atlanta,20,NAN
+468,Atlanta,Café Lucia,33.7615,-84.3856,4.6,Downtown Atlanta,20,1
+469,Atlanta,Cafe Kia-Ora,33.7615,-84.3856,4.7,Downtown Atlanta,20,NAN
+470,Atlanta,Atwoods Pizza Cafe,33.7615,-84.3856,4.7,Downtown Atlanta,20,1
+471,Atlanta,Cafe Agora,33.7615,-84.3856,4.7,Downtown Atlanta,20,NAN
+472,Atlanta,Ebrik Coffee Room,33.7615,-84.3856,4.8,Downtown Atlanta,20,NAN
+473,Atlanta,Corner Bakery Cafe,33.7615,-84.3856,4.3,Downtown Atlanta,20,2
+474,Atlanta,Cafe Mim's,33.7615,-84.3856,4,Downtown Atlanta,20,NAN
+475,Atlanta,Anatolia Cafe and Hookah Lounge,33.7615,-84.3856,4.2,Downtown Atlanta,20,2
+476,Atlanta,Cafe 1217,34.5129,-93.0431,4.5,Midtown,8,NAN
+477,Atlanta,Kollective Coffee & Tea,34.5129,-93.0431,4.7,Midtown,8,NAN
+478,Atlanta,Argentinian Coffee & Wine Bar,34.5129,-93.0431,4.4,Midtown,8,NAN
+479,Atlanta,Red Light Roastery Coffee House,34.5129,-93.0431,4.9,Midtown,8,NAN
+480,Atlanta,Pho Hoang My - Vietnamese Food and Coffee,34.5129,-93.0431,4.8,Midtown,8,NAN
+481,Atlanta,The Coffee Shop at the Arlington,34.5129,-93.0431,NAN,Midtown,8,NAN
+482,Atlanta,Surfas Culinary District,34.5129,-93.0431,4.9,Midtown,8,NAN
+483,Atlanta,Earl Gill Enterprises Inc,34.5129,-93.0431,3,Midtown,8,NAN
+484,Atlanta,White Windmill Bakery and Cafe,33.904,-84.2843,4.5,Former GM plant,8,NAN
+485,Atlanta,Sweet Hut Bakery Cafe,33.904,-84.2843,4.5,Former GM plant,8,NAN
+486,Atlanta,Mozart Bakery,33.904,-84.2843,4.5,Former GM plant,8,NAN
+487,Atlanta,Moonbird Coffee,33.904,-84.2843,4.7,Former GM plant,8,NAN
+488,Atlanta,Hello Gorgeous! Boutique,33.904,-84.2843,4.7,Former GM plant,8,NAN
+489,Atlanta,Planet Hookah Cafe,33.904,-84.2843,4.8,Former GM plant,8,NAN
+490,Atlanta,ZenTea Tea House,33.904,-84.2843,4.6,Former GM plant,8,NAN
+491,Atlanta,Dunkin' Donuts,33.904,-84.2843,3.8,Former GM plant,8,1
+492,Atlanta,Cafe 290,33.9133,-84.3888,4.2,The High Street Site,10,NAN
+493,Atlanta,Chapmans Cafe and Catering,33.9133,-84.3888,5,The High Street Site,10,NAN
+494,Atlanta,Breadwinner Cafe and Bakery,33.9133,-84.3888,4.4,The High Street Site,10,NAN
+495,Atlanta,Soho Cafe and Bakery,33.9133,-84.3888,4.7,The High Street Site,10,NAN
+496,Atlanta,Clay's Sports Cafe,33.9133,-84.3888,4.5,The High Street Site,10,NAN
+497,Atlanta,Flying Biscuit Cafe,33.9133,-84.3888,4.2,The High Street Site,10,2
+498,Atlanta,Starbucks,33.9133,-84.3888,4.4,The High Street Site,10,2
+499,Atlanta,Café Vendôme,33.9133,-84.3888,4.5,The High Street Site,10,1
+500,Atlanta,Cafe Posh,33.9133,-84.3888,4.1,The High Street Site,10,NAN
+501,Atlanta,Starbucks,33.9133,-84.3888,3.6,The High Street Site,10,2
+502,Austin,Café No Sé,30.2586,-97.7444,4.1,American-Statesman ,20,2
+503,Austin,Bouldin Creek Cafe,30.2586,-97.7444,4.6,American-Statesman ,20,1
+504,Austin,Zocalo Cafe,30.2586,-97.7444,4.2,American-Statesman ,20,2
+505,Austin,Elizabeth Street Cafe,30.2586,-97.7444,4.3,American-Statesman ,20,3
+506,Austin,Alta's Cafe,30.2586,-97.7444,4,American-Statesman ,20,NAN
+507,Austin,Blue Cat Cafe,30.2586,-97.7444,4,American-Statesman ,20,1
+508,Austin,Counter Cafe,30.2586,-97.7444,4.4,American-Statesman ,20,2
+509,Austin,Blanton Café,30.2586,-97.7444,3.3,American-Statesman ,20,NAN
+510,Austin,1886 Cafe & Bakery,30.2586,-97.7444,4.1,American-Statesman ,20,2
+511,Austin,Jo's Coffee,30.2586,-97.7444,4.3,American-Statesman ,20,1
+512,Austin,Slake Cafe,30.2586,-97.7444,4.3,American-Statesman ,20,NAN
+513,Austin,Jo's Coffee,30.2586,-97.7444,4.1,American-Statesman ,20,2
+514,Austin,Thistle Cafe,30.2586,-97.7444,4.7,American-Statesman ,20,2
+515,Austin,Mañana,30.2586,-97.7444,4.6,American-Statesman ,20,1
+516,Austin,Flat Track Coffee,30.2586,-97.7444,4.7,American-Statesman ,20,1
+517,Austin,Old Pecan Street Cafe,30.2586,-97.7444,4.2,American-Statesman ,20,NAN
+518,Austin,Messhall Cafe,30.2586,-97.7444,4,American-Statesman ,20,1
+519,Austin,Daily Juice Cafe,30.2586,-97.7444,4.3,American-Statesman ,20,NAN
+520,Austin,The Story of Texas Cafe,30.2586,-97.7444,3.3,American-Statesman ,20,NAN
+521,Austin,Juan Pelota Cafe,30.2586,-97.7444,4.4,American-Statesman ,20,1
+522,Austin,Cafe Malta,30.199,-97.8276,4.3,Former 3M site,9,2
+523,Austin,Tinos Greek Cafe,30.199,-97.8276,4,Former 3M site,9,NAN
+524,Austin,Crema Bakery & Cafe,30.199,-97.8276,4,Former 3M site,9,1
+525,Austin,Evangeline Cafe,30.199,-97.8276,4.5,Former 3M site,9,2
+526,Austin,Galaxy Cafe,30.199,-97.8276,4.2,Former 3M site,9,2
+527,Austin,Summer Moon Coffee Bar,30.199,-97.8276,4.6,Former 3M site,9,1
+528,Austin,Starbucks,30.199,-97.8276,3.9,Former 3M site,9,2
+529,Austin,Allegro Coffee Company,30.199,-97.8276,NAN,Former 3M site,9,NAN
+530,Austin,Kerbey Lane Cafe,30.199,-97.8276,4.3,Former 3M site,9,1
+531,Austin,Summermoon Coffee Bar,30.4015,-97.7268,4.6,The Domain,16,1
+532,Austin,Cafe Java,30.4015,-97.7268,4.7,The Domain,16,1
+533,Austin,Kiefer's Cafe & Catering,30.4015,-97.7268,4.4,The Domain,16,2
+534,Austin,Mimi's Cafe,30.4015,-97.7268,3.9,The Domain,16,2
+535,Austin,Tinos Greek Cafe,30.4015,-97.7268,3.9,The Domain,16,2
+536,Austin,la Madeleine French Bakery & Café Arboretum,30.4015,-97.7268,4.1,The Domain,16,2
+537,Austin,Tropical Smoothie Cafe,30.4015,-97.7268,2.3,The Domain,16,NAN
+538,Austin,Bee Cave Coffee Co.,30.4015,-97.7268,4,The Domain,16,NAN
+539,Austin,Apanas Coffee & Beer,30.4015,-97.7268,4.5,The Domain,16,1
+540,Austin,barnes & Noble cafe featuring Starbucks,30.4015,-97.7268,NAN,The Domain,16,2
+541,Austin,Allegro Coffee Company,30.4015,-97.7268,5,The Domain,16,NAN
+542,Austin,Starbucks Reserve Bar,30.4015,-97.7268,4.5,The Domain,16,2
+543,Austin,Starbucks,30.4015,-97.7268,4,The Domain,16,2
+544,Austin,Starbucks,30.4015,-97.7268,4.2,The Domain,16,2
+545,Austin,Garden Spot Cafe,30.4015,-97.7268,4.7,The Domain,16,NAN
+546,Austin,It's A Grind Coffee House,30.4015,-97.7268,4.3,The Domain,16,1
+547,Austin,Rice Bowl Cafe,30.4014,-97.7147,4.2,Bardmoor Campus,13,2
+548,Austin,Summermoon Coffee Bar,30.4014,-97.7147,4.6,Bardmoor Campus,13,1
+549,Austin,Cafe Java,30.4014,-97.7147,4.7,Bardmoor Campus,13,1
+550,Austin,Mimi's Cafe,30.4014,-97.7147,3.9,Bardmoor Campus,13,2
+551,Austin,Kiefer's Cafe & Catering,30.4014,-97.7147,4.4,Bardmoor Campus,13,2
+552,Austin,Tinos Greek Cafe,30.4014,-97.7147,3.9,Bardmoor Campus,13,2
+553,Austin,Tropical Smoothie Cafe,30.4014,-97.7147,2.3,Bardmoor Campus,13,NAN
+554,Austin,Bee Cave Coffee Co.,30.4014,-97.7147,4,Bardmoor Campus,13,NAN
+555,Austin,Apanas Coffee & Beer,30.4014,-97.7147,4.5,Bardmoor Campus,13,1
+556,Austin,Allegro Coffee Company,30.4014,-97.7147,5,Bardmoor Campus,13,NAN
+557,Austin,Starbucks Reserve Bar,30.4014,-97.7147,4.5,Bardmoor Campus,13,2
+558,Austin,Garden Spot Cafe,30.4014,-97.7147,4.7,Bardmoor Campus,13,NAN
+559,Austin,It's A Grind Coffee House,30.4014,-97.7147,4.3,Bardmoor Campus,13,1
+560,Austin,Cuppa Austin,30.4704,-97.7701,4.6,Robinson Ranch,4,1
+561,Austin,Starbucks,30.4704,-97.7701,4,Robinson Ranch,4,2
+562,Austin,Kerbey Lane Cafe,30.4704,-97.7701,4.1,Robinson Ranch,4,2
+563,Austin,Tinos Greek Cafe,30.4704,-97.7701,4,Robinson Ranch,4,2

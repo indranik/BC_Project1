@@ -1,0 +1,434 @@
+,City Name,Facility parking,Latitude,Longitude,Rating,Site Name,parking Total Count
+0,Northern Virginia Area,Green Lot,38.96,-77.42,4,Center for Innovation Technology,9
+1,Northern Virginia Area,Colonial Parking,38.96,-77.42,3,Center for Innovation Technology,9
+2,Northern Virginia Area,Camden Dulles Station Building I - Parking Garage,38.96,-77.42,5,Center for Innovation Technology,9
+3,Northern Virginia Area,IAD Parking Garage 1,38.96,-77.42,3.8,Center for Innovation Technology,9
+4,Northern Virginia Area,IAD North Employee Parking Lot,38.96,-77.42,5,Center for Innovation Technology,9
+5,Northern Virginia Area,2214 Rock Hill Rd Parking,38.96,-77.42,NAN,Center for Innovation Technology,9
+6,Northern Virginia Area,Kohl's / Washington Dulles Int'l Airport Parking,38.96,-77.42,NAN,Center for Innovation Technology,9
+7,Northern Virginia Area,23050 Pacific Blvd Parking,38.96,-77.42,5,Center for Innovation Technology,9
+8,Northern Virginia Area,2300 Dulles Corner Blvd Parking,38.96,-77.42,NAN,Center for Innovation Technology,9
+9,Northern Virginia Area,Colonial Parking,38.84,-77.05,1,Crystal City and Potomac Yard,16
+10,Northern Virginia Area,Lot 607 - The Buchanan,38.84,-77.05,1,Crystal City and Potomac Yard,16
+11,Northern Virginia Area,Colonial Parking,38.84,-77.05,NAN,Crystal City and Potomac Yard,16
+12,Northern Virginia Area,Parking Management Inc,38.84,-77.05,3,Crystal City and Potomac Yard,16
+13,Northern Virginia Area,Colonial Parking,38.84,-77.05,1,Crystal City and Potomac Yard,16
+14,Northern Virginia Area,Parking Management Incorporated,38.84,-77.05,2.2,Crystal City and Potomac Yard,16
+15,Northern Virginia Area,Colonial Parking,38.84,-77.05,4.5,Crystal City and Potomac Yard,16
+16,Northern Virginia Area,DCA Terminal Parking Garage B/C,38.84,-77.05,4.1,Crystal City and Potomac Yard,16
+17,Northern Virginia Area,Presidential Towers,38.84,-77.05,NAN,Crystal City and Potomac Yard,16
+18,Northern Virginia Area,New TNC parking lot,38.84,-77.05,4,Crystal City and Potomac Yard,16
+19,Northern Virginia Area,Colonial Parking,38.84,-77.05,3,Crystal City and Potomac Yard,16
+20,Northern Virginia Area,North Airport Services Parking Lot K,38.84,-77.05,NAN,Crystal City and Potomac Yard,16
+21,Northern Virginia Area,Crystal Parking,38.84,-77.05,4.5,Crystal City and Potomac Yard,16
+22,Northern Virginia Area,Embassy Suites,38.84,-77.05,NAN,Crystal City and Potomac Yard,16
+23,Northern Virginia Area,Fashion Centre at Pentagon City Parking Garage,38.84,-77.05,3.9,Crystal City and Potomac Yard,16
+24,Northern Virginia Area,Towne Park,38.84,-77.05,5,Crystal City and Potomac Yard,16
+25,Los Angeles,Hines,34.1802,-118.6028,1,Warner Center West San Fernando Valley,12
+26,Los Angeles,6210 CANOGA,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,12
+27,Los Angeles,Warner Atrium,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,12
+28,Los Angeles,Woodland Hills Corporate Center,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,12
+29,Los Angeles,Topanga Warner FinancialCenter,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,12
+30,Los Angeles,Farmers Plaza,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,12
+31,Los Angeles,Proper Parking,34.1802,-118.6028,5,Warner Center West San Fernando Valley,12
+32,Los Angeles,Warner Corporate Center,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,12
+33,Los Angeles,Woodcourt I,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,12
+34,Los Angeles,Parking Lot Productions,34.1802,-118.6028,NAN,Warner Center West San Fernando Valley,12
+35,Los Angeles,Westhills Plaza,34.1802,-118.6028,5,Warner Center West San Fernando Valley,12
+36,Los Angeles,Canoga Orange Line Station,34.1802,-118.6028,4.4,Warner Center West San Fernando Valley,12
+37,Los Angeles,Engineered Parking Systems,34.4318,-118.5584,NAN,New Hall Ranch Santa Clarita Valley,2
+38,Los Angeles,Park & Ride,34.4318,-118.5584,NAN,New Hall Ranch Santa Clarita Valley,2
+39,Los Angeles,Fairplex Park & Ride,34.0885,-117.7702,1,Pomona Fairplex,4
+40,Los Angeles,parking,34.0885,-117.7702,4,Pomona Fairplex,4
+41,Los Angeles,1830 N Orange Grove Ave Parking,34.0885,-117.7702,NAN,Pomona Fairplex,4
+42,Los Angeles,Pomona Park & Ride,34.0885,-117.7702,4,Pomona Fairplex,4
+43,Boston,LAZ Parking,42.39,-71,3,Suffolk Downs,9
+44,Boston,Park Shuttle & Fly,42.39,-71,4.4,Suffolk Downs,9
+45,Boston,Wellington,42.39,-71,NAN,Suffolk Downs,9
+46,Boston,PreFlight Airport Parking BOS,42.39,-71,4.6,Suffolk Downs,9
+47,Boston,Thrifty Parking Boston,42.39,-71,2.9,Suffolk Downs,9
+48,Boston,Se-lect Airport Valet Parking,42.39,-71,2.3,Suffolk Downs,9
+49,Boston,Chelsea employee parking lot,42.39,-71,3.1,Suffolk Downs,9
+50,Boston,Boston Logan International Airport Cell Phone Lot,42.39,-71,3.7,Suffolk Downs,9
+51,Boston,L a Z Parking,42.39,-71,NAN,Suffolk Downs,9
+52,Boston,LAZ,42.34,-71.03,3.2,South Boston Waterfront,20
+53,Boston,Seaport District Parking,42.34,-71.03,3.1,South Boston Waterfront,20
+54,Boston,International Place Garage,42.34,-71.03,3.9,South Boston Waterfront,20
+55,Boston,Post Office Square Parking Garage,42.34,-71.03,4.4,South Boston Waterfront,20
+56,Boston,Park Lane Garage,42.34,-71.03,2.2,South Boston Waterfront,20
+57,Boston,Rowes Wharf Garage,42.34,-71.03,3.9,South Boston Waterfront,20
+58,Boston,Pi Alley Parking Garage,42.34,-71.03,3.4,South Boston Waterfront,20
+59,Boston,Channelside Lot Parking,42.34,-71.03,4.4,South Boston Waterfront,20
+60,Boston,75 State Street Parking,42.34,-71.03,4,South Boston Waterfront,20
+61,Boston,Lafayette Garage,42.34,-71.03,3.9,South Boston Waterfront,20
+62,Boston,Chinatown Parking - 125 Lincoln Street,42.34,-71.03,2.9,South Boston Waterfront,20
+63,Boston,ABM Parking,42.34,-71.03,NAN,South Boston Waterfront,20
+64,Boston,One Parking,42.34,-71.03,4,South Boston Waterfront,20
+65,Boston,225 Franklin Street Garage,42.34,-71.03,4.2,South Boston Waterfront,20
+66,Boston,33 Arch St Parking,42.34,-71.03,4.2,South Boston Waterfront,20
+67,Boston,Icon Parking,42.34,-71.03,1,South Boston Waterfront,20
+68,Boston,Dock Square Parking Garage,42.34,-71.03,2.3,South Boston Waterfront,20
+69,Boston,One Lincoln St Parking,42.34,-71.03,3.7,South Boston Waterfront,20
+70,Boston,99 Summer Street Parking,42.34,-71.03,3.7,South Boston Waterfront,20
+71,Boston,321 Congress,42.34,-71.03,3.7,South Boston Waterfront,20
+72,Boston,100 Cambridge Street Parking Facility,42.35,-71.05,3.8,Downtown,20
+73,Boston,LAZ Parking,42.35,-71.05,1.9,Downtown,20
+74,Boston,North End Garage,42.35,-71.05,3.7,Downtown,20
+75,Boston,Seaport District Parking,42.35,-71.05,3.1,Downtown,20
+76,Boston,149 Newbury Street Parking,42.35,-71.05,3,Downtown,20
+77,Boston,Post Office Square Parking Garage,42.35,-71.05,4.4,Downtown,20
+78,Boston,Park Lane Garage,42.35,-71.05,2.2,Downtown,20
+79,Boston,Central Parking,42.35,-71.05,3,Downtown,20
+80,Boston,International Place Garage,42.35,-71.05,3.9,Downtown,20
+81,Boston,Rowes Wharf Garage,42.35,-71.05,3.9,Downtown,20
+82,Boston,Boston Common Garage,42.35,-71.05,4.1,Downtown,20
+83,Boston,Channelside Lot Parking,42.35,-71.05,4.4,Downtown,20
+84,Boston,Lafayette Garage,42.35,-71.05,3.9,Downtown,20
+85,Boston,Propark America,42.35,-71.05,1.7,Downtown,20
+86,Boston,75 State Street Parking,42.35,-71.05,4,Downtown,20
+87,Boston,Icon Parking,42.35,-71.05,3.5,Downtown,20
+88,Boston,ABM Parking,42.35,-71.05,NAN,Downtown,20
+89,Boston,Nautica Parking Garage,42.35,-71.05,3.6,Downtown,20
+90,Boston,Icon Parking,42.35,-71.05,1,Downtown,20
+91,Boston,First Street Garage,42.35,-71.05,3.9,Downtown,20
+92,Boston,100 Cambridge Street Parking Facility,42.34,-71.06,3.8,South End,20
+93,Boston,Seaport District Parking,42.34,-71.06,3.1,South End,20
+94,Boston,149 Newbury Street Parking,42.34,-71.06,3,South End,20
+95,Boston,Park Lane Garage,42.34,-71.06,2.2,South End,20
+96,Boston,Central Parking,42.34,-71.06,3,South End,20
+97,Boston,International Place Garage,42.34,-71.06,3.9,South End,20
+98,Boston,Boston Common Garage,42.34,-71.06,4.1,South End,20
+99,Boston,Channelside Lot Parking,42.34,-71.06,4.4,South End,20
+100,Boston,75 State Street Parking,42.34,-71.06,4,South End,20
+101,Boston,Lafayette Garage,42.34,-71.06,3.9,South End,20
+102,Boston,Hynes Auditorium Garage,42.34,-71.06,3.9,South End,20
+103,Boston,Rowes Wharf Garage,42.34,-71.06,3.9,South End,20
+104,Boston,Chinatown Parking - 125 Lincoln Street,42.34,-71.06,2.9,South End,20
+105,Boston,132 Arlington Street Parking,42.34,-71.06,3.7,South End,20
+106,Boston,Icon Parking,42.34,-71.06,3.5,South End,20
+107,Boston,One Parking,42.34,-71.06,4,South End,20
+108,Boston,ABM Parking,42.34,-71.06,NAN,South End,20
+109,Boston,Icon Parking,42.34,-71.06,1,South End,20
+110,Boston,Matthews Arena Parking,42.34,-71.06,4.7,South End,20
+111,Boston,125 High Street,42.34,-71.06,4.5,South End,20
+112,New York,Manhattan Parking West 45th Street at Times Square,40.75,-74,3.9,Hudson Yards,20
+113,New York,Meyers Parking,40.75,-74,3.2,Hudson Yards,20
+114,New York,"Independence Garage, LLC.",40.75,-74,2.8,Hudson Yards,20
+115,New York,"Sovereign Garage, LLC.",40.75,-74,3.8,Hudson Yards,20
+116,New York,"Sawyer Parking, LLC.",40.75,-74,4.3,Hudson Yards,20
+117,New York,"Desoto Parking, LLC.",40.75,-74,3,Hudson Yards,20
+118,New York,MP 17 LLC,40.75,-74,3.6,Hudson Yards,20
+119,New York,Redball GMC Parking,40.75,-74,3.3,Hudson Yards,20
+120,New York,M P G MP East 48th St. (Cosmo Parking),40.75,-74,2.6,Hudson Yards,20
+121,New York,Spplus Parking CBS Building,40.75,-74,2.3,Hudson Yards,20
+122,New York,M P G MP Gramercy,40.75,-74,4,Hudson Yards,20
+123,New York,310 Lexington Avenue,40.75,-74,5,Hudson Yards,20
+124,New York,iPark,40.75,-74,2.7,Hudson Yards,20
+125,New York,iPark,40.75,-74,2.6,Hudson Yards,20
+126,New York,NYC Parking 785 Garage Corp.,40.75,-74,1.2,Hudson Yards,20
+127,New York,Parking in Manhattan at 109 W 56th St NYC,40.75,-74,NAN,Hudson Yards,20
+128,New York,Manhattan Parking 41 LLC,40.75,-74,3.4,Hudson Yards,20
+129,New York,Continental Garage Parking - Tower 111 Garage Parking NYC,40.75,-74,3,Hudson Yards,20
+130,New York,Washington Square Village Parking,40.75,-74,4,Hudson Yards,20
+131,New York,"River Street Garage, LLC.",40.75,-74,3,Hudson Yards,20
+132,New York,NYC Parking Imperial Palace Garage Corp.,40.74,-73.94,NAN,Long Island City,20
+133,New York,NYC Parking Prestige Garage Corp.,40.74,-73.94,5,Long Island City,20
+134,New York,NYC Parking 425 East 58 Garage Corporation,40.74,-73.94,4.8,Long Island City,20
+135,New York,MTP Parking,40.74,-73.94,2.2,Long Island City,20
+136,New York,Parking garage,40.74,-73.94,NAN,Long Island City,20
+137,New York,Little Man Parking,40.74,-73.94,4.5,Long Island City,20
+138,New York,M P G MP Hunter 50,40.74,-73.94,1,Long Island City,20
+139,New York,Standard Parking,40.74,-73.94,5,Long Island City,20
+140,New York,"Eastside Parking, LLC.",40.74,-73.94,4,Long Island City,20
+141,New York,Broadway-31st Street Municipal Parking Field,40.74,-73.94,4,Long Island City,20
+142,New York,Court Square Municipal Parking Garage,40.74,-73.94,4.1,Long Island City,20
+143,New York,Central Parking,40.74,-73.94,3.7,Long Island City,20
+144,New York,LAZ Kent Street Brooklyn,40.74,-73.94,1,Long Island City,20
+145,New York,SP+,40.74,-73.94,3,Long Island City,20
+146,New York,Quik Park,40.74,-73.94,3.8,Long Island City,20
+147,New York,Sutton House,40.74,-73.94,1,Long Island City,20
+148,New York,Chatham,40.74,-73.94,NAN,Long Island City,20
+149,New York,New York Parking 57th Street Corporation,40.74,-73.94,3.5,Long Island City,20
+150,New York,Oxford Parking Corp,40.74,-73.94,5,Long Island City,20
+151,New York,PV Parking Astoria,40.74,-73.94,4.3,Long Island City,20
+152,New York,NYC Parking 59 Allen Street Garage Corp.,40.7,-73.98,2.3,Brooklyn Tech Triangle,20
+153,New York,NYC Parking Kent Garage Corporation,40.7,-73.98,3.1,Brooklyn Tech Triangle,20
+154,New York,SP+ Parking,40.7,-73.98,1.9,Brooklyn Tech Triangle,20
+155,New York,M P G Kids Parking,40.7,-73.98,4,Brooklyn Tech Triangle,20
+156,New York,iPark,40.7,-73.98,2.6,Brooklyn Tech Triangle,20
+157,New York,iPark,40.7,-73.98,1,Brooklyn Tech Triangle,20
+158,New York,M P G Boro,40.7,-73.98,3,Brooklyn Tech Triangle,20
+159,New York,Edison ParkFast,40.7,-73.98,3.7,Brooklyn Tech Triangle,20
+160,New York,SP+ Parking @ 199 Water St,40.7,-73.98,NAN,Brooklyn Tech Triangle,20
+161,New York,One Metro Tech Center Parking,40.7,-73.98,2.3,Brooklyn Tech Triangle,20
+162,New York,LAZ Kent Street Brooklyn,40.7,-73.98,1,Brooklyn Tech Triangle,20
+163,New York,388 Garage LLC,40.7,-73.98,1,Brooklyn Tech Triangle,20
+164,New York,236 Livingston Street,40.7,-73.98,2.5,Brooklyn Tech Triangle,20
+165,New York,SP+ Parking,40.7,-73.98,4.6,Brooklyn Tech Triangle,20
+166,New York,M P G Sky Parking,40.7,-73.98,2.8,Brooklyn Tech Triangle,20
+167,New York,Quik Park Ely Garage LLC,40.7,-73.98,4.5,Brooklyn Tech Triangle,20
+168,New York,294 Pearl Street,40.7,-73.98,3.4,Brooklyn Tech Triangle,20
+169,New York,Champion Confucius LLC,40.7,-73.98,3.4,Brooklyn Tech Triangle,20
+170,New York,Park Armory Management LLC,40.7,-73.98,3.5,Brooklyn Tech Triangle,20
+171,New York,Quik Park,40.7,-73.98,3.2,Brooklyn Tech Triangle,20
+172,New York,Parking at Brookfield Place 200 Liberty Street,40.7,-74.01,4,Financial District,20
+173,New York,NYC Parking 100 ML Garage Corp.,40.7,-74.01,1,Financial District,20
+174,New York,SP+ Parking,40.7,-74.01,1.9,Financial District,20
+175,New York,SP+ Parking,40.7,-74.01,5,Financial District,20
+176,New York,MPG Parking,40.7,-74.01,3.2,Financial District,20
+177,New York,M P G Kids Parking,40.7,-74.01,4,Financial District,20
+178,New York,iPark (Imperial) 201 Gold/Pearl Parking,40.7,-74.01,5,Financial District,20
+179,New York,NYC Parking 80 John Garage Corp.,40.7,-74.01,4,Financial District,20
+180,New York,M P G Sky Parking,40.7,-74.01,2.8,Financial District,20
+181,New York,Battery Parking Garage,40.7,-74.01,4.2,Financial District,20
+182,New York,101 Hudson Street,40.7,-74.01,5,Financial District,20
+183,New York,NYC Parking 75 Wall Garage Corp.,40.7,-74.01,1.9,Financial District,20
+184,New York,M P G Boro,40.7,-74.01,3,Financial District,20
+185,New York,parkwhiz,40.7,-74.01,2.8,Financial District,20
+186,New York,SP+ Parking @ 199 Water St,40.7,-74.01,NAN,Financial District,20
+187,New York,388 Garage LLC,40.7,-74.01,1,Financial District,20
+188,New York,GGMC Parking,40.7,-74.01,2,Financial District,20
+189,New York,SP+ Parking,40.7,-74.01,4.6,Financial District,20
+190,New York,294 Pearl Street,40.7,-74.01,3.4,Financial District,20
+191,New York,Icon Parking,40.7,-74.01,3.1,Financial District,20
+192,Chicago,North & Sheffield Self Park,41.91,-87.64,3.7,Lincoln Yards,20
+193,Chicago,1933 North Halsted,41.91,-87.64,3.7,Lincoln Yards,20
+194,Chicago,SP+ Parking @ Newberry Plaza Garage,41.91,-87.64,NAN,Lincoln Yards,20
+195,Chicago,LAZ Parking,41.91,-87.64,2.4,Lincoln Yards,20
+196,Chicago,LAZ Parking,41.91,-87.64,2,Lincoln Yards,20
+197,Chicago,Central Parking,41.91,-87.64,NAN,Lincoln Yards,20
+198,Chicago,The Pierre Garage,41.91,-87.64,3.7,Lincoln Yards,20
+199,Chicago,Ogden Plaza Self Parking,41.91,-87.64,3.1,Lincoln Yards,20
+200,Chicago,SP+ Parking,41.91,-87.64,3.7,Lincoln Yards,20
+201,Chicago,Parking at CTA Brown Line 1550 North Cleveland Avenue,41.91,-87.64,NAN,Lincoln Yards,20
+202,Chicago,Ampco System Parking,41.91,-87.64,2,Lincoln Yards,20
+203,Chicago,100 E Walton,41.91,-87.64,3.3,Lincoln Yards,20
+204,Chicago,Ampco System Parking,41.91,-87.64,1,Lincoln Yards,20
+205,Chicago,One East Delaware,41.91,-87.64,5,Lincoln Yards,20
+206,Chicago,630 N. Rush St..,41.91,-87.64,3.8,Lincoln Yards,20
+207,Chicago,Central Parking,41.91,-87.64,3.4,Lincoln Yards,20
+208,Chicago,CH409- The Sterling Self Park,41.91,-87.64,NAN,Lincoln Yards,20
+209,Chicago,Chicago History Museum Parking,41.91,-87.64,3.9,Lincoln Yards,20
+210,Chicago,Erie Ontario Parking - Parking D,41.91,-87.64,2.3,Lincoln Yards,20
+211,Chicago,777 North Michigan,41.91,-87.64,2.8,Lincoln Yards,20
+212,Chicago,Grant Park North Parking Garage,41.89,-87.64,3.6,The River District,20
+213,Chicago,Grant Park South Garage,41.89,-87.64,3.6,The River District,20
+214,Chicago,SP+ Parking @ Millennium Lakeside Garage,41.89,-87.64,3.2,The River District,20
+215,Chicago,Grant Park North Garage,41.89,-87.64,2.3,The River District,20
+216,Chicago,Fulton & DesPlaines Self Park,41.89,-87.64,4.3,The River District,20
+217,Chicago,Wabash-Randolph Self Park,41.89,-87.64,3.2,The River District,20
+218,Chicago,Theatre District Self-Park,41.89,-87.64,3.8,The River District,20
+219,Chicago,North & Sheffield Self Park,41.89,-87.64,3.7,The River District,20
+220,Chicago,SP+ Parking @ Grand & Kingsbury Garage,41.89,-87.64,3,The River District,20
+221,Chicago,LAZ Parking,41.89,-87.64,3,The River District,20
+222,Chicago,LAZ Parking,41.89,-87.64,2.4,The River District,20
+223,Chicago,LAZ Parking,41.89,-87.64,2,The River District,20
+224,Chicago,Millennium parking garage,41.89,-87.64,2,The River District,20
+225,Chicago,Chicago Parking Map,41.89,-87.64,5,The River District,20
+226,Chicago,55 East Monroe Self Park,41.89,-87.64,3.6,The River District,20
+227,Chicago,Lake Wells Self Park,41.89,-87.64,4.1,The River District,20
+228,Chicago,Ogden Plaza Self Parking,41.89,-87.64,3.1,The River District,20
+229,Chicago,SP+ Parking,41.89,-87.64,3.7,The River District,20
+230,Chicago,Standard Parking,41.89,-87.64,5,The River District,20
+231,Chicago,Central Parking,41.89,-87.64,3.5,The River District,20
+232,Chicago,Grant Park North Parking Garage,41.88,-87.65,3.6,Futton Market,20
+233,Chicago,Grant Park South Garage,41.88,-87.65,3.6,Futton Market,20
+234,Chicago,SP+ Parking @ Millennium Lakeside Garage,41.88,-87.65,3.2,Futton Market,20
+235,Chicago,Grant Park North Garage,41.88,-87.65,2.3,Futton Market,20
+236,Chicago,Fulton & DesPlaines Self Park,41.88,-87.65,4.3,Futton Market,20
+237,Chicago,1101 S. State,41.88,-87.65,4.7,Futton Market,20
+238,Chicago,Wabash-Randolph Self Park,41.88,-87.65,3.2,Futton Market,20
+239,Chicago,Theatre District Self-Park,41.88,-87.65,3.8,Futton Market,20
+240,Chicago,SP+ Parking @ Grand & Kingsbury Garage,41.88,-87.65,3,Futton Market,20
+241,Chicago,LAZ Parking,41.88,-87.65,3,Futton Market,20
+242,Chicago,Millennium parking garage,41.88,-87.65,2,Futton Market,20
+243,Chicago,Chicago Parking Map,41.88,-87.65,5,Futton Market,20
+244,Chicago,CPS Parking,41.88,-87.65,2,Futton Market,20
+245,Chicago,Lake Wells Self Park,41.88,-87.65,4.1,Futton Market,20
+246,Chicago,Ogden Plaza Self Parking,41.88,-87.65,3.1,Futton Market,20
+247,Chicago,Parking at Southgate Market,41.88,-87.65,1,Futton Market,20
+248,Chicago,Central Parking,41.88,-87.65,3.5,Futton Market,20
+249,Chicago,ABM Parking,41.88,-87.65,3.6,Futton Market,20
+250,Chicago,Clinton And Harrison,41.88,-87.65,4,Futton Market,20
+251,Chicago,Ampco System Parking,41.88,-87.65,2,Futton Market,20
+252,Chicago,Grant Park North Parking Garage,41.87,-87.63,3.6,City Center Campus,20
+253,Chicago,Grant Park South Garage,41.87,-87.63,3.6,City Center Campus,20
+254,Chicago,SP+ Parking @ Millennium Lakeside Garage,41.87,-87.63,3.2,City Center Campus,20
+255,Chicago,Grant Park North Garage,41.87,-87.63,2.3,City Center Campus,20
+256,Chicago,1101 S. State,41.87,-87.63,4.7,City Center Campus,20
+257,Chicago,Wabash-Randolph Self Park,41.87,-87.63,3.2,City Center Campus,20
+258,Chicago,SP+ Parking,41.87,-87.63,3,City Center Campus,20
+259,Chicago,Parking at Southgate Market,41.87,-87.63,1,City Center Campus,20
+260,Chicago,LAZ Parking,41.87,-87.63,3,City Center Campus,20
+261,Chicago,Millennium parking garage,41.87,-87.63,2,City Center Campus,20
+262,Chicago,Chicago Parking Map,41.87,-87.63,5,City Center Campus,20
+263,Chicago,SP+ Parking,41.87,-87.63,3.5,City Center Campus,20
+264,Chicago,South Parking Lot,41.87,-87.63,4.1,City Center Campus,20
+265,Chicago,55 East Monroe Self Park,41.87,-87.63,3.6,City Center Campus,20
+266,Chicago,Lake Wells Self Park,41.87,-87.63,4.1,City Center Campus,20
+267,Chicago,Ogden Plaza Self Parking,41.87,-87.63,3.1,City Center Campus,20
+268,Chicago,Central Parking,41.87,-87.63,3.5,City Center Campus,20
+269,Chicago,ABM Parking,41.87,-87.63,3.6,City Center Campus,20
+270,Chicago,Clinton And Harrison,41.87,-87.63,4,City Center Campus,20
+271,Chicago,Ampco System Parking,41.87,-87.63,1,City Center Campus,20
+272,Chicago,Grant Park North Parking Garage,41.87,-87.62,3.6,The Downtown District,20
+273,Chicago,Grant Park South Garage,41.87,-87.62,3.6,The Downtown District,20
+274,Chicago,SP+ Parking @ Millennium Lakeside Garage,41.87,-87.62,3.2,The Downtown District,20
+275,Chicago,Grant Park North Garage,41.87,-87.62,2.3,The Downtown District,20
+276,Chicago,SP+ Parking,41.87,-87.62,3.5,The Downtown District,20
+277,Chicago,1101 S. State,41.87,-87.62,4.7,The Downtown District,20
+278,Chicago,Wabash-Randolph Self Park,41.87,-87.62,3.2,The Downtown District,20
+279,Chicago,Theatre District Self-Park,41.87,-87.62,3.8,The Downtown District,20
+280,Chicago,SP+ Parking,41.87,-87.62,3,The Downtown District,20
+281,Chicago,Parking at Southgate Market,41.87,-87.62,1,The Downtown District,20
+282,Chicago,LAZ Parking,41.87,-87.62,3,The Downtown District,20
+283,Chicago,Millennium parking garage,41.87,-87.62,2,The Downtown District,20
+284,Chicago,Chicago Parking Map,41.87,-87.62,5,The Downtown District,20
+285,Chicago,South Parking Lot,41.87,-87.62,4.1,The Downtown District,20
+286,Chicago,Lake Wells Self Park,41.87,-87.62,4.1,The Downtown District,20
+287,Chicago,Ogden Plaza Self Parking,41.87,-87.62,3.1,The Downtown District,20
+288,Chicago,Central Parking,41.87,-87.62,3.5,The Downtown District,20
+289,Chicago,ABM Parking,41.87,-87.62,3.6,The Downtown District,20
+290,Chicago,Clinton And Harrison,41.87,-87.62,4,The Downtown District,20
+291,Chicago,Ampco System Parking,41.87,-87.62,1,The Downtown District,20
+292,Chicago,Union Station Self Park,41.86,-87.67,NAN,The Illinois Medical District,17
+293,Chicago,Standard Parking,41.86,-87.67,5,The Illinois Medical District,17
+294,Chicago,Parking at 320 South Canal Street,41.86,-87.67,2.7,The Illinois Medical District,17
+295,Chicago,Clinton And Harrison,41.86,-87.67,4,The Illinois Medical District,17
+296,Chicago,One Parking,41.86,-87.67,NAN,The Illinois Medical District,17
+297,Chicago,Park 1,41.86,-87.67,1.4,The Illinois Medical District,17
+298,Chicago,500 W Monroe,41.86,-87.67,3.8,The Illinois Medical District,17
+299,Chicago,Park One,41.86,-87.67,3.8,The Illinois Medical District,17
+300,Chicago,Chicago Parking - CTA Pink Line 1750 West 13th Street,41.86,-87.67,NAN,The Illinois Medical District,17
+301,Chicago,Chicago Parking - CTA Pink Line 2100 South California Avenue,41.86,-87.67,2,The Illinois Medical District,17
+302,Chicago,People's Auto Parking,41.86,-87.67,4.8,The Illinois Medical District,17
+303,Chicago,ABM Parking Services- Arkadia Towers,41.86,-87.67,NAN,The Illinois Medical District,17
+304,Chicago,Nuevo Leon Parking,41.86,-87.67,NAN,The Illinois Medical District,17
+305,Chicago,Chicago Parking - CTA Orange Line Haldstead & Archer,41.86,-87.67,NAN,The Illinois Medical District,17
+306,Chicago,Parking at Rush: Ogden/Wood Lot,41.86,-87.67,NAN,The Illinois Medical District,17
+307,Chicago,Parking at Southgate Market,41.86,-87.67,1,The Illinois Medical District,17
+308,Chicago,Park 1,41.86,-87.67,3.3,The Illinois Medical District,17
+309,Chicago,Parking at Southgate Market,41.85,-87.66,1,The 78,10
+310,Chicago,Standard Parking,41.85,-87.66,5,The 78,10
+311,Chicago,Central Parking,41.85,-87.66,NAN,The 78,10
+312,Chicago,SP+ Parking,41.85,-87.66,4,The 78,10
+313,Chicago,Parking at 2155 South Wentworth Avenue,41.85,-87.66,4.2,The 78,10
+314,Chicago,Chinatown North Parking Lot,41.85,-87.66,3.9,The 78,10
+315,Chicago,Chicago Parking - CTA Pink Line 1750 West 13th Street,41.85,-87.66,NAN,The 78,10
+316,Chicago,Bus Parking - Guaranteed Rate Field,41.85,-87.66,NAN,The 78,10
+317,Chicago,Nuevo Leon Parking,41.85,-87.66,NAN,The 78,10
+318,Chicago,Chicago Parking - CTA Orange Line Haldstead & Archer,41.85,-87.66,NAN,The 78,10
+319,Chicago,Parking at Hyatt Mccormick Place,41.83,-87.6,4.4,Burnham Lakefront,7
+320,Chicago,My Parking Spot,41.83,-87.6,NAN,Burnham Lakefront,7
+321,Chicago,CTA Green Line 50 East 23rd Street,41.83,-87.6,1,Burnham Lakefront,7
+322,Chicago,Chicago Parking - CTA Green Line 450 East 47th Street,41.83,-87.6,NAN,Burnham Lakefront,7
+323,Chicago,Central Parking,41.83,-87.6,NAN,Burnham Lakefront,7
+324,Chicago,Parking at 2155 South Wentworth Avenue,41.83,-87.6,4.2,Burnham Lakefront,7
+325,Chicago,SP+ Parking @ 2101 South Michigan Garage,41.83,-87.6,4,Burnham Lakefront,7
+326,Raleigh,IBM RTP B503 Parking Lot,35.9,-78.87,5,Research Triangle Park,7
+327,Raleigh,IBM COC Parking,35.9,-78.87,NAN,Research Triangle Park,7
+328,Raleigh,201 Residence Inn Blvd. Parking,35.9,-78.87,NAN,Research Triangle Park,7
+329,Raleigh,4700 Guardian Dr Parking,35.9,-78.87,NAN,Research Triangle Park,7
+330,Raleigh,301 Residence Inn Boulevard Parking,35.9,-78.87,NAN,Research Triangle Park,7
+331,Raleigh,5223 Page Rd Parking,35.9,-78.87,NAN,Research Triangle Park,7
+332,Raleigh,Building 502 Parking Lot,35.9,-78.87,NAN,Research Triangle Park,7
+333,Raleigh,Chatham County Park and Ride,35.85,-79.08,NAN,Chatham Park,1
+334,Raleigh,Alexander Square Parking Deck,35.77,-78.64,4.1,Warehouse District,20
+335,Raleigh,Moore Square Public Parking,35.77,-78.64,4.2,Warehouse District,20
+336,Raleigh,Wake County Parking Deck,35.77,-78.64,3.9,Warehouse District,20
+337,Raleigh,Convention Center Underground Deck,35.77,-78.64,4,Warehouse District,20
+338,Raleigh,Performing Arts Parking Deck,35.77,-78.64,3.4,Warehouse District,20
+339,Raleigh,Royal Parking Inc,35.77,-78.64,3.5,Warehouse District,20
+340,Raleigh,public parking,35.77,-78.64,4,Warehouse District,20
+341,Raleigh,Municipal Deck- 201 W. Morgan,35.77,-78.64,4.1,Warehouse District,20
+342,Raleigh,Reynolds Coliseum Parking Deck,35.77,-78.64,3.7,Warehouse District,20
+343,Raleigh,Cabarrus Street Parking Lot,35.77,-78.64,5,Warehouse District,20
+344,Raleigh,Lot 34 – Wilmington Street Station,35.77,-78.64,3.6,Warehouse District,20
+345,Raleigh,Lot 26 – Blount Street Deck,35.77,-78.64,2.8,Warehouse District,20
+346,Raleigh,Powerhouse Parking Deck,35.77,-78.64,2,Warehouse District,20
+347,Raleigh,Lot 39 – 400 S. Salisbury St.,35.77,-78.64,NAN,Warehouse District,20
+348,Raleigh,510 Glenwood Parking Deck,35.77,-78.64,4,Warehouse District,20
+349,Raleigh,Green Square Parking Deck,35.77,-78.64,4.1,Warehouse District,20
+350,Raleigh,Parking. City Of Raleigh. Blount Deck,35.77,-78.64,2,Warehouse District,20
+351,Raleigh,State Government Visitor Parking Lot #2,35.77,-78.64,3.5,Warehouse District,20
+352,Raleigh,333 N.Salisbury Street Parking lot#75,35.77,-78.64,3.8,Warehouse District,20
+353,Raleigh,NCMNS Vol Parking,35.77,-78.64,3,Warehouse District,20
+354,Atlanta,304 W Peachtree Street or 17 Baker St Lot,33.7615,-84.3856,1,Downtown Atlanta,20
+355,Atlanta,Metropolis Parking,33.7615,-84.3856,3.8,Downtown Atlanta,20
+356,Atlanta,Five Points,33.7615,-84.3856,3.8,Downtown Atlanta,20
+357,Atlanta,AAA Parking,33.7615,-84.3856,2,Downtown Atlanta,20
+358,Atlanta,100 Luckie Street,33.7615,-84.3856,2.1,Downtown Atlanta,20
+359,Atlanta,AAA Parking,33.7615,-84.3856,3.9,Downtown Atlanta,20
+360,Atlanta,SP+ Parking @ 218 Peachtree Street NW,33.7615,-84.3856,2.4,Downtown Atlanta,20
+361,Atlanta,LAZ Parking Lot,33.7615,-84.3856,NAN,Downtown Atlanta,20
+362,Atlanta,Lanier Parking,33.7615,-84.3856,3.3,Downtown Atlanta,20
+363,Atlanta,Lanier Parking Solutions,33.7615,-84.3856,3,Downtown Atlanta,20
+364,Atlanta,CRC Permit Parking,33.7615,-84.3856,NAN,Downtown Atlanta,20
+365,Atlanta,Government Center Parking Deck,33.7615,-84.3856,3.8,Downtown Atlanta,20
+366,Atlanta,Pete Hackney Parking Deck,33.7615,-84.3856,3.7,Downtown Atlanta,20
+367,Atlanta,Centennial Deck / Philips Arena Deck,33.7615,-84.3856,3.3,Downtown Atlanta,20
+368,Atlanta,Seven One Seven Parking,33.7615,-84.3856,3,Downtown Atlanta,20
+369,Atlanta,SP+ Parking @ 123 Marietta Street,33.7615,-84.3856,2.3,Downtown Atlanta,20
+370,Atlanta,Green Parking,33.7615,-84.3856,3.8,Downtown Atlanta,20
+371,Atlanta,Georgia Tech Student Center Parking,33.7615,-84.3856,4,Downtown Atlanta,20
+372,Atlanta,285 Marietta Street Parking Lot,33.7615,-84.3856,2.7,Downtown Atlanta,20
+373,Atlanta,Underground Deck A,33.7615,-84.3856,3.1,Downtown Atlanta,20
+374,Atlanta,Exchange Street Parking Plaza,34.5129,-93.0431,4.3,Midtown,3
+375,Atlanta,Free Public Parking,34.5129,-93.0431,4.5,Midtown,3
+376,Atlanta,274 Exchange St Parking,34.5129,-93.0431,NAN,Midtown,3
+377,Atlanta,1901 Savoy Drive Parking,33.904,-84.2843,NAN,Former GM plant,2
+378,Atlanta,Chamblee Station,33.904,-84.2843,NAN,Former GM plant,2
+379,Atlanta,National Parking,33.9133,-84.3888,4.7,The High Street Site,5
+380,Atlanta,LAZ Parking,33.9133,-84.3888,NAN,The High Street Site,5
+381,Atlanta,G5 Parking Solutions,33.9133,-84.3888,5,The High Street Site,5
+382,Atlanta,120 Hammond Dr NE Parking,33.9133,-84.3888,NAN,The High Street Site,5
+383,Atlanta,City Springs,33.9133,-84.3888,NAN,The High Street Site,5
+384,Austin,Downtown Austin Parking,30.2586,-97.7444,3.1,American-Statesman ,20
+385,Austin,Texas Capitol Visitors Parking Garage,30.2586,-97.7444,4.4,American-Statesman ,20
+386,Austin,5th Street Garage,30.2586,-97.7444,3.7,American-Statesman ,20
+387,Austin,382 Parking,30.2586,-97.7444,2.2,American-Statesman ,20
+388,Austin,LAZ Parking 388,30.2586,-97.7444,1.5,American-Statesman ,20
+389,Austin,Capitol Center Parking Garage,30.2586,-97.7444,5,American-Statesman ,20
+390,Austin,SP Plus 707 East 7th Street,30.2586,-97.7444,4,American-Statesman ,20
+391,Austin,Laz Parking,30.2586,-97.7444,NAN,American-Statesman ,20
+392,Austin,Platinum Parking,30.2586,-97.7444,3.8,American-Statesman ,20
+393,Austin,Brazos Garage,30.2586,-97.7444,3.3,American-Statesman ,20
+394,Austin,Land Lot,30.2586,-97.7444,5,American-Statesman ,20
+395,Austin,Central Parking,30.2586,-97.7444,3,American-Statesman ,20
+396,Austin,400 West 15th Street,30.2586,-97.7444,3,American-Statesman ,20
+397,Austin,Chase Tower Garage,30.2586,-97.7444,4,American-Statesman ,20
+398,Austin,Premier Parking @ Littlefield Garage,30.2586,-97.7444,2.6,American-Statesman ,20
+399,Austin,Central Parking,30.2586,-97.7444,4,American-Statesman ,20
+400,Austin,Health Center Garage,30.2586,-97.7444,2.3,American-Statesman ,20
+401,Austin,Premium Parking - P3008,30.2586,-97.7444,3.3,American-Statesman ,20
+402,Austin,Premium Parking - P3004,30.2586,-97.7444,2.8,American-Statesman ,20
+403,Austin,Public Parking underneath Ashton,30.2586,-97.7444,3.9,American-Statesman ,20
+404,Austin,IBM - South Parking Garage,30.4015,-97.7268,NAN,The Domain,13
+405,Austin,Green Parking Garage,30.4015,-97.7268,NAN,The Domain,13
+406,Austin,Red Garage,30.4015,-97.7268,5,The Domain,13
+407,Austin,11201 North MoPac Expressway Parking,30.4015,-97.7268,NAN,The Domain,13
+408,Austin,11301 Domain Dr Parking,30.4015,-97.7268,NAN,The Domain,13
+409,Austin,9409 Stonelake Boulevard Parking,30.4015,-97.7268,NAN,The Domain,13
+410,Austin,North Burnet Parking,30.4015,-97.7268,NAN,The Domain,13
+411,Austin,9721 Arboretum Blvd Parking,30.4015,-97.7268,NAN,The Domain,13
+412,Austin,10024 North Capital of TX Highway North Parking,30.4015,-97.7268,3,The Domain,13
+413,Austin,11701 Domain Blvd Parking,30.4015,-97.7268,NAN,The Domain,13
+414,Austin,Domain Pkwy Parking,30.4015,-97.7268,NAN,The Domain,13
+415,Austin,2420-2510 Kramer Ln Parking,30.4015,-97.7268,NAN,The Domain,13
+416,Austin,9629 Arboretum Blvd Parking,30.4015,-97.7268,NAN,The Domain,13
+417,Austin,IBM - South Parking Garage,30.4014,-97.7147,NAN,Bardmoor Campus,12
+418,Austin,Green Parking Garage,30.4014,-97.7147,NAN,Bardmoor Campus,12
+419,Austin,Red Garage,30.4014,-97.7147,5,Bardmoor Campus,12
+420,Austin,11201 North MoPac Expressway Parking,30.4014,-97.7147,NAN,Bardmoor Campus,12
+421,Austin,11301 Domain Dr Parking,30.4014,-97.7147,NAN,Bardmoor Campus,12
+422,Austin,North Burnet Parking,30.4014,-97.7147,NAN,Bardmoor Campus,12
+423,Austin,10024 North Capital of TX Highway North Parking,30.4014,-97.7147,3,Bardmoor Campus,12
+424,Austin,11701 Domain Blvd Parking,30.4014,-97.7147,NAN,Bardmoor Campus,12
+425,Austin,Domain Pkwy Parking,30.4014,-97.7147,NAN,Bardmoor Campus,12
+426,Austin,2420-2510 Kramer Ln Parking,30.4014,-97.7147,NAN,Bardmoor Campus,12
+427,Austin,3713 Tudor Boulevard Parking,30.4014,-97.7147,NAN,Bardmoor Campus,12
+428,Austin,9700 N Capital of Texas Hwy Parking,30.4014,-97.7147,NAN,Bardmoor Campus,12
+429,Austin,10901 Lakeline Mall Dr Parking,30.4704,-97.7701,NAN,Robinson Ranch,1
+430,Austin,Lot F,30.1338,-97.6411,3.5,Project Catalyst,3
+431,Austin,RVNIGHTLY.COM,30.1338,-97.6411,3.8,Project Catalyst,3
+432,Austin,Premium RV Parking,30.1338,-97.6411,NAN,Project Catalyst,3
