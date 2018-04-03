@@ -1,0 +1,271 @@
+,Amazon City,City,Site Name,Airport,Airport Rating
+0,Atlanta,Atlanta,Downtown Atlanta,Atlanta Regional Airport - Falcon Field,4.4
+2,Atlanta,Atlanta,Downtown Atlanta,Cobb County International Airport,4.4
+3,Atlanta,Atlanta,Downtown Atlanta,Fulton County Airport-Brown Field,4.8
+4,Atlanta,Atlanta,Downtown Atlanta,Gwinnett County Airport (LZU),4.4
+6,Atlanta,Atlanta,Downtown Atlanta,Hartsfield-Jackson Atlanta International Airport,3.9
+10,Atlanta,Atlanta,Downtown Atlanta,Peachtree Dekalb Airport,4.3
+12,Atlanta,Atlanta,Former GM plant,Cherokee County Airport,5.0
+13,Atlanta,Atlanta,Former GM plant,Cobb County International Airport,4.4
+14,Atlanta,Atlanta,Former GM plant,Fulton County Airport-Brown Field,4.8
+16,Atlanta,Atlanta,Former GM plant,Gwinnett County Airport (LZU),4.4
+18,Atlanta,Atlanta,Former GM plant,Hartsfield-Jackson Atlanta International Airport,3.9
+22,Atlanta,Atlanta,Former GM plant,Peachtree Dekalb Airport,4.3
+23,Atlanta,Atlanta,Midtown,Malvern Municipal Airport,4.0
+24,Atlanta,Atlanta,Midtown,Memorial Field Airport,4.3
+26,Atlanta,Atlanta,The High Street Site,Cartersville Airport,5.0
+27,Atlanta,Atlanta,The High Street Site,Cherokee County Airport,5.0
+28,Atlanta,Atlanta,The High Street Site,Cobb County International Airport,4.4
+29,Atlanta,Atlanta,The High Street Site,Fulton County Airport-Brown Field,4.8
+30,Atlanta,Atlanta,The High Street Site,Gwinnett County Airport (LZU),4.4
+32,Atlanta,Atlanta,The High Street Site,Hartsfield-Jackson Atlanta International Airport,3.9
+36,Atlanta,Atlanta,The High Street Site,Peachtree Dekalb Airport,4.3
+38,Austin,Austin,American-Statesman ,Austin Executive Airport,4.6
+40,Austin,Austin,American-Statesman ,Austin-Bergstrom International Airport,4.0
+41,Austin,Austin,American-Statesman ,Breakaway Airport,4.3
+42,Austin,Austin,American-Statesman ,Bud Dryden Airport,5.0
+43,Austin,Austin,American-Statesman ,Georgetown Municipal Airport,4.2
+46,Austin,Austin,American-Statesman ,San Marcos Regional Airport,4.4
+47,Austin,Austin,American-Statesman ,Spicewood Airport,5.0
+48,Austin,Austin,American-Statesman ,Taylor Municipal Airport-T74,2.0
+50,Austin,Austin,Bardmoor Campus,Austin Executive Airport,4.6
+52,Austin,Austin,Bardmoor Campus,Austin-Bergstrom International Airport,4.0
+53,Austin,Austin,Bardmoor Campus,Breakaway Airport,4.3
+54,Austin,Austin,Bardmoor Campus,Bud Dryden Airport,5.0
+55,Austin,Austin,Bardmoor Campus,Georgetown Municipal Airport,4.2
+58,Austin,Austin,Bardmoor Campus,Spicewood Airport,5.0
+59,Austin,Austin,Bardmoor Campus,Taylor Municipal Airport-T74,2.0
+62,Austin,Austin,Eightfold,Austin Executive Airport,4.6
+64,Austin,Austin,Eightfold,Austin-Bergstrom International Airport,4.0
+65,Austin,Austin,Eightfold,Breakaway Airport,4.3
+66,Austin,Austin,Eightfold,Bud Dryden Airport,5.0
+67,Austin,Austin,Eightfold,Georgetown Municipal Airport,4.2
+70,Austin,Austin,Eightfold,San Marcos Regional Airport,4.4
+72,Austin,Austin,Eightfold,Taylor Municipal Airport-T74,2.0
+75,Austin,Austin,Former 3M site,Austin Executive Airport,4.6
+77,Austin,Austin,Former 3M site,Austin-Bergstrom International Airport,4.0
+78,Austin,Austin,Former 3M site,Breakaway Airport,4.3
+79,Austin,Austin,Former 3M site,Bud Dryden Airport,5.0
+82,Austin,Austin,Former 3M site,San Marcos Regional Airport,4.4
+84,Austin,Austin,Former 3M site,Spicewood Airport,5.0
+87,Austin,Austin,Project Catalyst,Austin Executive Airport,4.6
+89,Austin,Austin,Project Catalyst,Austin-Bergstrom International Airport,4.0
+90,Austin,Austin,Project Catalyst,Breakaway Airport,4.3
+91,Austin,Austin,Project Catalyst,Bud Dryden Airport,5.0
+94,Austin,Austin,Project Catalyst,San Marcos Regional Airport,4.4
+97,Austin,Austin,Robinson Ranch,Austin Executive Airport,4.6
+98,Austin,Austin,Robinson Ranch,Austin-Bergstrom International Airport,4.0
+99,Austin,Austin,Robinson Ranch,Breakaway Airport,4.3
+100,Austin,Austin,Robinson Ranch,Bud Dryden Airport,5.0
+101,Austin,Austin,Robinson Ranch,Flying X Ranch Airport,5.0
+102,Austin,Austin,Robinson Ranch,Georgetown Municipal Airport,4.2
+105,Austin,Austin,Robinson Ranch,Spicewood Airport,5.0
+106,Austin,Austin,Robinson Ranch,Taylor Municipal Airport-T74,2.0
+107,Austin,Austin,The Domain,Austin Executive Airport,4.6
+108,Austin,Austin,The Domain,Austin-Bergstrom International Airport,4.0
+109,Austin,Austin,The Domain,Breakaway Airport,4.3
+110,Austin,Austin,The Domain,Bud Dryden Airport,5.0
+111,Austin,Austin,The Domain,Flying X Ranch Airport,5.0
+112,Austin,Austin,The Domain,Georgetown Municipal Airport,4.2
+115,Austin,Austin,The Domain,Spicewood Airport,5.0
+116,Austin,Austin,The Domain,Taylor Municipal Airport-T74,2.0
+119,Boston,Boston,Downtown,Boston Logan International Airport,3.9
+123,Boston,Boston,Downtown,Lawrence Municipal Airport-LWM,4.2
+125,Boston,Boston,Downtown,Marlborough Airport,4.0
+126,Boston,Boston,Downtown,Marshfield Municipal Airport,3.3
+129,Boston,Boston,Downtown,Norwood Memorial Airport,3.1
+133,Boston,Boston,South Boston Waterfront,Boston Logan International Airport,3.9
+137,Boston,Boston,South Boston Waterfront,Lawrence Municipal Airport-LWM,4.2
+139,Boston,Boston,South Boston Waterfront,Marlborough Airport,4.0
+140,Boston,Boston,South Boston Waterfront,Marshfield Municipal Airport,3.3
+143,Boston,Boston,South Boston Waterfront,Norwood Memorial Airport,3.1
+147,Boston,Boston,South End,Boston Logan International Airport,3.9
+151,Boston,Boston,South End,Lawrence Municipal Airport-LWM,4.2
+153,Boston,Boston,South End,Marlborough Airport,4.0
+154,Boston,Boston,South End,Marshfield Municipal Airport,3.3
+157,Boston,Boston,South End,Norwood Memorial Airport,3.1
+160,Boston,Boston,Suffolk Downs,Boston Logan International Airport,3.9
+164,Boston,Boston,Suffolk Downs,Lawrence Municipal Airport-LWM,4.2
+166,Boston,Boston,Suffolk Downs,Marlborough Airport,4.0
+167,Boston,Boston,Suffolk Downs,Marshfield Municipal Airport,3.3
+170,Boston,Boston,Suffolk Downs,Norwood Memorial Airport,3.1
+173,Chicago,Chicago,Burnham Lakefront,Bolingbrook's Clow International Airport,4.3
+175,Chicago,Chicago,Burnham Lakefront,Chicago Executive Airport-PWK,3.9
+176,Chicago,Chicago,Burnham Lakefront,Chicago Midway International Airport,3.7
+178,Chicago,Chicago,Burnham Lakefront,Griffith-Merrillville Airport,5.0
+179,Chicago,Chicago,Burnham Lakefront,Lansing Municipal Airport,4.0
+180,Chicago,Chicago,Burnham Lakefront,Lewis University Airport,4.7
+181,Chicago,Chicago,Burnham Lakefront,O'Hare International Airport,3.6
+182,Chicago,Chicago,Burnham Lakefront,Schaumburg Airport,5.0
+187,Chicago,Chicago,City Center Campus,Bolingbrook's Clow International Airport,4.3
+189,Chicago,Chicago,City Center Campus,Chicago Executive Airport-PWK,3.9
+190,Chicago,Chicago,City Center Campus,Chicago Midway International Airport,3.7
+192,Chicago,Chicago,City Center Campus,Lansing Municipal Airport,4.0
+193,Chicago,Chicago,City Center Campus,Lewis University Airport,4.7
+194,Chicago,Chicago,City Center Campus,O'Hare International Airport,3.6
+195,Chicago,Chicago,City Center Campus,Schaumburg Airport,5.0
+200,Chicago,Chicago,Futton Market,Bolingbrook's Clow International Airport,4.3
+202,Chicago,Chicago,Futton Market,Chicago Executive Airport-PWK,3.9
+203,Chicago,Chicago,Futton Market,Chicago Midway International Airport,3.7
+205,Chicago,Chicago,Futton Market,Lansing Municipal Airport,4.0
+206,Chicago,Chicago,Futton Market,Lewis University Airport,4.7
+207,Chicago,Chicago,Futton Market,O'Hare International Airport,3.6
+208,Chicago,Chicago,Futton Market,Schaumburg Airport,5.0
+213,Chicago,Chicago,Lincoln Yards,Bolingbrook's Clow International Airport,4.3
+215,Chicago,Chicago,Lincoln Yards,Chicago Executive Airport-PWK,3.9
+216,Chicago,Chicago,Lincoln Yards,Chicago Midway International Airport,3.7
+218,Chicago,Chicago,Lincoln Yards,Lansing Municipal Airport,4.0
+219,Chicago,Chicago,Lincoln Yards,O'Hare International Airport,3.6
+220,Chicago,Chicago,Lincoln Yards,Schaumburg Airport,5.0
+224,Chicago,Chicago,The 78,Bolingbrook's Clow International Airport,4.3
+225,Chicago,Chicago,The 78,Chicago Executive Airport-PWK,3.9
+226,Chicago,Chicago,The 78,Chicago Midway International Airport,3.7
+228,Chicago,Chicago,The 78,DuPage Airport,4.7
+229,Chicago,Chicago,The 78,Lansing Municipal Airport,4.0
+230,Chicago,Chicago,The 78,Lewis University Airport,4.7
+231,Chicago,Chicago,The 78,Naper Aero Club Airport,5.0
+232,Chicago,Chicago,The 78,O'Hare International Airport,3.6
+233,Chicago,Chicago,The 78,Schaumburg Airport,5.0
+238,Chicago,Chicago,The Downtown District,Bolingbrook's Clow International Airport,4.3
+240,Chicago,Chicago,The Downtown District,Chicago Executive Airport-PWK,3.9
+241,Chicago,Chicago,The Downtown District,Chicago Midway International Airport,3.7
+243,Chicago,Chicago,The Downtown District,Lansing Municipal Airport,4.0
+244,Chicago,Chicago,The Downtown District,Lewis University Airport,4.7
+245,Chicago,Chicago,The Downtown District,O'Hare International Airport,3.6
+246,Chicago,Chicago,The Downtown District,Schaumburg Airport,5.0
+250,Chicago,Chicago,The Illinois Medical District,Bolingbrook's Clow International Airport,4.3
+251,Chicago,Chicago,The Illinois Medical District,Chicago Executive Airport-PWK,3.9
+252,Chicago,Chicago,The Illinois Medical District,Chicago Midway International Airport,3.7
+254,Chicago,Chicago,The Illinois Medical District,DuPage Airport,4.7
+255,Chicago,Chicago,The Illinois Medical District,Lansing Municipal Airport,4.0
+256,Chicago,Chicago,The Illinois Medical District,Lewis University Airport,4.7
+257,Chicago,Chicago,The Illinois Medical District,Naper Aero Club Airport,5.0
+258,Chicago,Chicago,The Illinois Medical District,O'Hare International Airport,3.6
+259,Chicago,Chicago,The Illinois Medical District,Schaumburg Airport,5.0
+264,Chicago,Chicago,The River District,Bolingbrook's Clow International Airport,4.3
+266,Chicago,Chicago,The River District,Chicago Executive Airport-PWK,3.9
+267,Chicago,Chicago,The River District,Chicago Midway International Airport,3.7
+269,Chicago,Chicago,The River District,Lansing Municipal Airport,4.0
+270,Chicago,Chicago,The River District,Lewis University Airport,4.7
+271,Chicago,Chicago,The River District,O'Hare International Airport,3.6
+272,Chicago,Chicago,The River District,Schaumburg Airport,5.0
+276,Los Angeles,Pomona,Pomona Fairplex,Brackett Field Airport,4.1
+277,Los Angeles,Pomona,Pomona Fairplex,Cable Airport,4.7
+278,Los Angeles,Pomona,Pomona Fairplex,Chino Airport,4.5
+279,Los Angeles,Pomona,Pomona Fairplex,Corona Municipal Airport,3.9
+280,Los Angeles,Pomona,Pomona Fairplex,El Monte Airport,4.3
+281,Los Angeles,Pomona,Pomona Fairplex,Flabob Airport,4.4
+282,Los Angeles,Pomona,Pomona Fairplex,Fullerton Municipal Airport,4.3
+284,Los Angeles,Pomona,Pomona Fairplex,John Wayne Airport,4.4
+285,Los Angeles,Pomona,Pomona Fairplex,LA/Ontario International Airport,4.2
+286,Los Angeles,Pomona,Pomona Fairplex,Long Beach Airport,4.4
+288,Los Angeles,Pomona,Pomona Fairplex,Riverside Municipal Airport,4.0
+289,Los Angeles,Pomona,Pomona Fairplex,San Bernardino International Airport,4.3
+293,Los Angeles,Santa Clarita,New Hall Ranch Santa Clarita Valley,Bob Hope Airport,4.4
+297,Los Angeles,Santa Clarita,New Hall Ranch Santa Clarita Valley,Palmdale Regional Airport,3.8
+298,Los Angeles,Santa Clarita,New Hall Ranch Santa Clarita Valley,Santa Paula Airport,4.9
+301,Los Angeles,Santa Clarita,New Hall Ranch Santa Clarita Valley,Van Nuys Airport,4.4
+304,Los Angeles,Woodland Hills,Warner Center West San Fernando Valley,Bob Hope Airport,4.4
+305,Los Angeles,Woodland Hills,Warner Center West San Fernando Valley,Camarillo Airport,4.9
+307,Los Angeles,Woodland Hills,Warner Center West San Fernando Valley,Compton/Woodley Airport,4.2
+308,Los Angeles,Woodland Hills,Warner Center West San Fernando Valley,Hawthorne Municipal Airport,4.3
+310,Los Angeles,Woodland Hills,Warner Center West San Fernando Valley,Los Angeles International Airport,3.5
+313,Los Angeles,Woodland Hills,Warner Center West San Fernando Valley,Van Nuys Airport,4.4
+315,New York,Brooklyn,Brooklyn Tech Triangle,Essex County Airport,4.5
+316,New York,Brooklyn,Brooklyn Tech Triangle,John F. Kennedy International Airport,3.8
+317,New York,Brooklyn,Brooklyn Tech Triangle,LaGuardia Airport,2.9
+319,New York,Brooklyn,Brooklyn Tech Triangle,Lincoln Park Airport,4.5
+320,New York,Brooklyn,Brooklyn Tech Triangle,Linden Airport,4.0
+321,New York,Brooklyn,Brooklyn Tech Triangle,Morristown Airport (MMU),4.1
+322,New York,Brooklyn,Brooklyn Tech Triangle,Newark Liberty International Airport,3.2
+324,New York,Brooklyn,Brooklyn Tech Triangle,Republic Airport,4.4
+327,New York,Brooklyn,Brooklyn Tech Triangle,Teterboro Airport,4.3
+328,New York,Brooklyn,Brooklyn Tech Triangle,Westchester County Airport,4.1
+330,New York,Long Island City,Long Island City,Essex County Airport,4.5
+331,New York,Long Island City,Long Island City,John F. Kennedy International Airport,3.8
+332,New York,Long Island City,Long Island City,LaGuardia Airport,2.9
+334,New York,Long Island City,Long Island City,Lincoln Park Airport,4.5
+335,New York,Long Island City,Long Island City,Linden Airport,4.0
+336,New York,Long Island City,Long Island City,Morristown Airport (MMU),4.1
+337,New York,Long Island City,Long Island City,Newark Liberty International Airport,3.2
+339,New York,Long Island City,Long Island City,Republic Airport,4.4
+342,New York,Long Island City,Long Island City,Teterboro Airport,4.3
+343,New York,Long Island City,Long Island City,Westchester County Airport,4.1
+345,New York,Manhattan,Financial District,Essex County Airport,4.5
+347,New York,Manhattan,Financial District,John F. Kennedy International Airport,3.8
+348,New York,Manhattan,Financial District,LaGuardia Airport,2.9
+350,New York,Manhattan,Financial District,Lincoln Park Airport,4.5
+351,New York,Manhattan,Financial District,Linden Airport,4.0
+352,New York,Manhattan,Financial District,Morristown Airport (MMU),4.1
+353,New York,Manhattan,Financial District,Newark Liberty International Airport,3.2
+357,New York,Manhattan,Financial District,Teterboro Airport,4.3
+358,New York,Manhattan,Financial District,Westchester County Airport,4.1
+360,New York,New York,Hudson Yards,Essex County Airport,4.5
+361,New York,New York,Hudson Yards,John F. Kennedy International Airport,3.8
+362,New York,New York,Hudson Yards,LaGuardia Airport,2.9
+364,New York,New York,Hudson Yards,Lincoln Park Airport,4.5
+365,New York,New York,Hudson Yards,Linden Airport,4.0
+366,New York,New York,Hudson Yards,Morristown Airport (MMU),4.1
+367,New York,New York,Hudson Yards,Newark Liberty International Airport,3.2
+369,New York,New York,Hudson Yards,Republic Airport,4.4
+372,New York,New York,Hudson Yards,Teterboro Airport,4.3
+373,New York,New York,Hudson Yards,Westchester County Airport,4.1
+376,Northern Virginia Area,Arlington,Crystal City and Potomac Yard,Baltimore/Washington International Thurgood Marshall Airport,4.0
+377,Northern Virginia Area,Arlington,Crystal City and Potomac Yard,College Park Airport - CGS,4.9
+379,Northern Virginia Area,Arlington,Crystal City and Potomac Yard,Dulles International Airport,3.9
+380,Northern Virginia Area,Arlington,Crystal City and Potomac Yard,Freeway Airport Inc,3.7
+382,Northern Virginia Area,Arlington,Crystal City and Potomac Yard,Manassas Regional Airport,4.1
+383,Northern Virginia Area,Arlington,Crystal City and Potomac Yard,Maryland Airport-2W5,3.7
+386,Northern Virginia Area,Arlington,Crystal City and Potomac Yard,Ronald Reagan Washington National Airport,3.9
+387,Northern Virginia Area,Arlington,Crystal City and Potomac Yard,Tipton Airport,5.0
+391,Northern Virginia Area,Herndon,Center for Innovation Technology,College Park Airport - CGS,4.9
+393,Northern Virginia Area,Herndon,Center for Innovation Technology,Dulles International Airport,3.9
+395,Northern Virginia Area,Herndon,Center for Innovation Technology,Leesburg Executive Airport,4.2
+396,Northern Virginia Area,Herndon,Center for Innovation Technology,Manassas Regional Airport,4.1
+399,Northern Virginia Area,Herndon,Center for Innovation Technology,Ronald Reagan Washington National Airport,3.9
+401,Northern Virginia Area,Herndon,Center for Innovation Technology,Skyview Airport,3.0
+403,Raleigh,Cary,Chatham Park,Burlington Alamance Regional Airport,4.4
+405,Raleigh,Cary,Chatham Park,Horace Williams Airport,3.4
+406,Raleigh,Cary,Chatham Park,Person County Airport-TDF,4.9
+409,Raleigh,Cary,Chatham Park,Raleigh-Durham International Airport,4.2
+412,Raleigh,Cary,Chatham Park,Siler City Municipal Airport,5.0
+415,Raleigh,Durham,Research Triangle Park,Horace Williams Airport,3.4
+416,Raleigh,Durham,Research Triangle Park,Person County Airport-TDF,4.9
+419,Raleigh,Durham,Research Triangle Park,Raleigh-Durham International Airport,4.2
+425,Raleigh,Raleigh,Warehouse District,Horace Williams Airport,3.4
+426,Raleigh,Raleigh,Warehouse District,Johnston County Airport-JNX,3.3
+429,Raleigh,Raleigh,Warehouse District,Raleigh-Durham International Airport,4.2
+435,Washington DC,Washington,Hill-East Neighborhood,Baltimore/Washington International Thurgood Marshall Airport,4.0
+436,Washington DC,Washington,Hill-East Neighborhood,College Park Airport - CGS,4.9
+438,Washington DC,Washington,Hill-East Neighborhood,Dulles International Airport,3.9
+439,Washington DC,Washington,Hill-East Neighborhood,Freeway Airport Inc,3.7
+440,Washington DC,Washington,Hill-East Neighborhood,Lee Airport-ANP,5.0
+441,Washington DC,Washington,Hill-East Neighborhood,Maryland Airport-2W5,3.7
+444,Washington DC,Washington,Hill-East Neighborhood,Ronald Reagan Washington National Airport,3.9
+445,Washington DC,Washington,Hill-East Neighborhood,Tipton Airport,5.0
+449,Washington DC,Washington,Nationals Park/ D.C United Stadium,Baltimore/Washington International Thurgood Marshall Airport,4.0
+450,Washington DC,Washington,Nationals Park/ D.C United Stadium,College Park Airport - CGS,4.9
+452,Washington DC,Washington,Nationals Park/ D.C United Stadium,Dulles International Airport,3.9
+453,Washington DC,Washington,Nationals Park/ D.C United Stadium,Freeway Airport Inc,3.7
+454,Washington DC,Washington,Nationals Park/ D.C United Stadium,Lee Airport-ANP,5.0
+456,Washington DC,Washington,Nationals Park/ D.C United Stadium,Manassas Regional Airport,4.1
+459,Washington DC,Washington,Nationals Park/ D.C United Stadium,Ronald Reagan Washington National Airport,3.9
+460,Washington DC,Washington,Nationals Park/ D.C United Stadium,Tipton Airport,5.0
+464,Washington DC,Washington,Shaw-Howard University Area,Baltimore/Washington International Thurgood Marshall Airport,4.0
+465,Washington DC,Washington,Shaw-Howard University Area,College Park Airport - CGS,4.9
+467,Washington DC,Washington,Shaw-Howard University Area,Dulles International Airport,3.9
+468,Washington DC,Washington,Shaw-Howard University Area,Freeway Airport Inc,3.7
+469,Washington DC,Washington,Shaw-Howard University Area,Lee Airport-ANP,5.0
+470,Washington DC,Washington,Shaw-Howard University Area,Manassas Regional Airport,4.1
+471,Washington DC,Washington,Shaw-Howard University Area,Maryland Airport-2W5,3.7
+474,Washington DC,Washington,Shaw-Howard University Area,Ronald Reagan Washington National Airport,3.9
+475,Washington DC,Washington,Shaw-Howard University Area,Tipton Airport,5.0
+479,Washington DC,Washington,Union Station,Baltimore/Washington International Thurgood Marshall Airport,4.0
+480,Washington DC,Washington,Union Station,College Park Airport - CGS,4.9
+482,Washington DC,Washington,Union Station,Dulles International Airport,3.9
+483,Washington DC,Washington,Union Station,Freeway Airport Inc,3.7
+484,Washington DC,Washington,Union Station,Lee Airport-ANP,5.0
+485,Washington DC,Washington,Union Station,Manassas Regional Airport,4.1
+486,Washington DC,Washington,Union Station,Maryland Airport-2W5,3.7
+489,Washington DC,Washington,Union Station,Ronald Reagan Washington National Airport,3.9
+490,Washington DC,Washington,Union Station,Tipton Airport,5.0
