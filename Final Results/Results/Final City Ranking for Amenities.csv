@@ -1,9 +1,9 @@
 ,City Name,Refreshments,Accomodations,Emergency,Errands,Fitness,Crime Rate,Total Score,Final Rank
-0,"Chicago city, Illinois",8,7,7,6,7,5,40,1
-1,"Boston city, Massachusetts",7,6,6,8,6,3,36,2
-2,"New York city, New York",3,8,8,7,8,1,35,3
-3,"Washington city, District of Columbia DC",5,1,5,5,5,7,28,4
-4,"Atlanta city, Georgia",6,2,3,3,1,8,23,5
-5,"Los Angeles city, California",2,3,4,4,4,2,19,6
-6,"Austin city, Texas",1,5,1,2,3,6,18,7
-7,"Raleigh city, North Carolina",4,4,2,1,2,4,17,8
+0,Chicago,8,7,7,6,7,5,40,1
+1,Boston,7,6,6,8,6,3,36,2
+2,New York,3,8,8,7,8,1,35,3
+3,Washington DC,5,1,5,5,5,7,28,4
+4,Atlanta,6,2,3,3,1,8,23,5
+5,Los Angeles,2,3,4,4,4,2,19,6
+6,Austin,1,5,1,2,3,6,18,7
+7,Raleigh,4,4,2,1,2,4,17,8
