@@ -1,27 +1,29 @@
 # BC_Project1
 
 Project 1 for the Boot camp
-High level project description and details :
+
+High level description and details :
 
 - Project1_Presentation.pptx
 
 ---
 
-*Objective* is to study the different characteritics of potential Amazon H2Q locations
+*Objective*, of the project is to study the different characteritics of potential Amazon H2Q locations and reach a selection of most likely candidates.
 
-*Input source* of the project is Project1_AmazonSites.xlsx. Is a shortlist of the locations to explore 
+*Input source*,  is Project1_AmazonSites.xlsx. This is a shortlist of the locations to explore 
 
-*Data analysis*  4 distinctive categories where chosen to explore. The following folders contain specif details and code on each category.
+*Data analysis*,  4 distinctive categories where chosen to be explored. The following folders contain specific details and code on each category.
 
  - Demogrphics_Indrani
  - HousingSchools
  - Transportation Data - Helen
  - Amenities_Niyati
 
-*Findings* the summary of the process followed as well as the conclusions reached are in the folder:
+*Findings*, a summary of the process followed as well as the conclusions reached are in the folder:
 
 - Final Results 
  
+---
 
 ### Technical Requirements
 
