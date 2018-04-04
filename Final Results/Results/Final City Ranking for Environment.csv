@@ -1,9 +1,9 @@
-,City Name,Climate Index,Pollution Index,Climate Score,Pollution Score
-5,"Los Angeles city, California",95.9,61.93,8,1
-2,"New York city, New York",81.13,55.7,3,2
-4,"Atlanta city, Georgia",89.74,49.74,7,3
-0,"Chicago city, Illinois",69.04,38.87,1,4
-3,"Washington city, District of Columbia DC",83.11,38.22,5,5
-6,"Austin city, Texas",82.65,33.61,4,6
-1,"Boston city, Massachusetts",72.03,23.96,2,7
-7,"Raleigh city, North Carolina",83.66,20.5,6,8
+,City,Climate Index,Pollution Index,Climate Score,Pollution Score
+5,Los Angeles,95.9,61.93,8,1
+2,New York,81.13,55.7,3,2
+4,Atlanta,89.74,49.74,7,3
+0,Chicago,69.04,38.87,1,4
+3,Washington DC,83.11,38.22,5,5
+6,Austin,82.65,33.61,4,6
+1,Boston,72.03,23.96,2,7
+7,Raleigh,83.66,20.5,6,8
