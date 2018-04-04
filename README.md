@@ -1,12 +1,29 @@
 # BC_Project1
 
 Project 1 for the Boot camp
-Project description and details :
+High level project description and details :
 
 - Project1_Presentation.pptx
-- Final Results folder contains 
 
-## Technical Requirements
+---
+
+*Objective* is to study the different characteritics of potential Amazon H2Q locations
+
+*Input source* of the project is Project1_AmazonSites.xlsx. Is a shortlist of the locations to explore 
+
+*Data analysis*  4 distinctive categories where chosen to explore. The following folders contain specif details and code on each category.
+
+ - Demogrphics_Indrani
+ - HousingSchools
+ - Transportation Data - Helen
+ - Amenities_Niyati
+
+*Findings* the summary of the process followed as well as the conclusions reached are in the folder:
+
+- Final Results 
+ 
+
+### Technical Requirements
 
 The technical requirements for Project 1 are as follows.
 
